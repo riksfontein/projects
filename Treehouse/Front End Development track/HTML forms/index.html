@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Sign Up Form</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link href='http://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+	<form action="index.html" method="post">
+		<h1>Riks's Form</h1>
+		<fieldset>
+			<legend><span class="number">1</span> Your basic info</legend>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="user_name" placeholder="Type your username">
+			<label for="email">Email:</label>
+			<input type="email" id="mail" name="user_email" placeholder="Type your emailaddress">
+			<label for="password">Password:</label>
+			<input type="password" id="password" name="user_password" placeholder="Type your password">
+			<label>Age</label>
+<input type="radio" id="under_13" name="user_age" value="under_13"><label for="under_13" class="light">Under 13</label>
+			<br>
+			<input type="radio" id="over_13" name="user_age" value="over_13"><label for="over_13" class="light">13 or older</label>
+		</fieldset>
+
+		<fieldset>
+			<legend><span class="number">2</span> Your profile</legend>
+			<label for="bio">Biography:</label>
+			<textarea name="user_bio" id="bio" cols="30" rows="10" placeholder="Type you bio here."></textarea>
+
+			<label for="job">Job role</label>
+			<select name="user_job" id="job">
+				<optgroup label="Web">
+					<option value="front_end_developer">Front end developer</option>
+					<option value="php_developer">PHP developer</option>
+					<option value="python_developer">Python developer</option>
+					<option value="rails_developer">Rails developer</option>
+					<option value="wordpress_developer">Wordpress developer</option>
+					<option value="web_designer">Web designer</option>
+				</optgroup>
+				<optgroup label="Mobile">
+					<option value="android_developer">Android developer</option>
+					<option value="ios_developer">IOS developer</option>
+				</optgroup>
+				<optgroup label="Business">
+					<option value="business_owner">Business owner</option>
+					<option value="freelance_agent">Freelance agent</option>
+				</optgroup>
+			</select>
+
+			<label>Interests:</label>
+			<input type="checkbox" id="development" name="user_interest" value="interest_development"><label for="development" class="light">Development</label>
+			<br>
+			<input type="checkbox" id="design" name="user_interest" value="interest_design"><label for="design" class="light">Design</label>
+			<br>
+			<input type="checkbox" id="business" name="user_interest" value="interest_business"><label for="business" class="light">Business</label>
+		</fieldset>
+		<button type="submit">Sign Up</button>
+	</form>
+
+
+</body>
+
+</html>
