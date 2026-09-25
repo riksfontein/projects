@@ -1,0 +1,2095 @@
+{
+ "tag": "CH02EP16",
+ "look": "ch02",
+ "start": 13,
+ "clips": [
+  {
+   "env": "the calm sea at nightfall: the corvette's silhouette with two dim lights far away on the left, a small dark patrol boat far away on the right, wide empty water between them",
+   "cast": "exactly two vessels, both distant silhouettes; no people visible",
+   "action": "past clashes hang over these waters",
+   "camera": "slow rising crane move above the dark sea between the two ships",
+   "lighting": "nightfall, deep blue-grey sky, dark calm water",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the searchlight beam from the far patrol boat sweeps back and forth once more, then goes dark"
+    ],
+    [
+     "00:03-00:07",
+     "the two distant ships hold position, dark and still, across the empty water"
+    ],
+    [
+     "00:07-00:10",
+     "the camera starts to glide down toward the corvette's silhouette"
+    ]
+   ],
+   "neg": "no gunfire, no muzzle flashes, no explosions"
+  },
+  {
+   "env": "the grey corvette cruising at steady speed on calm black sea at night, a few dim amber deck lights",
+   "cast": "exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); small crew silhouettes on deck at most, faces never visible",
+   "action": "Cheonan on her patrol rotation",
+   "camera": "a slow glide toward the corvette that becomes a lateral tracking move along her at deck height",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks, a few dim amber deck lights",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the camera glides low over the black water toward the corvette"
+    ],
+    [
+     "00:02.5-00:06.5",
+     "tracking along her grey hull at deck height; a few dim amber deck lights"
+    ],
+    [
+     "00:06.5-00:10",
+     "small crew silhouettes walk slowly along the deck railing, faces never visible"
+    ]
+   ]
+  },
+  {
+   "env": "the grey corvette cruising at steady speed on calm black sea at night, a few dim amber deck lights -- then -- the dim bridge of the corvette at night: steel consoles, a wide dark window onto the black sea, one round green radar display with a slow sweeping line",
+   "cast": "exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); small crew silhouettes on deck at most, faces never visible (until 00:02); then exactly two crew silhouettes seen from behind at the consoles, faces never visible",
+   "action": "a normal night watch",
+   "camera": "the tracking move rises to the bridge windows, then a slow push-in inside the dim bridge",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks, a few dim amber deck lights; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the tracking continues along the dark hull toward the lit bridge windows"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the camera rises to the bridge windows and glides through the glass into the dim bridge"
+    ],
+    [
+     "00:03.5-00:06.5",
+     "two crew silhouettes stand at the consoles; a round green radar display sweeps slowly"
+    ],
+    [
+     "00:06.5-00:10",
+     "through the wide dark window the calm black sea slides by"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no readable screens, no numbers, no letters on displays or consoles"
+  },
+  {
+   "env": "the dim bridge of the corvette at night: steel consoles, a wide dark window onto the black sea, one round green radar display with a slow sweeping line",
+   "cast": "exactly two crew silhouettes seen from behind at the consoles, faces never visible",
+   "action": "no warning of anything different",
+   "camera": "slow push-in past the two crew toward the radar display",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:03",
+     "one crewman leans toward the radar display, calm and still"
+    ],
+    [
+     "00:03-00:08",
+     "the radar line sweeps over an empty green screen; nothing appears on it"
+    ],
+    [
+     "00:08-00:10",
+     "the push-in continues toward the dark window"
+    ]
+   ],
+   "neg": "no readable screens, no numbers, no letters on displays or consoles"
+  },
+  {
+   "env": "the dim bridge of the corvette at night: steel consoles, a wide dark window onto the black sea, one round green radar display with a slow sweeping line -- then -- near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "exactly two crew silhouettes seen from behind at the consoles, faces never visible (until 00:00.5); then exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "the hunter below the hunter",
+   "camera": "a glide out through the dark window and down beneath the surface, then a slow descent toward the seabed",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow; then near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:00.5",
+     "the push-in reaches the dark window"
+    ],
+    [
+     "00:00.5-00:02",
+     "without any cut the camera glides out through the window and down into the black water beneath the ship"
+    ],
+    [
+     "00:02-00:04",
+     "near darkness below the keel; the corvette's hull a faint shape above"
+    ],
+    [
+     "00:04-00:10",
+     "far below near the rocky seabed a small dark midget submarine glides slowly and silently in the same direction"
+    ]
+   ],
+   "change_at": 0.5,
+   "neg": "no readable screens, no numbers, no letters on displays or consoles, no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt -- then -- the grey corvette cruising slowly between small rocky islets in shallow green-grey coastal water under an overcast sky",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people (until 00:00); then exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); no people visible",
+   "action": "built for shallow coastal water",
+   "camera": "a steady rise to the surface, then a low tracking move along the corvette's waterline",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles; then Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the camera rises steadily to the surface and breaks through into grey overcast daylight"
+    ],
+    [
+     "00:01.5-00:06.5",
+     "the corvette threads slowly between small rocky islets in shallow green-grey water"
+    ],
+    [
+     "00:06.5-00:10",
+     "the camera tracks low along her waterline; dark rocks show just beneath the surface"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "the grey corvette cruising slowly between small rocky islets in shallow green-grey coastal water under an overcast sky -- then -- near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); no people visible (until 00:02); then exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "a small submarine hides in the clutter",
+   "camera": "the tracking move dips beneath the surface into a slow glide over the cluttered seabed",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray; then near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the tracking continues along the waterline past the rocks"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the camera dips beneath the surface into murky water"
+    ],
+    [
+     "00:03.5-00:08",
+     "a slow glide over a cluttered rocky seabed; between two boulders a small dark submarine lies still, almost invisible"
+    ],
+    [
+     "00:08-00:10",
+     "the glide continues past it"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people (until 00:00); then exactly one sonar operator seen from behind, headphones on, face never visible",
+   "action": "the acoustic picture is quiet",
+   "camera": "the glide rises into darkness that opens onto the sonar compartment, then a slow push-in",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the camera rises into darkness; the darkness opens onto a dim sonar compartment"
+    ],
+    [
+     "00:01.5-00:06.5",
+     "the sonar operator sits still, headphones on; the round green display shows only a soft sweeping line and faint noise"
+    ],
+    [
+     "00:06.5-00:10",
+     "slow push-in to the display; nothing appears on it"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no torpedo launch, no markings, no divers, no readable screens, no numbers, no letters on displays or consoles",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel -- then -- the night sea: the corvette seen side-on at a distance on calm black water; beside her stern a column of white water rises and falls exactly as the beats describe",
+   "cast": "exactly one sonar operator seen from behind, headphones on, face never visible (until 00:01.5); then exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); no people visible",
+   "action": "21:22 - the explosion",
+   "camera": "a slow pull-back out of the compartment into the night, then a steady lateral drift at wave height",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow; then night: faint moonlight through thin cloud, deep night blues, crushed blacks",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "the push-in continues on the quiet green display"
+    ],
+    [
+     "00:01.5-00:03",
+     "without any cut the camera pulls back through the darkness and the view opens onto the night sea: the corvette at a distance"
+    ],
+    [
+     "00:03-00:07",
+     "a tall white column of seawater rises silently beside her stern"
+    ],
+    [
+     "00:07-00:10",
+     "the column keeps climbing slowly into the night air"
+    ]
+   ],
+   "change_at": 1.5,
+   "neg": "no readable screens, no numbers, no letters on displays or consoles, no fire, no flash, no fireball, no debris, no people in the water"
+  },
+  {
+   "env": "the night sea: the corvette seen side-on at a distance on calm black water; beside her stern a column of white water rises and falls exactly as the beats describe",
+   "cast": "exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); no people visible",
+   "action": "not internal, not a collision - a force from below",
+   "camera": "the same steady lateral drift at wave height",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the column of water hangs in the air; the sea around the stern churns white"
+    ],
+    [
+     "00:04-00:08.5",
+     "the column falls back into the sea as drifting mist; the corvette's lights go out"
+    ],
+    [
+     "00:08.5-00:10",
+     "the mist drifts across the dark water"
+    ]
+   ],
+   "neg": "no fire, no flash, no fireball, no debris, no people in the water"
+  },
+  {
+   "env": "the night sea: the corvette seen side-on at a distance on calm black water; beside her stern a column of white water rises and falls exactly as the beats describe -- then -- the night sea after the blast: the corvette's two separate hull sections, the bow section still afloat and tilted, the stern section low in the water, drifting mist",
+   "cast": "exactly one corvette (low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no hull numbers); no people visible (until 00:00); then exactly two hull sections of one ship; at most a few sailor silhouettes in life vests on the bow, faces never visible",
+   "action": "the corvette broke in two",
+   "camera": "the lateral drift continues slowly through the thinning mist",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks; then night: faint moonlight through thin cloud, deep night blues, crushed blacks",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the mist thins and reveals the aftermath"
+    ],
+    [
+     "00:01.5-00:07",
+     "two separate hull sections: the bow section afloat and tilted, the stern section low in the water"
+    ],
+    [
+     "00:07-00:10",
+     "the stern section settles lower until only its top edge shows; the camera keeps drifting"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no fire, no flash, no fireball, no debris, no people in the water, no fire, no bodies, no blood, no explosion flash"
+  },
+  {
+   "env": "the night sea after the blast: the corvette's two separate hull sections, the bow section still afloat and tilted, the stern section low in the water, drifting mist",
+   "cast": "exactly two hull sections of one ship; at most a few sailor silhouettes in life vests on the bow, faces never visible",
+   "action": "those on deck survived",
+   "camera": "slow lateral drift at wave height along the tilted bow section",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks",
+   "beats": [
+    [
+     "00:00-00:06",
+     "close along the tilted bow section: dark open hatches, black water lapping at the deck edge"
+    ],
+    [
+     "00:06-00:10",
+     "exactly four sailor silhouettes in life vests hold the railing on the high side of the bow, faces never visible"
+    ]
+   ],
+   "neg": "no fire, no bodies, no blood, no explosion flash"
+  },
+  {
+   "env": "the night sea after the blast: the corvette's two separate hull sections, the bow section still afloat and tilted, the stern section low in the water, drifting mist -- then -- the night sea around the floating bow section: hard white searchlight beams sweeping the black water, cold mist",
+   "cast": "exactly two hull sections of one ship; at most a few sailor silhouettes in life vests on the bow, faces never visible (until 00:02.5); then the floating bow section; exactly two small rescue boats with silhouetted crews in life vests; exactly one rescue helicopter; faces never visible",
+   "action": "chaos in the first minutes",
+   "camera": "the drift widens into a slow pull-back as searchlights sweep in",
+   "lighting": "night: faint moonlight through thin cloud, deep night blues, crushed blacks; then night: hard white searchlight beams, dark water, cold mist",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the four silhouettes hold the railing; water laps below them"
+    ],
+    [
+     "00:02.5-00:04",
+     "without any cut a searchlight beam sweeps across the frame and the view widens"
+    ],
+    [
+     "00:04-00:10",
+     "two small rescue boats with silhouetted crews approach the floating bow section through the dark, searchlights sweeping"
+    ]
+   ],
+   "change_at": 2.5,
+   "neg": "no fire, no bodies, no blood, no explosion flash, no bodies, no blood, no fire"
+  },
+  {
+   "env": "the night sea around the floating bow section: hard white searchlight beams sweeping the black water, cold mist",
+   "cast": "the floating bow section; exactly two small rescue boats with silhouetted crews in life vests; exactly one rescue helicopter; faces never visible",
+   "action": "no one knew what caused it",
+   "camera": "slow rising move above the rescue scene",
+   "lighting": "night: hard white searchlight beams, dark water, cold mist",
+   "beats": [
+    [
+     "00:00-00:06",
+     "a rescue helicopter hovers above, its searchlight circling the black water"
+    ],
+    [
+     "00:06-00:10",
+     "the searchlight passes over empty dark water around the bow section"
+    ]
+   ],
+   "neg": "no bodies, no blood, no fire"
+  },
+  {
+   "env": "the night sea around the floating bow section: hard white searchlight beams sweeping the black water, cold mist",
+   "cast": "the floating bow section; exactly two small rescue boats with silhouetted crews in life vests; exactly one rescue helicopter; faces never visible",
+   "action": "too precise for an accident",
+   "camera": "slow lateral drift along the waterline of the bow section",
+   "lighting": "night: hard white searchlight beams, dark water, cold mist",
+   "beats": [
+    [
+     "00:00-00:04",
+     "a searchlight lingers on the tilted bow section"
+    ],
+    [
+     "00:04-00:10",
+     "the beam moves slowly along the waterline to where the bow section ends in torn steel"
+    ]
+   ],
+   "neg": "no bodies, no blood, no fire"
+  },
+  {
+   "env": "the night sea around the floating bow section: hard white searchlight beams sweeping the black water, cold mist",
+   "cast": "the floating bow section; exactly two small rescue boats with silhouetted crews in life vests; exactly one rescue helicopter; faces never visible",
+   "action": "fifty-eight rescued, forty-six lost",
+   "camera": "slow push-in toward a rescue boat beside the bow",
+   "lighting": "night: hard white searchlight beams, dark water, cold mist",
+   "beats": [
+    [
+     "00:00-00:07",
+     "rescuers in a small boat help silhouetted sailors down from the bow section's railing into the boat"
+    ],
+    [
+     "00:07-00:10",
+     "the boat pulls slowly away; a searchlight lingers on the dark, empty water"
+    ]
+   ],
+   "neg": "no bodies, no blood, no fire"
+  },
+  {
+   "env": "the night sea around the floating bow section: hard white searchlight beams sweeping the black water, cold mist -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the floating bow section; exactly two small rescue boats with silhouetted crews in life vests; exactly one rescue helicopter; faces never visible (until 00:01); then the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "the stern settles on the seabed; divers go down",
+   "camera": "a sinking descent beneath the surface, then a slow glide down toward the seabed",
+   "lighting": "night: hard white searchlight beams, dark water, cold mist; then Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:01",
+     "the searchlights keep sweeping the dark water"
+    ],
+    [
+     "00:01-00:02.5",
+     "without any cut the camera sinks beneath the black surface"
+    ],
+    [
+     "00:02.5-00:05.5",
+     "far below in torch-lit darkness the broken stern section rests on the muddy seabed, silt settling around it"
+    ],
+    [
+     "00:05.5-00:10",
+     "from above, a diver descends on a rope line into the dark water, torch beam cutting through marine snow"
+    ]
+   ],
+   "change_at": 1.0,
+   "neg": "no bodies, no blood, no fire, no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "searching flooded compartments in cold, strong current",
+   "camera": "slow glide along the stern section",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03",
+     "two divers reach the stern section and shine their torches into a dark flooded hatch"
+    ],
+    [
+     "00:03-00:06.5",
+     "silt streams sideways across the torch beams in a strong current; the divers hold on to the torn hull"
+    ],
+    [
+     "00:06.5-00:10",
+     "the torch beams search the black interior; nothing moves"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "the ship was gone",
+   "camera": "slow pull-back from the stern section",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the divers' torches fade as the camera pulls back from the stern section into the dark"
+    ],
+    [
+     "00:04-00:10",
+     "the whole broken stern lies alone on the seabed, its torn edge facing the camera, marine snow falling"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "what weapon could do this",
+   "camera": "slow push-in toward the torn edge",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:06.5",
+     "slow push-in toward the torn, jagged edge of the stern section in faint light"
+    ],
+    [
+     "00:06.5-00:10",
+     "the push-in continues along the torn steel"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it -- then -- high above the grey sea at dawn: a low barren rocky island below, and far away on the horizon a long dark coastline",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible (until 00:00); then exactly two tiny patrol boats far apart on the water; no people visible",
+   "action": "the location mattered",
+   "camera": "a steady rise up through the water and high into the dawn sky, then a slow aerial drift",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow; then overcast dawn, soft grey light, haze on the horizon",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the camera rises up through the dark water, through the surface and high into the grey dawn sky"
+    ],
+    [
+     "00:01.5-00:07",
+     "high aerial view: the low barren island below, a dark coastline far away on the horizon"
+    ],
+    [
+     "00:07-00:10",
+     "slow aerial drift toward the horizon; two tiny patrol boats sit far apart on the grey water"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "high above the grey sea at dawn: a low barren rocky island below, and far away on the horizon a long dark coastline",
+   "cast": "exactly two tiny patrol boats far apart on the water; no people visible",
+   "action": "contact usually means warning shots and ramming",
+   "camera": "a slow aerial glide lower toward the two boats",
+   "lighting": "overcast dawn, soft grey light, haze on the horizon",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the camera glides lower as the two small patrol boats turn slowly toward each other, wakes curving"
+    ],
+    [
+     "00:04.5-00:10",
+     "they stop far apart and hold position; the grey water between them is empty and calm"
+    ]
+   ]
+  },
+  {
+   "env": "high above the grey sea at dawn: a low barren rocky island below, and far away on the horizon a long dark coastline -- then -- murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt",
+   "cast": "exactly two tiny patrol boats far apart on the water; no people visible (until 00:04); then exactly one sea mine; no people, no divers",
+   "action": "a mine hits by chance - this blast was aimed",
+   "camera": "the aerial glide tilts down and sinks beneath the surface, then a slow drift toward the mine",
+   "lighting": "overcast dawn, soft grey light, haze on the horizon; then murky filtered light, suspended particles",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the two boats hold position far apart on the calm water"
+    ],
+    [
+     "00:04-00:05.5",
+     "without any cut the camera tilts down and sinks beneath the surface into murky water"
+    ],
+    [
+     "00:05.5-00:10",
+     "an old rusted spiked sea mine sways slowly on its chain in the murk, going nowhere"
+    ]
+   ],
+   "change_at": 4.0,
+   "rigid": "the mine keeps its exact shape; it never explodes"
+  },
+  {
+   "env": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "cast": "exactly one sea mine; no people, no divers (until 00:00); then exactly four officer silhouettes standing around the table, faces never visible",
+   "action": "a choice for naval command",
+   "camera": "the murk darkens into a dim command room, then a slow push-in toward the chart table",
+   "lighting": "murky filtered light, suspended particles; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the murky water darkens and opens onto a dim command room"
+    ],
+    [
+     "00:01.5-00:07.5",
+     "slow push-in toward four officer silhouettes standing around a large table with a blank sea chart"
+    ],
+    [
+     "00:07.5-00:10",
+     "one officer leans forward over the chart, otherwise motionless"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no readable text on the chart, no numbers, no flags",
+   "rigid": "the mine keeps its exact shape; it never explodes"
+  },
+  {
+   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "cast": "exactly four officer silhouettes standing around the table, faces never visible",
+   "action": "accident or attack",
+   "camera": "slow arc around the chart table",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the arc passes behind the officers; the lamp light falls on the blank chart"
+    ],
+    [
+     "00:04-00:10",
+     "a single small black marker stands on the chart beside the island's outline"
+    ]
+   ],
+   "neg": "no readable text on the chart, no numbers, no flags"
+  },
+  {
+   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "cast": "exactly four officer silhouettes standing around the table, faces never visible",
+   "action": "they chose to raise the ship",
+   "camera": "the slow arc continues",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:07",
+     "the four officers stand still around the chart as the arc continues"
+    ],
+    [
+     "00:07-00:10",
+     "the arc comes round to the marker on the chart"
+    ]
+   ],
+   "neg": "no readable text on the chart, no numbers, no flags"
+  },
+  {
+   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "exactly four officer silhouettes standing around the table, faces never visible (until 00:00); then the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "45 metres down; recovery begins",
+   "camera": "the lamp light fades and the view sinks into deep water, then a slow descent toward the stern",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow; then Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the lamp light fades and the view sinks through dark water down to the seabed"
+    ],
+    [
+     "00:01.5-00:04",
+     "the broken stern lies on the muddy seabed in faint light"
+    ],
+    [
+     "00:04-00:10",
+     "two divers descend along a guide rope toward it, torch beams sweeping"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no readable text on the chart, no numbers, no flags, no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "preserving evidence",
+   "camera": "slow glide alongside the divers",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03.5",
+     "the divers glide slowly along the hull, torches held low"
+    ],
+    [
+     "00:03.5-00:10",
+     "one diver sets a small yellow marker buoy on the silt beside a fragment of steel"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "a crime scene; the lift begins",
+   "camera": "a slow tilt up from the torn edge toward the surface far above",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03",
+     "a diver holds a torch on the torn steel edge"
+    ],
+    [
+     "00:03-00:06.5",
+     "the camera tilts up: a heavy lifting cable descends from the pale surface far above"
+    ],
+    [
+     "00:06.5-00:10",
+     "the cable's big hook reaches the stern section; the divers guide it slowly"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "divers mapping, photographing, collecting",
+   "camera": "slow lateral glide over the wreck and the debris field",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03.5",
+     "divers pass heavy chains under the stern section"
+    ],
+    [
+     "00:03.5-00:06.5",
+     "other divers swim in a line over the debris field, torches sweeping"
+    ],
+    [
+     "00:06.5-00:10",
+     "a diver lifts a small metal fragment from the silt into a mesh bag"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible",
+   "action": "murky water, poor visibility",
+   "camera": "slow push-in through the silt haze",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03.5",
+     "silt clouds rise and the torch beams turn into short hazy cones"
+    ],
+    [
+     "00:03.5-00:10",
+     "a diver feels along the jagged steel with gloved hands in the haze"
+    ]
+   ],
+   "neg": "no bodies, no readable markings",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it -- then -- overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby",
+   "cast": "the stern section; exactly two divers seen from behind, masks on, faces never visible (until 00:04); then exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible",
+   "action": "the stern is raised first",
+   "camera": "a rise along the taut chains up to the surface, then a slow wide move around the crane barge",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow; then Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the silt haze drifts over the broken hull; the chains above go taut"
+    ],
+    [
+     "00:04-00:05.5",
+     "without any cut the camera rises along the taut chains up through the water and breaks the surface"
+    ],
+    [
+     "00:05.5-00:10",
+     "the crane barge lifts the broken stern section out of the grey sea, water pouring off the torn steel"
+    ]
+   ],
+   "change_at": 4.0,
+   "neg": "no bodies, no readable markings, no text or numbers on the barge, no flags",
+   "rigid": "the stern section is rigid and never moves"
+  },
+  {
+   "env": "overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby",
+   "cast": "exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible",
+   "action": "the metal was bent outward",
+   "camera": "slow push-in toward the lifted section",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:04",
+     "on the barge deck, silhouetted investigators in hard hats watch the stern section rise"
+    ],
+    [
+     "00:04-00:10",
+     "slow push-in to the torn edge: thick steel plates bent outward, peeled away from the hull"
+    ]
+   ],
+   "neg": "no text or numbers on the barge, no flags"
+  },
+  {
+   "env": "overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby",
+   "cast": "exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible",
+   "action": "a single point of impact from below",
+   "camera": "the push-in continues, then tilts down beneath the lifted section",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the push-in continues along the outward-bent plates"
+    ],
+    [
+     "00:02.5-00:10",
+     "the camera tilts down beneath the lifted section: the keel is bent upward at one point, the damage centred there"
+    ]
+   ],
+   "neg": "no text or numbers on the barge, no flags"
+  },
+  {
+   "env": "overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby",
+   "cast": "exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible",
+   "action": "the signature of an underwater explosion",
+   "camera": "slow glide under the section along the keel",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the camera glides slowly under the section along the upward-bent keel, water dripping from it"
+    ],
+    [
+     "00:05-00:10",
+     "the bend rises to a single peak where the keel was pushed upward"
+    ]
+   ],
+   "neg": "no text or numbers on the barge, no flags"
+  },
+  {
+   "env": "overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby",
+   "cast": "exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible",
+   "action": "a message written in steel",
+   "camera": "slow pull-back to a wide view of the barge",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:03.5",
+     "wide view: the lifted stern section hangs from the crane above the barge deck, grey sea around"
+    ],
+    [
+     "00:03.5-00:10",
+     "the section is lowered slowly onto blocks on the deck; small investigator silhouettes walk toward it"
+    ]
+   ],
+   "neg": "no text or numbers on the barge, no flags"
+  },
+  {
+   "env": "overcast grey sea by day: a large floating crane barge with a tall crane and heavy cables above the wreck site, small workboats nearby -- then -- a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers",
+   "cast": "exactly one crane barge, exactly two small workboats, silhouetted workers in hard hats on deck, faces never visible (until 00:02); then no people, no hands",
+   "action": "recovery becomes investigation",
+   "camera": "a push-in on a torn steel fragment that carries on into a lamp-lit evidence table",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the camera moves in close to a torn steel fragment on the barge deck"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the grey daylight gives way to a single hard lamp over a plain evidence table"
+    ],
+    [
+     "00:03.5-00:10",
+     "on the table: fragments in clear plastic bags with blank white tags, a torn bent piece of hull steel, a ruler"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no text or numbers on the barge, no flags, no writing on tags or bags, no readable documents",
+   "rigid": "every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers",
+   "cast": "no people, no hands",
+   "action": "a physical record in the steel",
+   "camera": "slow push-in, then a slow lateral drift along the table",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow push-in to the torn steel under the lamp: bent grain, blackened edge"
+    ],
+    [
+     "00:04-00:10",
+     "slow lateral drift along a row of bagged fragments with blank tags, neatly aligned"
+    ]
+   ],
+   "neg": "no writing on tags or bags, no readable documents",
+   "rigid": "every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers",
+   "cast": "no people, no hands",
+   "action": "retrieving the story",
+   "camera": "the lateral drift continues, then a slow rise above the table",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:07",
+     "the drift continues along the row of bagged fragments"
+    ],
+    [
+     "00:07-00:10",
+     "the camera rises slowly above the table: dozens of bagged fragments laid out in rows"
+    ]
+   ],
+   "neg": "no writing on tags or bags, no readable documents",
+   "rigid": "every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers -- then -- a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "no people, no hands (until 00:03); then exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "the bow is raised; two halves on the dock",
+   "camera": "the rise continues and the lamp light widens into daylight over a naval dock",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the camera keeps rising above the rows of evidence"
+    ],
+    [
+     "00:03-00:04.5",
+     "without any cut the lamp light widens into flat grey daylight over a naval dock"
+    ],
+    [
+     "00:04.5-00:10",
+     "on the dock the raised bow section rests on blocks, a crane standing beside it"
+    ]
+   ],
+   "change_at": 3.0,
+   "neg": "no writing on tags or bags, no readable documents, no hull numbers, no text, no flags",
+   "rigid": "every object on the table is rigid and stays in place; the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "the full geometry of the destruction",
+   "camera": "slow rising crane move along the dock",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:06",
+     "the camera rises: bow and stern sections lie side by side on blocks with a wide clean gap between them, small investigator silhouettes between them"
+    ],
+    [
+     "00:06-00:10",
+     "from higher up the two halves look like one ship cut in two"
+    ]
+   ],
+   "neg": "no hull numbers, no text, no flags",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "a clean gap, as if sliced",
+   "camera": "a slow descent into the gap, then a glide along the torn edge",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the camera descends into the gap between the two halves, torn edges on both sides"
+    ],
+    [
+     "00:04-00:10",
+     "a slow glide along the torn edge: a long, almost straight line through the hull"
+    ]
+   ],
+   "neg": "no hull numbers, no text, no flags",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "an international investigation group",
+   "camera": "the glide continues, then a slow pull-back along the quay",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:03.5",
+     "the glide continues along the torn edge"
+    ],
+    [
+     "00:03.5-00:10",
+     "exactly six investigator silhouettes in different coats walk slowly along the dock toward the hull sections"
+    ]
+   ],
+   "neg": "no hull numbers, no text, no flags",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "United States, United Kingdom, Australia, Sweden",
+   "camera": "slow arc around the group of investigators",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the six investigators stop beside the hull and look up at it"
+    ],
+    [
+     "00:03-00:10",
+     "slow arc around the group, the torn hull towering behind them"
+    ]
+   ],
+   "neg": "no hull numbers, no text, no flags",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "outside eyes for legitimacy",
+   "camera": "the slow arc continues",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:07.5",
+     "two investigators point up at the bent steel; another stretches a long measuring tape along the hull"
+    ],
+    [
+     "00:07.5-00:10",
+     "the arc continues slowly past the group"
+    ]
+   ],
+   "neg": "no hull numbers, no text, no flags",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them -- then -- a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible (until 00:02); then no people, no hands",
+   "action": "neutral forensic rigour",
+   "camera": "a push-in on the torn steel that carries on into the lamp-lit evidence table",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the arc passes close to the torn steel"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the steel fills the frame and the daylight gives way to a single hard lamp"
+    ],
+    [
+     "00:03.5-00:10",
+     "calipers rest on a fragment on the evidence table; the lamp light rakes across its bent surface"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no hull numbers, no text, no flags, no writing on tags or bags, no readable documents",
+   "rigid": "the hull sections are rigid and never move; every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers -- then -- underwater at night beneath the long dark hull of a ship seen from below, still black water",
+   "cast": "no people, no hands (until 00:05.5); then one ship's hull seen from below; no people",
+   "action": "external and underwater",
+   "camera": "a slow push-in over the table whose lamp light dims into deep water beneath a ship",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:05.5",
+     "slow push-in over the evidence table, fragments in rows"
+    ],
+    [
+     "00:05.5-00:07",
+     "without any cut the lamp light dims to darkness and the view becomes deep water"
+    ],
+    [
+     "00:07-00:10",
+     "above, the long dark hull of a ship seen from underneath; the water is still"
+    ]
+   ],
+   "change_at": 5.5,
+   "neg": "no writing on tags or bags, no readable documents, no fire, no flash, no debris",
+   "rigid": "every object on the table is rigid and stays in place; the hull is rigid"
+  },
+  {
+   "env": "underwater at night beneath the long dark hull of a ship seen from below, still black water",
+   "cast": "one ship's hull seen from below; no people",
+   "action": "below the waterline, near the stern",
+   "camera": "slow glide beneath the hull toward the stern",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the camera glides slowly beneath the long dark hull toward the stern"
+    ],
+    [
+     "00:03-00:07",
+     "under the stern: the dark shapes of propellers and rudder"
+    ],
+    [
+     "00:07-00:10",
+     "a faint pale point of light appears in the water below the keel"
+    ]
+   ],
+   "neg": "no fire, no flash, no debris",
+   "rigid": "the hull is rigid"
+  },
+  {
+   "env": "underwater at night beneath the dark keel of a ship seen from below; in the black water below the keel one gas bubble grows and collapses exactly as the beats describe",
+   "cast": "one ship's hull seen from below and exactly one gas bubble; no people",
+   "action": "force directed upward",
+   "camera": "a slow upward tilt along the keel",
+   "lighting": "near darkness, the bubble lit from within by a soft pale glow",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the camera tilts up along the keel toward the engine spaces"
+    ],
+    [
+     "00:04-00:10",
+     "below the keel the pale point grows into a small glowing sphere of gas, silent"
+    ]
+   ],
+   "neg": "no fire, no flash, no debris, no torpedo visible",
+   "rigid": "the hull stays rigid except at the one point where the water jet strikes"
+  },
+  {
+   "env": "underwater at night beneath the dark keel of a ship seen from below; in the black water below the keel one gas bubble grows and collapses exactly as the beats describe",
+   "cast": "one ship's hull seen from below and exactly one gas bubble; no people",
+   "action": "the bubble-jet effect",
+   "camera": "slow steady drift beside the bubble",
+   "lighting": "near darkness, the bubble lit from within by a soft pale glow",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the gas bubble swells slowly beneath the keel into a huge dark sphere with a pale glowing rim"
+    ],
+    [
+     "00:05-00:10",
+     "the bubble keeps expanding without touching the hull; the hull above stays rigid"
+    ]
+   ],
+   "neg": "no fire, no flash, no debris, no torpedo visible",
+   "rigid": "the hull stays rigid except at the one point where the water jet strikes"
+  },
+  {
+   "env": "underwater at night beneath the dark keel of a ship seen from below; in the black water below the keel one gas bubble grows and collapses exactly as the beats describe",
+   "cast": "one ship's hull seen from below and exactly one gas bubble; no people",
+   "action": "the bubble collapses",
+   "camera": "slow steady drift beside the bubble",
+   "lighting": "near darkness, the bubble lit from within by a soft pale glow",
+   "beats": [
+    [
+     "00:00-00:06",
+     "the bubble reaches its full size, then slowly collapses inward"
+    ],
+    [
+     "00:06-00:10",
+     "as it collapses, a narrow white jet of water forms at its top, pointing up at the keel"
+    ]
+   ],
+   "neg": "no fire, no flash, no debris, no torpedo visible",
+   "rigid": "the hull stays rigid except at the one point where the water jet strikes"
+  },
+  {
+   "env": "underwater at night beneath the dark keel of a ship seen from below; in the black water below the keel one gas bubble grows and collapses exactly as the beats describe",
+   "cast": "one ship's hull seen from below and exactly one gas bubble; no people",
+   "action": "the jet snaps the keel",
+   "camera": "slow steady drift beneath the keel",
+   "lighting": "near darkness, the bubble lit from within by a soft pale glow",
+   "beats": [
+    [
+     "00:00-00:06.5",
+     "the white jet punches straight up into the keel and the hull bends upward at that one point"
+    ],
+    [
+     "00:06.5-00:10",
+     "the water clears; the upward bend in the keel remains; the camera keeps gliding"
+    ]
+   ],
+   "neg": "no fire, no flash, no debris, no torpedo visible",
+   "rigid": "the hull stays rigid except at the one point where the water jet strikes"
+  },
+  {
+   "env": "underwater at night beneath the dark keel of a ship seen from below; in the black water below the keel one gas bubble grows and collapses exactly as the beats describe -- then -- the muddy seabed in torch light: a scattered debris field of small twisted metal fragments, wire and machined parts, small yellow marker buoys on the silt",
+   "cast": "one ship's hull seen from below and exactly one gas bubble; no people (until 00:00); then exactly two divers seen from behind, faces never visible",
+   "action": "the evidence in the debris",
+   "camera": "the dark water opens onto the torch-lit seabed, then a slow glide over the debris field",
+   "lighting": "near darkness, the bubble lit from within by a soft pale glow; then Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the dark water opens onto the torch-lit seabed"
+    ],
+    [
+     "00:01.5-00:10",
+     "slow glide over the debris field; small yellow marker buoys stand on the silt"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no fire, no flash, no debris, no torpedo visible, no readable markings",
+   "rigid": "the hull stays rigid except at the one point where the water jet strikes"
+  },
+  {
+   "env": "the muddy seabed in torch light: a scattered debris field of small twisted metal fragments, wire and machined parts, small yellow marker buoys on the silt",
+   "cast": "exactly two divers seen from behind, faces never visible",
+   "action": "they knew what to look for",
+   "camera": "slow glide alongside the two divers",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:05.5",
+     "two divers sweep their torches across the silt in a slow grid"
+    ],
+    [
+     "00:05.5-00:10",
+     "one diver stops and points a torch at a small twisted piece of metal"
+    ]
+   ],
+   "neg": "no readable markings"
+  },
+  {
+   "env": "the muddy seabed in torch light: a scattered debris field of small twisted metal fragments, wire and machined parts, small yellow marker buoys on the silt",
+   "cast": "exactly two divers seen from behind, faces never visible",
+   "action": "pieces that did not belong to the ship",
+   "camera": "slow push-in, then a slow lateral move along the silt",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:03",
+     "close on the twisted metal, different from the grey hull steel"
+    ],
+    [
+     "00:03-00:10",
+     "the torch beam moves across a coil of thin wire and small machined parts half-buried in silt"
+    ]
+   ],
+   "neg": "no readable markings"
+  },
+  {
+   "env": "the muddy seabed in torch light: a scattered debris field of small twisted metal fragments, wire and machined parts, small yellow marker buoys on the silt -- then -- dark open water: a long dark torpedo gliding silently, a faint trail of tiny bubbles behind its propeller",
+   "cast": "exactly two divers seen from behind, faces never visible (until 00:05); then exactly one torpedo; no people",
+   "action": "a CHT-02D torpedo",
+   "camera": "the torch beam fades and the camera glides off into dark open water, then a slow tracking move",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow; then near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the torch beam lingers on the machined parts in the silt"
+    ],
+    [
+     "00:05-00:06.5",
+     "without any cut the torch beam fades and the camera glides off into dark open water"
+    ],
+    [
+     "00:06.5-00:10",
+     "a long dark torpedo slides past through the gloom, its propeller turning slowly"
+    ]
+   ],
+   "change_at": 5.0,
+   "neg": "no readable markings, no explosion, no markings, no text",
+   "rigid": "the torpedo keeps its exact shape and size"
+  },
+  {
+   "env": "dark open water: a long dark torpedo gliding silently, a faint trail of tiny bubbles behind its propeller",
+   "cast": "exactly one torpedo; no people",
+   "action": "a bubble-jet, wake-homing weapon",
+   "camera": "slow tracking alongside the torpedo",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:08",
+     "the torpedo runs straight and steady through the dark water, a faint trail of tiny bubbles behind the propeller"
+    ],
+    [
+     "00:08-00:10",
+     "far ahead and above, the pale churning wake of a ship's propellers comes into view"
+    ]
+   ],
+   "neg": "no explosion, no markings, no text",
+   "rigid": "the torpedo keeps its exact shape and size"
+  },
+  {
+   "env": "dark open water: a long dark torpedo gliding silently, a faint trail of tiny bubbles behind its propeller",
+   "cast": "exactly one torpedo; no people",
+   "action": "it follows the wake to the stern",
+   "camera": "the tracking move follows the torpedo upward",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:07",
+     "the torpedo turns gently and follows the churning wake upward toward the dark stern of a ship above"
+    ],
+    [
+     "00:07-00:10",
+     "it glides on beneath the stern's silhouette"
+    ]
+   ],
+   "neg": "no explosion, no markings, no text",
+   "rigid": "the torpedo keeps its exact shape and size"
+  },
+  {
+   "env": "dark open water: a long dark torpedo gliding silently, a faint trail of tiny bubbles behind its propeller",
+   "cast": "exactly one torpedo; no people",
+   "action": "quiet, patient, precise",
+   "camera": "slow pull-back from the torpedo",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:06",
+     "the camera drifts back; the torpedo glides slowly, almost lazily, through the dark water"
+    ],
+    [
+     "00:06-00:10",
+     "it holds a steady course, silent, beneath the faint wake above"
+    ]
+   ],
+   "neg": "no explosion, no markings, no text",
+   "rigid": "the torpedo keeps its exact shape and size"
+  },
+  {
+   "env": "dark open water: a long dark torpedo gliding silently, a faint trail of tiny bubbles behind its propeller -- then -- the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt",
+   "cast": "exactly one torpedo; no people (until 00:04.5); then exactly one or two divers seen from behind, faces hidden; one propulsion section",
+   "action": "the real discovery was still submerged",
+   "camera": "a slow sinking move past the torpedo down to the seabed",
+   "lighting": "near darkness, faint blue light from the surface; then Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the torpedo glides on through the dark water"
+    ],
+    [
+     "00:04.5-00:06",
+     "without any cut the camera sinks past it toward the seabed"
+    ],
+    [
+     "00:06-00:10",
+     "in the silt a corroded cylindrical shape lies half-buried, barely visible"
+    ]
+   ],
+   "change_at": 4.5,
+   "neg": "no explosion, no markings, no text, no readable writing, no characters, no letters",
+   "rigid": "the torpedo keeps its exact shape and size"
+  },
+  {
+   "env": "the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt",
+   "cast": "exactly one or two divers seen from behind, faces hidden; one propulsion section",
+   "action": "the propulsion section left behind",
+   "camera": "slow push-in toward the propulsion section",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow push-in: the corroded propulsion section with its small crusted propeller"
+    ],
+    [
+     "00:04-00:10",
+     "a diver's torch beam sweeps in from above and finds it"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters"
+  },
+  {
+   "env": "the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt",
+   "cast": "exactly one or two divers seen from behind, faces hidden; one propulsion section",
+   "action": "divers recover it",
+   "camera": "slow rise alongside the lifted section",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:08",
+     "two divers work straps under the propulsion section and it lifts slowly from the silt on a line"
+    ],
+    [
+     "00:08-00:10",
+     "it rises out of the torch beam toward the surface"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters"
+  },
+  {
+   "env": "the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt -- then -- a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "exactly one or two divers seen from behind, faces hidden; one propulsion section (until 00:00); then the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "something no one predicted",
+   "camera": "the rise continues up through the water into the hard work lights of a hangar, then a slow push-in",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the camera rises with it; the dark water gives way to hard work lights in a grey hangar"
+    ],
+    [
+     "00:01.5-00:05.5",
+     "the corroded propulsion section rests on a padded stand, two investigator silhouettes beside it"
+    ],
+    [
+     "00:05.5-00:10",
+     "slow push-in toward the inside of the casing"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no readable writing, no characters, no letters, no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "a handwritten marking",
+   "camera": "the slow push-in continues to the ink smudge",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:08.5",
+     "close: a faint smudge of blue ink on the pitted metal, blurred and illegible, lit by the hard lamp"
+    ],
+    [
+     "00:08.5-00:10",
+     "the push-in continues slowly"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "the torpedo signed its maker's name",
+   "camera": "slow drift across the smudge, then a slow pull-back",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:04",
+     "the camera drifts across the ink smudge; it stays an unreadable blur"
+    ],
+    [
+     "00:04-00:10",
+     "the camera pulls back to the whole corroded section on its stand"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "it survived the blast, the corrosion, the months underwater",
+   "camera": "slow arc around the section",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:07.5",
+     "slow arc around the section: pitted, rust-streaked metal, crusted propeller blades"
+    ],
+    [
+     "00:07.5-00:10",
+     "the arc continues past the propeller"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "a handwritten note on a weapon of war",
+   "camera": "the arc comes back round to the ink smudge",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:09",
+     "the camera returns slowly to the blurred ink smudge under the lamp; hard shadows in the pitted metal"
+    ],
+    [
+     "00:09-00:10",
+     "the move continues slowly"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible -- then -- near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible (until 00:04.5); then exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "fired from a Yeono-class midget submarine",
+   "camera": "the lamp light fades into dark shallow water, then a slow approach toward the submarine",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the ink smudge fills the frame under the lamp"
+    ],
+    [
+     "00:04.5-00:06",
+     "without any cut the lamp light fades to darkness and the view becomes dark shallow water"
+    ],
+    [
+     "00:06-00:10",
+     "a small dark midget submarine glides out of the murk toward the camera"
+    ]
+   ],
+   "change_at": 4.5,
+   "neg": "no readable writing, no characters, no letters, no torpedo launch, no markings, no divers",
+   "rigid": "the propulsion section is rigid; the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "dark water near the seabed; far above, the huge dark hull of the corvette passes along the pale surface",
+   "cast": "exactly one small dark midget submarine near the seabed and exactly one corvette hull far above; no people",
+   "action": "one-tenth the size of the ship it destroyed",
+   "camera": "slow tracking alongside the small submarine",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow tracking alongside the small submarine: rounded hull, small fin, one propeller"
+    ],
+    [
+     "00:04-00:10",
+     "far above, the dark silhouette of a much larger ship's hull passes over it along the surface"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings",
+   "rigid": "both hulls keep their exact shape and size"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "small enough for the shallow littoral",
+   "camera": "slow tracking alongside the submarine between boulders",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:08",
+     "the submarine threads slowly between large boulders close to the seabed in shallow water"
+    ],
+    [
+     "00:08-00:10",
+     "it glides over a low rocky ridge"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "hard to detect against the cluttered seabed",
+   "camera": "slow drift beside the submarine",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:07",
+     "the submarine settles low among rocks and silt; its dark shape almost blends into the cluttered seabed"
+    ],
+    [
+     "00:07-00:10",
+     "it moves on slowly"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people",
+   "action": "diesel-electric, nearly silent on batteries",
+   "camera": "a slow tilt up to the surface, then back down to the submarine",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the camera looks up: far above, the pale ceiling of the surface"
+    ],
+    [
+     "00:04.5-00:10",
+     "the submarine glides on in total stillness; no bubbles, no disturbance in the silt"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings, no divers",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "near-dark shallow water just above an uneven rocky seabed with boulders and silt -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+   "cast": "exactly one small dark midget submarine (about 30 m long, rounded hull, small fin, one propeller, no markings); no people (until 00:00); then exactly one sonar operator seen from behind, headphones on, face never visible",
+   "action": "mistaken for a whale, fish, rough seabed",
+   "camera": "the dark water gives way to the green glow of a sonar display, then a slow push-in",
+   "lighting": "near darkness, faint blue light from the surface far above, suspended particles; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the dark water gives way to the glow of a round green display"
+    ],
+    [
+     "00:01.5-00:08",
+     "on the sonar display only faint grainy noise and a soft sweeping line; one vague blur appears and fades"
+    ],
+    [
+     "00:08-00:10",
+     "the operator's silhouette leans in, headphones on"
+    ]
+   ],
+   "change_at": 0.0,
+   "neg": "no torpedo launch, no markings, no divers, no readable screens, no numbers, no letters on displays or consoles",
+   "rigid": "the submarine keeps its exact shape and size and moves slowly and steadily"
+  },
+  {
+   "env": "a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+   "cast": "exactly one sonar operator seen from behind, headphones on, face never visible",
+   "action": "almost no signature",
+   "camera": "slow push-in past the operator to the display",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "slow push-in past the operator to the display"
+    ],
+    [
+     "00:04.5-00:10",
+     "the sweeping line passes again and again over nothing"
+    ]
+   ],
+   "neg": "no readable screens, no numbers, no letters on displays or consoles"
+  },
+  {
+   "env": "a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel -- then -- dark water near the seabed; far above, the huge dark hull of the corvette passes along the pale surface",
+   "cast": "exactly one sonar operator seen from behind, headphones on, face never visible (until 00:01.5); then exactly one small dark midget submarine near the seabed and exactly one corvette hull far above; no people",
+   "action": "the acoustic equivalent of a shadow",
+   "camera": "the green glow deepens into dark water, then a slow drift up toward the hull above",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow; then near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "the sweeping line passes over the empty screen"
+    ],
+    [
+     "00:01.5-00:03",
+     "without any cut the green glow deepens into dark water"
+    ],
+    [
+     "00:03-00:10",
+     "the small submarine glides slowly beneath the huge dark hull of the corvette passing along the surface above"
+    ]
+   ],
+   "change_at": 1.5,
+   "neg": "no readable screens, no numbers, no letters on displays or consoles, no torpedo launch, no markings",
+   "rigid": "both hulls keep their exact shape and size"
+  },
+  {
+   "env": "dark water near the seabed; far above, the huge dark hull of the corvette passes along the pale surface",
+   "cast": "exactly one small dark midget submarine near the seabed and exactly one corvette hull far above; no people",
+   "action": "it only needed to outwait her",
+   "camera": "slow drift near the seabed",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the corvette's hull passes slowly overhead; the submarine stays still near the seabed"
+    ],
+    [
+     "00:05-00:10",
+     "the hull moves away; the submarine waits, motionless"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings",
+   "rigid": "both hulls keep their exact shape and size"
+  },
+  {
+   "env": "dark water near the seabed; far above, the huge dark hull of the corvette passes along the pale surface",
+   "cast": "exactly one small dark midget submarine near the seabed and exactly one corvette hull far above; no people",
+   "action": "an ambush, not a clash of equals",
+   "camera": "slow pull-back and down",
+   "lighting": "near darkness, faint blue light from the surface",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the camera pulls back and down: the tiny submarine below, the huge hull far above"
+    ],
+    [
+     "00:05-00:10",
+     "the submarine turns slowly to follow the fading wake"
+    ]
+   ],
+   "neg": "no torpedo launch, no markings",
+   "rigid": "both hulls keep their exact shape and size"
+  },
+  {
+   "env": "dark water near the seabed; far above, the huge dark hull of the corvette passes along the pale surface -- then -- a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "exactly one small dark midget submarine near the seabed and exactly one corvette hull far above; no people (until 00:02.5); then the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "a weapon identified by hand",
+   "camera": "the dark water gives way to the hard lamp of the hangar, then a slow push-in",
+   "lighting": "near darkness, faint blue light from the surface; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the submarine glides on into the dark"
+    ],
+    [
+     "00:02.5-00:04",
+     "without any cut the darkness gives way to the hard lamp of the investigation hangar"
+    ],
+    [
+     "00:04-00:10",
+     "the corroded propulsion section on its stand, the blurred ink smudge in the lamp light"
+    ]
+   ],
+   "change_at": 2.5,
+   "neg": "no torpedo launch, no markings, no readable writing, no characters, no letters",
+   "rigid": "both hulls keep their exact shape and size; the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible -- then -- a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible (until 00:02); then exactly two hull sections; small investigator silhouettes in coats, faces never visible",
+   "action": "the proof on the ocean floor",
+   "camera": "a slow pull-back out of the hangar into daylight over the dock",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the lamp light on the propulsion section"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the camera pulls back out of the hangar into grey daylight over the dock"
+    ],
+    [
+     "00:03.5-00:10",
+     "the two halves of Cheonan on the dock, a wide clean gap between them"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no readable writing, no characters, no letters, no hull numbers, no text, no flags",
+   "rigid": "the propulsion section is rigid; the hull sections are rigid and never move"
+  },
+  {
+   "env": "a grey naval dock under an overcast sky: the bow and stern sections of the broken corvette laid out on blocks side by side on the quay, a wide clean gap between them -- then -- a plain press briefing room: a long table with a closed thick bound report with a blank cover, a row of microphones, blurred rows of seated reporters beyond",
+   "cast": "exactly two hull sections; small investigator silhouettes in coats, faces never visible (until 00:01); then no speaker; blurred reporter silhouettes, faces never visible",
+   "action": "20 May 2010: the report",
+   "camera": "the daylight gives way to a press room, then a slow push-in toward the table",
+   "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray; then flat bright room light, neutral tones",
+   "beats": [
+    [
+     "00:00-00:01",
+     "the two halves lie still on the dock"
+    ],
+    [
+     "00:01-00:02.5",
+     "without any cut the grey daylight gives way to the flat light of a press room"
+    ],
+    [
+     "00:02.5-00:10",
+     "a thick bound report with a blank cover lies closed on a long table before a row of microphones; blurred reporters beyond"
+    ]
+   ],
+   "change_at": 1.0,
+   "neg": "no hull numbers, no text, no flags, no readable text, no flags, no logos, no screens with text, no camera flashes",
+   "rigid": "the hull sections are rigid and never move"
+  },
+  {
+   "env": "a plain press briefing room: a long table with a closed thick bound report with a blank cover, a row of microphones, blurred rows of seated reporters beyond",
+   "cast": "no speaker; blurred reporter silhouettes, faces never visible",
+   "action": "a North Korean torpedo, a North Korean submarine",
+   "camera": "slow push-in toward the report",
+   "lighting": "flat bright room light, neutral tones",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow push-in toward the report and the microphones"
+    ],
+    [
+     "00:04-00:10",
+     "the blurred room stays still; the push-in continues to the report's blank cover"
+    ]
+   ],
+   "neg": "no readable text, no flags, no logos, no screens with text, no camera flashes"
+  },
+  {
+   "env": "a plain press briefing room: a long table with a closed thick bound report with a blank cover, a row of microphones, blurred rows of seated reporters beyond -- then -- a dark room: an old radio receiver with a softly glowing amber dial on a wooden table",
+   "cast": "no speaker; blurred reporter silhouettes, faces never visible (until 00:04.5); then no people",
+   "action": "Pyongyang denies it",
+   "camera": "the press-room light dims to a single amber glow, then a slow push-in",
+   "lighting": "flat bright room light, neutral tones; then one warm amber glow in darkness",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the push-in continues on the blank cover of the report"
+    ],
+    [
+     "00:04.5-00:06",
+     "without any cut the room light dims to a single amber glow"
+    ],
+    [
+     "00:06-00:10",
+     "an old radio receiver glows on a wooden table in a dark room"
+    ]
+   ],
+   "change_at": 4.5,
+   "neg": "no readable text, no flags, no logos, no screens with text, no camera flashes, no readable dial text, no flicker",
+   "rigid": "the radio is rigid; its glow is steady"
+  },
+  {
+   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table",
+   "cast": "no people",
+   "action": "a total, public denial",
+   "camera": "slow push-in toward the glowing radio",
+   "lighting": "one warm amber glow in darkness",
+   "beats": [
+    [
+     "00:00-00:10",
+     "slow push-in toward the radio; its amber dial glows steadily, dust drifting in the light"
+    ]
+   ],
+   "neg": "no readable dial text, no flicker",
+   "rigid": "the radio is rigid; its glow is steady"
+  },
+  {
+   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table",
+   "cast": "no people",
+   "action": "a demand for their own investigators",
+   "camera": "slow arc around the radio",
+   "lighting": "one warm amber glow in darkness",
+   "beats": [
+    [
+     "00:00-00:08.5",
+     "slow arc around the radio; its amber dial glows steadily in the dark"
+    ],
+    [
+     "00:08.5-00:10",
+     "the arc continues"
+    ]
+   ],
+   "neg": "no readable dial text, no flicker",
+   "rigid": "the radio is rigid; its glow is steady"
+  },
+  {
+   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table",
+   "cast": "no people",
+   "action": "the denial never wavered",
+   "camera": "slow drift past the radio into darkness",
+   "lighting": "one warm amber glow in darkness",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the camera drifts slowly past the radio into the dark room"
+    ],
+    [
+     "00:05-00:10",
+     "only the amber glow remains"
+    ]
+   ],
+   "neg": "no readable dial text, no flicker",
+   "rigid": "the radio is rigid; its glow is steady"
+  },
+  {
+   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table -- then -- a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "cast": "no people (until 00:00.5); then exactly one academic silhouette seen from behind at the desk, face never visible",
+   "action": "a minority of academics had doubts",
+   "camera": "the amber glow widens into a desk lamp, then a slow push-in",
+   "lighting": "one warm amber glow in darkness; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:00.5",
+     "the amber glow in the dark"
+    ],
+    [
+     "00:00.5-00:02",
+     "without any cut the amber glow widens into a desk lamp in a quiet study"
+    ],
+    [
+     "00:02-00:10",
+     "one silhouetted figure sits at the desk, bent over a thick report under the lamp"
+    ]
+   ],
+   "change_at": 0.5,
+   "neg": "no readable dial text, no flicker, no readable text on the papers",
+   "rigid": "the radio is rigid; its glow is steady"
+  },
+  {
+   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "cast": "exactly one academic silhouette seen from behind at the desk, face never visible",
+   "action": "did the evidence prove it",
+   "camera": "slow push-in over the figure's shoulder",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow push-in over the figure's shoulder to papers with hull diagrams, no text"
+    ],
+    [
+     "00:04-00:10",
+     "the figure leans back and stays still, the lamp light on the pages"
+    ]
+   ],
+   "neg": "no readable text on the papers"
+  },
+  {
+   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "cast": "exactly one academic silhouette seen from behind at the desk, face never visible",
+   "action": "too quick from explosion to attribution",
+   "camera": "slow arc around the desk",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:06",
+     "slow arc around the desk; papers spread out under the lamp"
+    ],
+    [
+     "00:06-00:10",
+     "the arc continues toward the dark window"
+    ]
+   ],
+   "neg": "no readable text on the papers"
+  },
+  {
+   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+   "cast": "exactly one academic silhouette seen from behind at the desk, face never visible (until 00:00.5); then exactly one sonar operator seen from behind, headphones on, face never visible",
+   "action": "no direct contact was ever established",
+   "camera": "through the dark window the view becomes the green glow of a sonar display",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
+   "beats": [
+    [
+     "00:00-00:00.5",
+     "the arc reaches the dark window"
+    ],
+    [
+     "00:00.5-00:02",
+     "without any cut the dark window becomes the green glow of a sonar display"
+    ],
+    [
+     "00:02-00:10",
+     "the sonar display shows only faint noise and a sweeping line, nothing, again and again"
+    ]
+   ],
+   "change_at": 0.5,
+   "neg": "no readable text on the papers, no readable screens, no numbers, no letters on displays or consoles"
+  },
+  {
+   "env": "a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel -- then -- murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt",
+   "cast": "exactly one sonar operator seen from behind, headphones on, face never visible (until 00:02.5); then exactly one sea mine; no people, no divers",
+   "action": "other explanations",
+   "camera": "the green glow fades into murky water, then a slow drift toward the mine",
+   "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow; then murky filtered light, suspended particles",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the sweeping line passes over the empty screen"
+    ],
+    [
+     "00:02.5-00:04",
+     "without any cut the green glow fades into murky green water"
+    ],
+    [
+     "00:04-00:10",
+     "an old rusted spiked sea mine sways slowly on its chain in the murk"
+    ]
+   ],
+   "change_at": 2.5,
+   "neg": "no readable screens, no numbers, no letters on displays or consoles",
+   "rigid": "the mine keeps its exact shape; it never explodes"
+  },
+  {
+   "env": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt",
+   "cast": "exactly one sea mine; no people, no divers",
+   "action": "a minority view",
+   "camera": "slow arc around the mine, then a drift away",
+   "lighting": "murky filtered light, suspended particles",
+   "beats": [
+    [
+     "00:00-00:06",
+     "slow arc around the rusted mine: crusted spikes, its chain vanishing into the silt"
+    ],
+    [
+     "00:06-00:10",
+     "the camera drifts away from the mine into the murk"
+    ]
+   ],
+   "rigid": "the mine keeps its exact shape; it never explodes"
+  },
+  {
+   "env": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers",
+   "cast": "exactly one sea mine; no people, no divers (until 00:05); then no people, no hands",
+   "action": "the world had the evidence",
+   "camera": "the murk gives way to the evidence table, then a slow lateral drift",
+   "lighting": "murky filtered light, suspended particles; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:05",
+     "the murk drifts past the camera"
+    ],
+    [
+     "00:05-00:06.5",
+     "without any cut the murk gives way to the hard lamp over the evidence table"
+    ],
+    [
+     "00:06.5-00:10",
+     "rows of bagged fragments with blank tags under the lamp"
+    ]
+   ],
+   "change_at": 5.0,
+   "neg": "no writing on tags or bags, no readable documents",
+   "rigid": "the mine keeps its exact shape; it never explodes; every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a plain evidence table under one hard lamp: a torn, outward-bent piece of grey hull steel, metal fragments and a coil of wire in clear plastic bags with blank white tags, a steel ruler, calipers -- then -- a wide circular council chamber in soft daylight: a large horseshoe-shaped table with rows of chairs and microphones, tall windows",
+   "cast": "no people, no hands (until 00:02.5); then no people close; only blurred distant silhouettes, faces never visible",
+   "action": "the UN Security Council statement",
+   "camera": "a rise from the table into the soft daylight of a council chamber, then a slow glide",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then soft daylight, neutral tones",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "the drift continues along the bagged fragments"
+    ],
+    [
+     "00:02.5-00:04",
+     "without any cut the camera rises and the lamp light opens into the soft daylight of a large council chamber"
+    ],
+    [
+     "00:04-00:10",
+     "a wide circular chamber: a horseshoe table with rows of chairs and microphones, blurred distant figures"
+    ]
+   ],
+   "change_at": 2.5,
+   "neg": "no writing on tags or bags, no readable documents, no flags, no emblems, no readable text, no name plates",
+   "rigid": "every object on the table is rigid and stays in place"
+  },
+  {
+   "env": "a wide circular council chamber in soft daylight: a large horseshoe-shaped table with rows of chairs and microphones, tall windows",
+   "cast": "no people close; only blurred distant silhouettes, faces never visible",
+   "action": "it condemned the attack but named no one",
+   "camera": "slow glide along the curve of the table",
+   "lighting": "soft daylight, neutral tones",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "slow glide along the curve of the horseshoe table, microphones and empty chairs"
+    ],
+    [
+     "00:04.5-00:10",
+     "the glide continues past one empty chair"
+    ]
+   ],
+   "neg": "no flags, no emblems, no readable text, no name plates"
+  },
+  {
+   "env": "a wide circular council chamber in soft daylight: a large horseshoe-shaped table with rows of chairs and microphones, tall windows",
+   "cast": "no people close; only blurred distant silhouettes, faces never visible",
+   "action": "careful diplomatic language",
+   "camera": "slow rise above the chamber",
+   "lighting": "soft daylight, neutral tones",
+   "beats": [
+    [
+     "00:00-00:07.5",
+     "the camera rises slowly above the chamber"
+    ],
+    [
+     "00:07.5-00:10",
+     "the whole horseshoe table seen from above"
+    ]
+   ],
+   "neg": "no flags, no emblems, no readable text, no name plates"
+  },
+  {
+   "env": "a wide circular council chamber in soft daylight: a large horseshoe-shaped table with rows of chairs and microphones, tall windows -- then -- a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "no people close; only blurred distant silhouettes, faces never visible (until 00:04.5); then the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "forensic certainty, diplomatic silence",
+   "camera": "the chamber light narrows into the hard lamp of the hangar, then a slow push-in",
+   "lighting": "soft daylight, neutral tones; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the horseshoe table seen from above"
+    ],
+    [
+     "00:04.5-00:06",
+     "without any cut the soft daylight narrows into the hard lamp of the hangar"
+    ],
+    [
+     "00:06-00:10",
+     "the corroded propulsion section on its stand, the blurred ink smudge"
+    ]
+   ],
+   "change_at": 4.5,
+   "neg": "no flags, no emblems, no readable text, no name plates, no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible",
+   "action": "not enough to make the world say it",
+   "camera": "slow push-in to the ink smudge",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
+   "beats": [
+    [
+     "00:00-00:07.5",
+     "slow push-in toward the blurred ink smudge"
+    ],
+    [
+     "00:07.5-00:10",
+     "the push-in continues"
+    ]
+   ],
+   "neg": "no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "a grey investigation hangar: the corroded torpedo propulsion section resting on a padded stand under hard work lights, a faint smudge of blue ink on its inner casing, blurred and illegible -- then -- the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt",
+   "cast": "the propulsion section; exactly two investigator silhouettes in the background, faces never visible (until 00:02); then exactly one or two divers seen from behind, faces hidden; one propulsion section",
+   "action": "it signed its maker's name on the seabed",
+   "camera": "the lamp light fades into dark water and the torch-lit seabed, then a slow drift",
+   "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp; then Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the ink smudge fills the frame"
+    ],
+    [
+     "00:02-00:03.5",
+     "without any cut the lamp light fades into dark water and a torch-lit seabed"
+    ],
+    [
+     "00:03.5-00:10",
+     "the silt where the propulsion section was found; a small yellow marker buoy stands alone"
+    ]
+   ],
+   "change_at": 2.0,
+   "neg": "no readable writing, no characters, no letters, no readable writing, no characters, no letters",
+   "rigid": "the propulsion section is rigid"
+  },
+  {
+   "env": "the muddy grey seabed in a diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller half-buried in silt -- then -- calm grey sea at dusk off a low barren island, a single white wreath of flowers floating on the water",
+   "cast": "exactly one or two divers seen from behind, faces hidden; one propulsion section (until 00:00.5); then exactly one wreath; no people, no ships",
+   "action": "a marking outlasts a denial",
+   "camera": "a steady rise up through the water to the surface at dusk, then a slow drift toward the wreath",
+   "lighting": "Deep benthic palette: pitch black water beyond harsh torch cones, muddy grey silt, suspended marine snow; then overcast dusk, fading grey light",
+   "beats": [
+    [
+     "00:00-00:00.5",
+     "the marker buoy on the silt"
+    ],
+    [
+     "00:00.5-00:02",
+     "without any cut the camera rises up through the dark water and breaks the surface at dusk"
+    ],
+    [
+     "00:02-00:10",
+     "calm grey sea at dusk off the barren island; a single white wreath floats on the water"
+    ]
+   ],
+   "change_at": 0.5,
+   "neg": "no readable writing, no characters, no letters"
+  },
+  {
+   "env": "calm grey sea at dusk off a low barren island, a single white wreath of flowers floating on the water",
+   "cast": "exactly one wreath; no people, no ships",
+   "action": "subscribe and stay with us",
+   "camera": "slow rising pull-back",
+   "lighting": "overcast dusk, fading grey light",
+   "beats": [
+    [
+     "00:00-00:10",
+     "slow rising pull-back: the wreath small on the wide grey sea, the island beyond, dusk falling"
+    ]
+   ]
+  }
+ ]
+}

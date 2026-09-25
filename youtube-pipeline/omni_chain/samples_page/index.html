@@ -78,6 +78,9 @@ const PACKS = [
   {grp:"episodes", tag:"CH02EP16", name:"Chronicle Zero · ROKS Cheonan",
    note:"Night corvette and the water column → divers to the seabed → torpedo section (ink smudge, never readable) → brass disc (logo in post) → Cheonan on patrol → Baengnyeong Island → shallow cluttered seabed → two navies at dusk.",
    pills:[["real","real voice"],["plain","folder ch02ep16-omni"],["plain","prefix clip"]]},
+  {grp:"episodes", tag:"CH02EP16", id:"CH02EP16_rest", clips:"013-112", count:100, noFirst:true, name:"Chronicle Zero · ROKS Cheonan · clips 13–112 (rest of the episode)",
+   note:"Run after the sample is approved. Start frame = the LAST frame of clip_012.mp4, naming start number 13, same folder ch02ep16-omni. Timed on the estimate after 2:26; the assembler stretches each clip onto the real voice once the full narration is built.",
+   pills:[["est","estimate after 2:26"],["plain","folder ch02ep16-omni"],["plain","start number 13"]]},
   {grp:"episodes", tag:"CH02EP17", name:"Chronicle Zero · USS Pueblo",
    note:"Subchaser closes on Pueblo → commander on the bridge wing → the confession desk → Pueblo moored today, brass disc → the ex-cargo hull → the listening masts → radio room → the unarmed deck. Timed on the shotlist estimate: re-time once the narration is built.",
    pills:[["est","estimate timing"],["plain","folder ch02ep17-omni"],["plain","prefix clip"]]},
@@ -127,26 +130,27 @@ async function copy(btn, path, label){
 for (const p of PACKS) {
   const el = document.createElement("article");
   el.className = "pack";
+  const id = p.id || p.tag, rng = p.clips || "001-012", count = p.count || 12;
   const pills = p.pills.map(([k, t]) => `<span class="pill ${k}">${t}</span>`).join("");
   el.innerHTML = `
     <div>
       <div class="tag">${p.tag}</div>
       <div class="name">${p.name}</div>
       <div class="note">${p.note}</div>
-      <div class="meta"><span class="pill plain">12 clips · 2:00</span>${pills}</div>
+      <div class="meta"><span class="pill plain">${count} clips · ${Math.floor(count*10/60)}:${String(count*10%60).padStart(2,"0")}</span>${pills}</div>
     </div>
     <div class="actions">
-      <button type="button" id="ff-${p.tag}">Copy first-frame prompt</button>
-      <button type="button" class="primary" id="clips-${p.tag}">Copy all 12 clip prompts</button>
+      ${p.noFirst ? "" : `<button type="button" id="ff-${id}">Copy first-frame prompt</button>`}
+      <button type="button" class="primary" id="clips-${id}">Copy all ${count} clip prompts</button>
     </div>
-    <details><summary>TurboFlow settings for this pack</summary><pre id="rm-${p.tag}">Loading…</pre></details>`;
+    <details><summary>TurboFlow settings for this pack</summary><pre id="rm-${id}">Loading…</pre></details>`;
   document.getElementById(p.grp).appendChild(el);
-  el.querySelector(`#ff-${p.tag}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_first_frame.txt`, "first frame"));
-  el.querySelector(`#clips-${p.tag}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_clips_001-012.txt`, "12 prompts"));
+  if (!p.noFirst) el.querySelector(`#ff-${id}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_first_frame.txt`, "first frame"));
+  el.querySelector(`#clips-${id}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_clips_${rng}.txt`, `${count} prompts`));
   el.querySelector("details").addEventListener("toggle", async ev => {
     if (!ev.target.open) return;
     const pre = el.querySelector("pre");
-    try { pre.textContent = await load(`packs/${p.tag}_README.txt`); } catch (e) { pre.textContent = e.message; }
+    try { pre.textContent = await load(p.clips ? `packs/${p.tag}_README_${rng}.txt` : `packs/${p.tag}_README.txt`); } catch (e) { pre.textContent = e.message; }
   });
 }
 </script>
