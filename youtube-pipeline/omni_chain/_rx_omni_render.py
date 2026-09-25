@@ -200,12 +200,12 @@ def main():
     (out / f"{tag}_omni_clips_{lo:03d}-{hi:03d}.txt").write_text("\n".join(blocks) + "\n", encoding="utf-8")
     fold = plan.get("folder", f"{tag.lower()}-omni")
     prefix = plan.get("prefix", "clip")
-    start_frame = ("the picked master image (ff_001 or ff_001b)" if lo == 1 else
+    start_frame = (f"{tag}_first_frame.png (the picked AI33 master image)" if lo == 1 else
                    f"the LAST frame of {prefix}_{lo - 1:03d}.mp4 (not the master image)")
-    first = ("" if lo != 1 else f"""1. FIRST FRAME
-   TurboFlow -> Mode Image -> Nano Banana Pro -> 16:9 -> Images per prompt x2 -> 2K Upscale
-   Prompt: {tag}_omni_first_frame.txt    Save folder: {fold}    prefix: ff  sep _  start 1
-   Claude looks at both and picks (reject black bars, borders, burned-in text, extra limbs).
+    first = ("" if lo != 1 else f"""1. FIRST FRAME  (made by Claude, not in TurboFlow)
+   AI33 image model at the highest quality (gpt-image-2, 4K, quality high - or the newer top model if AI33
+   lists one), 16:9, 2 variants from {tag}_omni_first_frame.txt. Claude looks at both and picks
+   (no black bars, borders, burned-in text, extra limbs) and delivers {tag}_first_frame.png.
 
 """)
     (out / f"{tag}_omni_README_{lo:03d}-{hi:03d}.txt").write_text(f"""{tag} - Omni Flash chain, clips {lo}-{hi} ({len(clips) * 10 // 60} min {len(clips) * 10 % 60} s)
