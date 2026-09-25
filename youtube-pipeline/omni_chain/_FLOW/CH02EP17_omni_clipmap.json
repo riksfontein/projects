@@ -1,0 +1,3342 @@
+[
+ {
+  "clip": 1,
+  "file": "clip_001.mp4",
+  "est_window": [
+   0.0,
+   10.0
+  ],
+  "shots": [
+   {
+    "n": 1,
+    "t": [
+     0.0,
+     4.6
+    ],
+    "words": "In 1968, North Korea seized an American vessel, killed one sailor,"
+   },
+   {
+    "n": 2,
+    "t": [
+     4.6,
+     10.0
+    ],
+    "words": "and held eighty-two others captive for eleven months. The ship was a small"
+   }
+  ]
+ },
+ {
+  "clip": 2,
+  "file": "clip_002.mp4",
+  "est_window": [
+   10.0,
+   20.0
+  ],
+  "shots": [
+   {
+    "n": 2,
+    "t": [
+     0.0,
+     1.71
+    ],
+    "words": "signals-intelligence vessel called USS"
+   },
+   {
+    "n": 3,
+    "t": [
+     1.71,
+     7.15
+    ],
+    "words": "Pueblo, commanded by Lloyd Bucher, operating in waters the U.S. insisted were international."
+   },
+   {
+    "n": 4,
+    "t": [
+     7.15,
+     10.0
+    ],
+    "words": "To free the crew, Washington signed a"
+   }
+  ]
+ },
+ {
+  "clip": 3,
+  "file": "clip_003.mp4",
+  "est_window": [
+   20.0,
+   30.0
+  ],
+  "shots": [
+   {
+    "n": 4,
+    "t": [
+     0.0,
+     0.5
+    ],
+    "words": "confession"
+   },
+   {
+    "n": 5,
+    "t": [
+     0.5,
+     7.61
+    ],
+    "words": "and immediately disavowed it. But the real escalation is this: the ship itself was never returned. It"
+   },
+   {
+    "n": 6,
+    "t": [
+     7.61,
+     10.0
+    ],
+    "words": "remains the only commissioned U.S. Navy"
+   }
+  ]
+ },
+ {
+  "clip": 4,
+  "file": "clip_004.mp4",
+  "est_window": [
+   30.0,
+   40.0
+  ],
+  "shots": [
+   {
+    "n": 6,
+    "t": [
+     0.0,
+     3.05
+    ],
+    "words": "vessel in foreign hands anywhere on earth."
+   },
+   {
+    "n": 7,
+    "t": [
+     3.05,
+     8.07
+    ],
+    "words": "What you are watching is simulated footage, rebuilt from the documented record."
+   },
+   {
+    "n": 8,
+    "t": [
+     8.07,
+     10.0
+    ],
+    "words": "Most people assume a captured"
+   }
+  ]
+ },
+ {
+  "clip": 5,
+  "file": "clip_005.mp4",
+  "est_window": [
+   40.0,
+   50.0
+  ],
+  "shots": [
+   {
+    "n": 8,
+    "t": [
+     0.0,
+     5.18
+    ],
+    "words": "warship is a battleship or a carrier. The Pueblo was neither. It"
+   },
+   {
+    "n": 9,
+    "t": [
+     5.18,
+     10.0
+    ],
+    "words": "was a cargo ship built in 1944 for the Army at a"
+   }
+  ]
+ },
+ {
+  "clip": 6,
+  "file": "clip_006.mp4",
+  "est_window": [
+   50.0,
+   60.0
+  ],
+  "shots": [
+   {
+    "n": 9,
+    "t": [
+     0.0,
+     1.46
+    ],
+    "words": "shipyard in Kewaunee,"
+   },
+   {
+    "n": 10,
+    "t": [
+     1.46,
+     7.32
+    ],
+    "words": "Wisconsin. For two decades it hauled freight across the Pacific. Then in April 1966,"
+   },
+   {
+    "n": 11,
+    "t": [
+     7.32,
+     10.0
+    ],
+    "words": "the Navy took it over, renamed"
+   }
+  ]
+ },
+ {
+  "clip": 7,
+  "file": "clip_007.mp4",
+  "est_window": [
+   60.0,
+   70.0
+  ],
+  "shots": [
+   {
+    "n": 11,
+    "t": [
+     0.0,
+     0.25
+    ],
+    "words": "it,"
+   },
+   {
+    "n": 12,
+    "t": [
+     0.25,
+     6.94
+    ],
+    "words": "and converted it into something the Cold War needed more than cargo space: a signals-intelligence platform."
+   },
+   {
+    "n": 13,
+    "t": [
+     6.94,
+     10.0
+    ],
+    "words": "The idea was simple: sail close enough"
+   }
+  ]
+ },
+ {
+  "clip": 8,
+  "file": "clip_008.mp4",
+  "est_window": [
+   70.0,
+   80.0
+  ],
+  "shots": [
+   {
+    "n": 13,
+    "t": [
+     0.0,
+     4.05
+    ],
+    "words": "to North Korea to pick up electronic and radio traffic,"
+   },
+   {
+    "n": 14,
+    "t": [
+     4.05,
+     4.89
+    ],
+    "words": "record it,"
+   },
+   {
+    "n": 15,
+    "t": [
+     4.89,
+     10.0
+    ],
+    "words": "and analyze it. The crew wasn't supposed to fire weapons or start"
+   }
+  ]
+ },
+ {
+  "clip": 9,
+  "file": "clip_009.mp4",
+  "est_window": [
+   80.0,
+   90.0
+  ],
+  "shots": [
+   {
+    "n": 15,
+    "t": [
+     0.0,
+     2.0
+    ],
+    "words": "wars. They were just supposed"
+   },
+   {
+    "n": 16,
+    "t": [
+     2.0,
+     2.84
+    ],
+    "words": "to listen."
+   },
+   {
+    "n": 17,
+    "t": [
+     2.84,
+     8.7
+    ],
+    "words": "The problem sat in the ship itself. It moved slowly, carried almost no weapons,"
+   },
+   {
+    "n": 18,
+    "t": [
+     8.7,
+     10.0
+    ],
+    "words": "and had no"
+   }
+  ]
+ },
+ {
+  "clip": 10,
+  "file": "clip_010.mp4",
+  "est_window": [
+   90.0,
+   100.0
+  ],
+  "shots": [
+   {
+    "n": 18,
+    "t": [
+     0.0,
+     4.56
+    ],
+    "words": "armor to speak of. The Navy gave it the designation AGER-2,"
+   },
+   {
+    "n": 19,
+    "t": [
+     4.56,
+     10.0
+    ],
+    "words": "which stood for Auxiliary General Environmental Research, a name so bland it almost"
+   }
+  ]
+ },
+ {
+  "clip": 11,
+  "file": "clip_011.mp4",
+  "est_window": [
+   100.0,
+   110.0
+  ],
+  "shots": [
+   {
+    "n": 19,
+    "t": [
+     0.0,
+     1.25
+    ],
+    "words": "concealed the mission."
+   },
+   {
+    "n": 20,
+    "t": [
+     1.25,
+     4.18
+    ],
+    "words": "But anyone who looked at the antennas"
+   },
+   {
+    "n": 21,
+    "t": [
+     4.18,
+     8.78
+    ],
+    "words": "and the listening gear knew what it was there to do."
+   },
+   {
+    "n": 22,
+    "t": [
+     8.78,
+     10.0
+    ],
+    "words": "The Pueblo was"
+   }
+  ]
+ },
+ {
+  "clip": 12,
+  "file": "clip_012.mp4",
+  "est_window": [
+   110.0,
+   120.0
+  ],
+  "shots": [
+   {
+    "n": 22,
+    "t": [
+     0.0,
+     4.22
+    ],
+    "words": "an experiment in cheap intelligence. The Navy owned larger, faster,"
+   },
+   {
+    "n": 23,
+    "t": [
+     4.22,
+     9.66
+    ],
+    "words": "better-protected ships that could do the same job. But those ships were expensive,"
+   },
+   {
+    "n": 24,
+    "t": [
+     9.66,
+     10.0
+    ],
+    "words": "and"
+   }
+  ]
+ },
+ {
+  "clip": 13,
+  "file": "clip_013.mp4",
+  "est_window": [
+   120.0,
+   130.0
+  ],
+  "shots": [
+   {
+    "n": 24,
+    "t": [
+     0.0,
+     4.68
+    ],
+    "words": "they were needed elsewhere. The Pueblo cost almost nothing to convert,"
+   },
+   {
+    "n": 25,
+    "t": [
+     4.68,
+     7.19
+    ],
+    "words": "and if the Navy lost it,"
+   },
+   {
+    "n": 26,
+    "t": [
+     7.19,
+     10.0
+    ],
+    "words": "the financial damage would be minimal. That"
+   }
+  ]
+ },
+ {
+  "clip": 14,
+  "file": "clip_014.mp4",
+  "est_window": [
+   130.0,
+   140.0
+  ],
+  "shots": [
+   {
+    "n": 26,
+    "t": [
+     0.0,
+     4.3
+    ],
+    "words": "logic would come back to haunt the people who approved"
+   },
+   {
+    "n": 27,
+    "t": [
+     4.3,
+     4.72
+    ],
+    "words": "it."
+   },
+   {
+    "n": 28,
+    "t": [
+     4.72,
+     9.74
+    ],
+    "words": "When it was converted, workers stripped out much of the cargo hold"
+   },
+   {
+    "n": 29,
+    "t": [
+     9.74,
+     10.0
+    ],
+    "words": "and"
+   }
+  ]
+ },
+ {
+  "clip": 15,
+  "file": "clip_015.mp4",
+  "est_window": [
+   140.0,
+   150.0
+  ],
+  "shots": [
+   {
+    "n": 29,
+    "t": [
+     0.0,
+     6.43
+    ],
+    "words": "replaced it with listening equipment. Antennas went up on the deck, but the crew quarters,"
+   },
+   {
+    "n": 30,
+    "t": [
+     6.43,
+     10.0
+    ],
+    "words": "the engine, and the hull all stayed the same."
+   }
+  ]
+ },
+ {
+  "clip": 16,
+  "file": "clip_016.mp4",
+  "est_window": [
+   150.0,
+   160.0
+  ],
+  "shots": [
+   {
+    "n": 30,
+    "t": [
+     0.0,
+     2.71
+    ],
+    "words": "It looked like a cargo ship"
+   },
+   {
+    "n": 31,
+    "t": [
+     2.71,
+     4.38
+    ],
+    "words": "because it was one,"
+   },
+   {
+    "n": 32,
+    "t": [
+     4.38,
+     10.0
+    ],
+    "words": "and that was part of the problem. An attacker would not see a"
+   }
+  ]
+ },
+ {
+  "clip": 17,
+  "file": "clip_017.mp4",
+  "est_window": [
+   160.0,
+   170.0
+  ],
+  "shots": [
+   {
+    "n": 32,
+    "t": [
+     0.0,
+     1.49
+    ],
+    "words": "warship. They would see"
+   },
+   {
+    "n": 33,
+    "t": [
+     1.49,
+     6.09
+    ],
+    "words": "a target that could not run and could not fight back."
+   },
+   {
+    "n": 34,
+    "t": [
+     6.09,
+     6.93
+    ],
+    "words": "In 1967,"
+   },
+   {
+    "n": 35,
+    "t": [
+     6.93,
+     10.0
+    ],
+    "words": "the signals-intelligence program was still new. The"
+   }
+  ]
+ },
+ {
+  "clip": 18,
+  "file": "clip_018.mp4",
+  "est_window": [
+   170.0,
+   180.0
+  ],
+  "shots": [
+   {
+    "n": 35,
+    "t": [
+     0.0,
+     3.62
+    ],
+    "words": "Navy had converted three cargo ships for this purpose,"
+   },
+   {
+    "n": 36,
+    "t": [
+     3.62,
+     10.0
+    ],
+    "words": "and the Pueblo was one of them. They were not supposed to operate alone in"
+   }
+  ]
+ },
+ {
+  "clip": 19,
+  "file": "clip_019.mp4",
+  "est_window": [
+   180.0,
+   190.0
+  ],
+  "shots": [
+   {
+    "n": 36,
+    "t": [
+     0.0,
+     0.73
+    ],
+    "words": "hostile waters."
+   },
+   {
+    "n": 37,
+    "t": [
+     0.73,
+     7.84
+    ],
+    "words": "They were supposed to have support nearby, or at least the ability to run if someone came"
+   },
+   {
+    "n": 38,
+    "t": [
+     7.84,
+     10.0
+    ],
+    "words": "after them. The Pueblo had"
+   }
+  ]
+ },
+ {
+  "clip": 20,
+  "file": "clip_020.mp4",
+  "est_window": [
+   190.0,
+   200.0
+  ],
+  "shots": [
+   {
+    "n": 38,
+    "t": [
+     0.0,
+     4.95
+    ],
+    "words": "neither. Its top speed was around twelve knots. A North Korean torpedo"
+   },
+   {
+    "n": 39,
+    "t": [
+     4.95,
+     7.46
+    ],
+    "words": "boat could do more than thirty."
+   },
+   {
+    "n": 40,
+    "t": [
+     7.46,
+     10.0
+    ],
+    "words": "Bucher commanded a crew of about"
+   }
+  ]
+ },
+ {
+  "clip": 21,
+  "file": "clip_021.mp4",
+  "est_window": [
+   200.0,
+   210.0
+  ],
+  "shots": [
+   {
+    "n": 40,
+    "t": [
+     0.0,
+     4.57
+    ],
+    "words": "eighty men. Most were young sailors who had signed up for"
+   },
+   {
+    "n": 41,
+    "t": [
+     4.57,
+     10.0
+    ],
+    "words": "routine duty. None of them expected to make history. Nobody had told them"
+   }
+  ]
+ },
+ {
+  "clip": 22,
+  "file": "clip_022.mp4",
+  "est_window": [
+   210.0,
+   220.0
+  ],
+  "shots": [
+   {
+    "n": 41,
+    "t": [
+     0.0,
+     1.68
+    ],
+    "words": "that the Navy considered"
+   },
+   {
+    "n": 42,
+    "t": [
+     1.68,
+     5.45
+    ],
+    "words": "their ship expendable. They'd find out the hard way."
+   },
+   {
+    "n": 43,
+    "t": [
+     5.45,
+     7.12
+    ],
+    "words": "On January 23, 1968,"
+   },
+   {
+    "n": 44,
+    "t": [
+     7.12,
+     10.0
+    ],
+    "words": "the Pueblo was operating off the coast"
+   }
+  ]
+ },
+ {
+  "clip": 23,
+  "file": "clip_023.mp4",
+  "est_window": [
+   220.0,
+   230.0
+  ],
+  "shots": [
+   {
+    "n": 44,
+    "t": [
+     0.0,
+     4.23
+    ],
+    "words": "of Wonsan in the Sea of Japan. The United States"
+   },
+   {
+    "n": 45,
+    "t": [
+     4.23,
+     7.16
+    ],
+    "words": "claimed international waters, and North Korea disagreed."
+   },
+   {
+    "n": 46,
+    "t": [
+     7.16,
+     9.67
+    ],
+    "words": "At around two-thirty in the afternoon,"
+   },
+   {
+    "n": 47,
+    "t": [
+     9.67,
+     10.0
+    ],
+    "words": "a"
+   }
+  ]
+ },
+ {
+  "clip": 24,
+  "file": "clip_024.mp4",
+  "est_window": [
+   230.0,
+   240.0
+  ],
+  "shots": [
+   {
+    "n": 47,
+    "t": [
+     0.0,
+     6.36
+    ],
+    "words": "North Korean subchaser approached. Then another. Then torpedo boats. The Pueblo was surrounded by faster,"
+   },
+   {
+    "n": 48,
+    "t": [
+     6.36,
+     10.0
+    ],
+    "words": "heavily armed vessels that could sink it without effort."
+   }
+  ]
+ },
+ {
+  "clip": 25,
+  "file": "clip_025.mp4",
+  "est_window": [
+   240.0,
+   250.0
+  ],
+  "shots": [
+   {
+    "n": 48,
+    "t": [
+     0.0,
+     3.47
+    ],
+    "words": "Bucher ordered his crew to stand by. The"
+   },
+   {
+    "n": 49,
+    "t": [
+     3.47,
+     6.4
+    ],
+    "words": "ship carried only a single machine gun"
+   },
+   {
+    "n": 50,
+    "t": [
+     6.4,
+     10.0
+    ],
+    "words": "as a real weapon, and even that froze in"
+   }
+  ]
+ },
+ {
+  "clip": 26,
+  "file": "clip_026.mp4",
+  "est_window": [
+   250.0,
+   260.0
+  ],
+  "shots": [
+   {
+    "n": 50,
+    "t": [
+     0.0,
+     2.68
+    ],
+    "words": "its mount because of the cold."
+   },
+   {
+    "n": 51,
+    "t": [
+     2.68,
+     8.54
+    ],
+    "words": "The North Koreans signaled for the Pueblo to stop. Bucher tried to maneuver away,"
+   },
+   {
+    "n": 52,
+    "t": [
+     8.54,
+     10.0
+    ],
+    "words": "but the subchasers"
+   }
+  ]
+ },
+ {
+  "clip": 27,
+  "file": "clip_027.mp4",
+  "est_window": [
+   260.0,
+   270.0
+  ],
+  "shots": [
+   {
+    "n": 52,
+    "t": [
+     0.0,
+     5.65
+    ],
+    "words": "opened fire anyway. One shell struck the bridge. Fireman Duane Hodges died where he"
+   },
+   {
+    "n": 53,
+    "t": [
+     5.65,
+     9.83
+    ],
+    "words": "stood. He was the only American killed in the attack,"
+   },
+   {
+    "n": 54,
+    "t": [
+     9.83,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 28,
+  "file": "clip_028.mp4",
+  "est_window": [
+   270.0,
+   280.0
+  ],
+  "shots": [
+   {
+    "n": 54,
+    "t": [
+     0.0,
+     4.43
+    ],
+    "words": "but he would not be the only casualty of this incident."
+   },
+   {
+    "n": 55,
+    "t": [
+     4.43,
+     10.0
+    ],
+    "words": "The crew had been trained to destroy classified material if capture looked likely."
+   }
+  ]
+ },
+ {
+  "clip": 29,
+  "file": "clip_029.mp4",
+  "est_window": [
+   280.0,
+   290.0
+  ],
+  "shots": [
+   {
+    "n": 55,
+    "t": [
+     0.0,
+     1.54
+    ],
+    "words": "They started burning documents"
+   },
+   {
+    "n": 56,
+    "t": [
+     1.54,
+     8.65
+    ],
+    "words": "and smashing equipment. But there was too much of it, and the North Koreans were climbing aboard"
+   },
+   {
+    "n": 57,
+    "t": [
+     8.65,
+     10.0
+    ],
+    "words": "before the job"
+   }
+  ]
+ },
+ {
+  "clip": 30,
+  "file": "clip_030.mp4",
+  "est_window": [
+   290.0,
+   300.0
+  ],
+  "shots": [
+   {
+    "n": 57,
+    "t": [
+     0.0,
+     4.51
+    ],
+    "words": "was finished. The crew threw what they could into the sea,"
+   },
+   {
+    "n": 58,
+    "t": [
+     4.51,
+     9.53
+    ],
+    "words": "but some intelligence fell into North Korean hands. That would matter later."
+   },
+   {
+    "n": 59,
+    "t": [
+     9.53,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 31,
+  "file": "clip_031.mp4",
+  "est_window": [
+   300.0,
+   310.0
+  ],
+  "shots": [
+   {
+    "n": 59,
+    "t": [
+     0.0,
+     2.88
+    ],
+    "words": "North Koreans took the crew at gunpoint"
+   },
+   {
+    "n": 60,
+    "t": [
+     2.88,
+     7.9
+    ],
+    "words": "and tied their hands. Then they towed the Pueblo into Wonsan harbor"
+   },
+   {
+    "n": 61,
+    "t": [
+     7.9,
+     10.0
+    ],
+    "words": "while the crew watched from"
+   }
+  ]
+ },
+ {
+  "clip": 32,
+  "file": "clip_032.mp4",
+  "est_window": [
+   310.0,
+   320.0
+  ],
+  "shots": [
+   {
+    "n": 61,
+    "t": [
+     0.0,
+     4.59
+    ],
+    "words": "the deck, unable to do anything except wonder what came next."
+   },
+   {
+    "n": 62,
+    "t": [
+     4.59,
+     10.0
+    ],
+    "words": "The timing of the attack was not an accident. The Tet Offensive had"
+   }
+  ]
+ },
+ {
+  "clip": 33,
+  "file": "clip_033.mp4",
+  "est_window": [
+   320.0,
+   330.0
+  ],
+  "shots": [
+   {
+    "n": 62,
+    "t": [
+     0.0,
+     1.7
+    ],
+    "words": "begun in Vietnam just"
+   },
+   {
+    "n": 63,
+    "t": [
+     1.7,
+     8.81
+    ],
+    "words": "three days earlier. The Johnson administration was already reeling from the largest communist offensive of the war."
+   },
+   {
+    "n": 64,
+    "t": [
+     8.81,
+     10.0
+    ],
+    "words": "The last thing"
+   }
+  ]
+ },
+ {
+  "clip": 34,
+  "file": "clip_034.mp4",
+  "est_window": [
+   330.0,
+   340.0
+  ],
+  "shots": [
+   {
+    "n": 64,
+    "t": [
+     0.0,
+     5.92
+    ],
+    "words": "Washington needed was a second shooting war in Asia. The North Koreans knew this."
+   },
+   {
+    "n": 65,
+    "t": [
+     5.92,
+     10.0
+    ],
+    "words": "They understood that the United States had no appetite for"
+   }
+  ]
+ },
+ {
+  "clip": 35,
+  "file": "clip_035.mp4",
+  "est_window": [
+   340.0,
+   350.0
+  ],
+  "shots": [
+   {
+    "n": 65,
+    "t": [
+     0.0,
+     0.52
+    ],
+    "words": "retaliation"
+   },
+   {
+    "n": 66,
+    "t": [
+     0.52,
+     5.12
+    ],
+    "words": "while it was losing hundreds of soldiers every week in Vietnam."
+   },
+   {
+    "n": 67,
+    "t": [
+     5.12,
+     10.0
+    ],
+    "words": "Washington had no good options. An airstrike on Wonsan harbor might free"
+   }
+  ]
+ },
+ {
+  "clip": 36,
+  "file": "clip_036.mp4",
+  "est_window": [
+   350.0,
+   360.0
+  ],
+  "shots": [
+   {
+    "n": 67,
+    "t": [
+     0.0,
+     0.98
+    ],
+    "words": "the crew,"
+   },
+   {
+    "n": 68,
+    "t": [
+     0.98,
+     6.42
+    ],
+    "words": "or it might get them all killed. A naval blockade might pressure Pyongyang,"
+   },
+   {
+    "n": 69,
+    "t": [
+     6.42,
+     10.0
+    ],
+    "words": "or it might trigger a wider conflict that the"
+   }
+  ]
+ },
+ {
+  "clip": 37,
+  "file": "clip_037.mp4",
+  "est_window": [
+   360.0,
+   370.0
+  ],
+  "shots": [
+   {
+    "n": 69,
+    "t": [
+     0.0,
+     3.53
+    ],
+    "words": "United States was not prepared to fight. The"
+   },
+   {
+    "n": 70,
+    "t": [
+     3.53,
+     4.37
+    ],
+    "words": "Soviet Union,"
+   },
+   {
+    "n": 71,
+    "t": [
+     4.37,
+     10.0
+    ],
+    "words": "which backed North Korea, made it clear that it would not go to"
+   }
+  ]
+ },
+ {
+  "clip": 38,
+  "file": "clip_038.mp4",
+  "est_window": [
+   370.0,
+   380.0
+  ],
+  "shots": [
+   {
+    "n": 71,
+    "t": [
+     0.0,
+     1.48
+    ],
+    "words": "war over the Pueblo,"
+   },
+   {
+    "n": 72,
+    "t": [
+     1.48,
+     8.59
+    ],
+    "words": "but it would also not abandon its ally. Johnson found himself in a position where doing nothing"
+   },
+   {
+    "n": 73,
+    "t": [
+     8.59,
+     10.0
+    ],
+    "words": "looked weak and"
+   }
+  ]
+ },
+ {
+  "clip": 39,
+  "file": "clip_039.mp4",
+  "est_window": [
+   380.0,
+   390.0
+  ],
+  "shots": [
+   {
+    "n": 73,
+    "t": [
+     0.0,
+     1.52
+    ],
+    "words": "doing something looked catastrophic."
+   },
+   {
+    "n": 74,
+    "t": [
+     1.52,
+     8.63
+    ],
+    "words": "The seizure made headlines around the world. It was the first time a foreign power had captured"
+   },
+   {
+    "n": 75,
+    "t": [
+     8.63,
+     10.0
+    ],
+    "words": "an American warship"
+   }
+  ]
+ },
+ {
+  "clip": 40,
+  "file": "clip_040.mp4",
+  "est_window": [
+   390.0,
+   400.0
+  ],
+  "shots": [
+   {
+    "n": 75,
+    "t": [
+     0.0,
+     5.74
+    ],
+    "words": "since the War of 1812. And it happened not with a fleet action or"
+   },
+   {
+    "n": 76,
+    "t": [
+     5.74,
+     7.0
+    ],
+    "words": "a naval battle,"
+   },
+   {
+    "n": 77,
+    "t": [
+     7.0,
+     10.0
+    ],
+    "words": "but with a handful of patrol boats"
+   }
+  ]
+ },
+ {
+  "clip": 41,
+  "file": "clip_041.mp4",
+  "est_window": [
+   400.0,
+   410.0
+  ],
+  "shots": [
+   {
+    "n": 77,
+    "t": [
+     0.0,
+     4.11
+    ],
+    "words": "against a converted cargo ship that could not shoot back."
+   },
+   {
+    "n": 78,
+    "t": [
+     4.11,
+     9.13
+    ],
+    "words": "The military imbalance looked almost embarrassing. But the political implications were anything"
+   },
+   {
+    "n": 79,
+    "t": [
+     9.13,
+     10.0
+    ],
+    "words": "but funny."
+   }
+  ]
+ },
+ {
+  "clip": 42,
+  "file": "clip_042.mp4",
+  "est_window": [
+   410.0,
+   420.0
+  ],
+  "shots": [
+   {
+    "n": 79,
+    "t": [
+     0.0,
+     6.24
+    ],
+    "words": "The question was no longer whether the United States could afford to fight. It was"
+   },
+   {
+    "n": 80,
+    "t": [
+     6.24,
+     9.17
+    ],
+    "words": "whether the crew could afford to wait."
+   },
+   {
+    "n": 81,
+    "t": [
+     9.17,
+     10.0
+    ],
+    "words": "The eighty-two"
+   }
+  ]
+ },
+ {
+  "clip": 43,
+  "file": "clip_043.mp4",
+  "est_window": [
+   420.0,
+   430.0
+  ],
+  "shots": [
+   {
+    "n": 81,
+    "t": [
+     0.0,
+     2.52
+    ],
+    "words": "surviving crewmen were moved to Pyongyang"
+   },
+   {
+    "n": 82,
+    "t": [
+     2.52,
+     9.63
+    ],
+    "words": "and held in conditions that would leave some of them permanently damaged. Historical accounts describe beatings, near-starvation,"
+   },
+   {
+    "n": 83,
+    "t": [
+     9.63,
+     10.0
+    ],
+    "words": "and"
+   }
+  ]
+ },
+ {
+  "clip": 44,
+  "file": "clip_044.mp4",
+  "est_window": [
+   430.0,
+   440.0
+  ],
+  "shots": [
+   {
+    "n": 83,
+    "t": [
+     0.0,
+     6.74
+    ],
+    "words": "psychological pressure designed to break them. The North Koreans wanted propaganda victories. They wanted the crew"
+   },
+   {
+    "n": 84,
+    "t": [
+     6.74,
+     10.0
+    ],
+    "words": "to admit they had entered territorial waters deliberately."
+   }
+  ]
+ },
+ {
+  "clip": 45,
+  "file": "clip_045.mp4",
+  "est_window": [
+   440.0,
+   450.0
+  ],
+  "shots": [
+   {
+    "n": 84,
+    "t": [
+     0.0,
+     3.85
+    ],
+    "words": "They wanted the world to see Americans admitting guilt."
+   },
+   {
+    "n": 85,
+    "t": [
+     3.85,
+     8.87
+    ],
+    "words": "Bucher himself was forced to participate in staged appearances. The crew, meanwhile,"
+   },
+   {
+    "n": 86,
+    "t": [
+     8.87,
+     10.0
+    ],
+    "words": "found a way"
+   }
+  ]
+ },
+ {
+  "clip": 46,
+  "file": "clip_046.mp4",
+  "est_window": [
+   450.0,
+   460.0
+  ],
+  "shots": [
+   {
+    "n": 86,
+    "t": [
+     0.0,
+     5.56
+    ],
+    "words": "to resist without speaking. In photographs that the North Koreans took for propaganda,"
+   },
+   {
+    "n": 87,
+    "t": [
+     5.56,
+     10.0
+    ],
+    "words": "the sailors flashed coded hand gestures. They extended their middle fingers"
+   }
+  ]
+ },
+ {
+  "clip": 47,
+  "file": "clip_047.mp4",
+  "est_window": [
+   460.0,
+   470.0
+  ],
+  "shots": [
+   {
+    "n": 87,
+    "t": [
+     0.0,
+     2.67
+    ],
+    "words": "in poses that looked innocent to"
+   },
+   {
+    "n": 88,
+    "t": [
+     2.67,
+     9.78
+    ],
+    "words": "their captors but sent a clear message home. The gesture made it back to the United States"
+   },
+   {
+    "n": 89,
+    "t": [
+     9.78,
+     10.0
+    ],
+    "words": "before"
+   }
+  ]
+ },
+ {
+  "clip": 48,
+  "file": "clip_048.mp4",
+  "est_window": [
+   470.0,
+   480.0
+  ],
+  "shots": [
+   {
+    "n": 89,
+    "t": [
+     0.0,
+     6.47
+    ],
+    "words": "the censors understood what it meant. When the North Koreans realized what the fingers signified,"
+   },
+   {
+    "n": 90,
+    "t": [
+     6.47,
+     10.0
+    ],
+    "words": "the beatings got worse. But the crew had"
+   }
+  ]
+ },
+ {
+  "clip": 49,
+  "file": "clip_049.mp4",
+  "est_window": [
+   480.0,
+   490.0
+  ],
+  "shots": [
+   {
+    "n": 90,
+    "t": [
+     0.0,
+     3.58
+    ],
+    "words": "already won a small victory. The photographs ran in"
+   },
+   {
+    "n": 91,
+    "t": [
+     3.58,
+     7.76
+    ],
+    "words": "American newspapers, and the public saw defiance instead of surrender."
+   },
+   {
+    "n": 92,
+    "t": [
+     7.76,
+     9.02
+    ],
+    "words": "For eleven months,"
+   },
+   {
+    "n": 93,
+    "t": [
+     9.02,
+     10.0
+    ],
+    "words": "the crew"
+   }
+  ]
+ },
+ {
+  "clip": 50,
+  "file": "clip_050.mp4",
+  "est_window": [
+   490.0,
+   500.0
+  ],
+  "shots": [
+   {
+    "n": 93,
+    "t": [
+     0.0,
+     6.13
+    ],
+    "words": "lived in uncertainty. Some were beaten so badly they would never fully recover. Others went"
+   },
+   {
+    "n": 94,
+    "t": [
+     6.13,
+     10.0
+    ],
+    "words": "partially blind from malnutrition and the stress of confinement."
+   }
+  ]
+ },
+ {
+  "clip": 51,
+  "file": "clip_051.mp4",
+  "est_window": [
+   500.0,
+   510.0
+  ],
+  "shots": [
+   {
+    "n": 94,
+    "t": [
+     0.0,
+     2.41
+    ],
+    "words": "The North Koreans treated the capture"
+   },
+   {
+    "n": 95,
+    "t": [
+     2.41,
+     9.52
+    ],
+    "words": "as a major triumph. The United States treated it as a crisis that could spiral into war."
+   },
+   {
+    "n": 96,
+    "t": [
+     9.52,
+     10.0
+    ],
+    "words": "In"
+   }
+  ]
+ },
+ {
+  "clip": 52,
+  "file": "clip_052.mp4",
+  "est_window": [
+   510.0,
+   520.0
+  ],
+  "shots": [
+   {
+    "n": 96,
+    "t": [
+     0.0,
+     6.63
+    ],
+    "words": "Washington, the public reaction mixed fury and confusion. Americans had grown accustomed to Cold War tension,"
+   },
+   {
+    "n": 97,
+    "t": [
+     6.63,
+     10.0
+    ],
+    "words": "but the idea that a smaller power could"
+   }
+  ]
+ },
+ {
+  "clip": 53,
+  "file": "clip_053.mp4",
+  "est_window": [
+   520.0,
+   530.0
+  ],
+  "shots": [
+   {
+    "n": 97,
+    "t": [
+     0.0,
+     2.91
+    ],
+    "words": "steal an American warship and parade it"
+   },
+   {
+    "n": 98,
+    "t": [
+     2.91,
+     10.0
+    ],
+    "words": "as a prize was something new. Editorials demanded action. Congressmen called for bombing raids. But the Pentagon"
+   }
+  ]
+ },
+ {
+  "clip": 54,
+  "file": "clip_054.mp4",
+  "est_window": [
+   530.0,
+   540.0
+  ],
+  "shots": [
+   {
+    "n": 99,
+    "t": [
+     0.02,
+     5.88
+    ],
+    "words": "knew what the public didn't: any military strike would almost certainly kill the crew"
+   },
+   {
+    "n": 100,
+    "t": [
+     5.88,
+     7.55
+    ],
+    "words": "before it freed them."
+   },
+   {
+    "n": 101,
+    "t": [
+     7.55,
+     10.0
+    ],
+    "words": "Washington considered military options that included"
+   }
+  ]
+ },
+ {
+  "clip": 55,
+  "file": "clip_055.mp4",
+  "est_window": [
+   540.0,
+   550.0
+  ],
+  "shots": [
+   {
+    "n": 101,
+    "t": [
+     0.0,
+     1.32
+    ],
+    "words": "airstrikes, naval blockades,"
+   },
+   {
+    "n": 102,
+    "t": [
+     1.32,
+     8.43
+    ],
+    "words": "and special forces rescue. But every option carried the risk of igniting a second Korean War at"
+   },
+   {
+    "n": 103,
+    "t": [
+     8.43,
+     10.0
+    ],
+    "words": "a moment when the"
+   }
+  ]
+ },
+ {
+  "clip": 56,
+  "file": "clip_056.mp4",
+  "est_window": [
+   550.0,
+   560.0
+  ],
+  "shots": [
+   {
+    "n": 103,
+    "t": [
+     0.0,
+     5.12
+    ],
+    "words": "United States was already fighting in Vietnam. The administration chose negotiation instead,"
+   },
+   {
+    "n": 104,
+    "t": [
+     5.12,
+     10.0
+    ],
+    "words": "even though negotiation meant dealing with a government that had just killed"
+   }
+  ]
+ },
+ {
+  "clip": 57,
+  "file": "clip_057.mp4",
+  "est_window": [
+   560.0,
+   570.0
+  ],
+  "shots": [
+   {
+    "n": 104,
+    "t": [
+     0.0,
+     1.4
+    ],
+    "words": "an American sailor"
+   },
+   {
+    "n": 105,
+    "t": [
+     1.4,
+     3.49
+    ],
+    "words": "and stolen an American ship."
+   },
+   {
+    "n": 106,
+    "t": [
+     3.49,
+     10.0
+    ],
+    "words": "The crew did not know any of this. They did not know whether Washington was planning"
+   }
+  ]
+ },
+ {
+  "clip": 58,
+  "file": "clip_058.mp4",
+  "est_window": [
+   570.0,
+   580.0
+  ],
+  "shots": [
+   {
+    "n": 106,
+    "t": [
+     0.0,
+     0.6
+    ],
+    "words": "to"
+   },
+   {
+    "n": 107,
+    "t": [
+     0.6,
+     7.29
+    ],
+    "words": "rescue them or had already forgotten them. They only knew that each day brought new interrogations,"
+   },
+   {
+    "n": 108,
+    "t": [
+     7.29,
+     8.13
+    ],
+    "words": "new humiliations,"
+   },
+   {
+    "n": 109,
+    "t": [
+     8.13,
+     10.0
+    ],
+    "words": "and new reasons to"
+   }
+  ]
+ },
+ {
+  "clip": 59,
+  "file": "clip_059.mp4",
+  "est_window": [
+   580.0,
+   590.0
+  ],
+  "shots": [
+   {
+    "n": 109,
+    "t": [
+     0.0,
+     5.24
+    ],
+    "words": "believe they might never leave. Some were kept in solitary confinement. Others were"
+   },
+   {
+    "n": 110,
+    "t": [
+     5.24,
+     10.0
+    ],
+    "words": "forced to sit through political lectures for hours at a time."
+   }
+  ]
+ },
+ {
+  "clip": 60,
+  "file": "clip_060.mp4",
+  "est_window": [
+   590.0,
+   600.0
+  ],
+  "shots": [
+   {
+    "n": 110,
+    "t": [
+     0.0,
+     2.35
+    ],
+    "words": "The food was barely enough to"
+   },
+   {
+    "n": 111,
+    "t": [
+     2.35,
+     5.7
+    ],
+    "words": "survive on. Medical care was almost entirely nonexistent."
+   },
+   {
+    "n": 112,
+    "t": [
+     5.7,
+     6.96
+    ],
+    "words": "In February 1968,"
+   },
+   {
+    "n": 113,
+    "t": [
+     6.96,
+     10.0
+    ],
+    "words": "the North Koreans presented Bucher with a"
+   }
+  ]
+ },
+ {
+  "clip": 61,
+  "file": "clip_061.mp4",
+  "est_window": [
+   600.0,
+   610.0
+  ],
+  "shots": [
+   {
+    "n": 113,
+    "t": [
+     0.0,
+     4.07
+    ],
+    "words": "document claiming the Pueblo sailed into their waters on purpose."
+   },
+   {
+    "n": 114,
+    "t": [
+     4.07,
+     10.0
+    ],
+    "words": "He refused to sign it. The guards beat him until he could barely stand."
+   }
+  ]
+ },
+ {
+  "clip": 62,
+  "file": "clip_062.mp4",
+  "est_window": [
+   610.0,
+   620.0
+  ],
+  "shots": [
+   {
+    "n": 114,
+    "t": [
+     0.0,
+     1.18
+    ],
+    "words": "Then they showed"
+   },
+   {
+    "n": 115,
+    "t": [
+     1.18,
+     8.29
+    ],
+    "words": "him a second confession. He refused again. The cycle continued until the North Koreans produced a confession"
+   },
+   {
+    "n": 116,
+    "t": [
+     8.29,
+     10.0
+    ],
+    "words": "so absurdly written, so"
+   }
+  ]
+ },
+ {
+  "clip": 63,
+  "file": "clip_063.mp4",
+  "est_window": [
+   620.0,
+   630.0
+  ],
+  "shots": [
+   {
+    "n": 116,
+    "t": [
+     0.0,
+     0.8
+    ],
+    "words": "obviously false,"
+   },
+   {
+    "n": 117,
+    "t": [
+     0.8,
+     7.91
+    ],
+    "words": "that Bucher agreed to sign it just to stop the beatings. It claimed the ship had entered"
+   },
+   {
+    "n": 118,
+    "t": [
+     7.91,
+     10.0
+    ],
+    "words": "their waters to spy, which"
+   }
+  ]
+ },
+ {
+  "clip": 64,
+  "file": "clip_064.mp4",
+  "est_window": [
+   630.0,
+   640.0
+  ],
+  "shots": [
+   {
+    "n": 118,
+    "t": [
+     0.0,
+     3.35
+    ],
+    "words": "was technically true, but it framed the mission"
+   },
+   {
+    "n": 119,
+    "t": [
+     3.35,
+     10.0
+    ],
+    "words": "as an act of war rather than routine Cold War surveillance. What Bucher didn't know was"
+   }
+  ]
+ },
+ {
+  "clip": 65,
+  "file": "clip_065.mp4",
+  "est_window": [
+   640.0,
+   650.0
+  ],
+  "shots": [
+   {
+    "n": 119,
+    "t": [
+     0.0,
+     0.46
+    ],
+    "words": "that"
+   },
+   {
+    "n": 120,
+    "t": [
+     0.46,
+     7.57
+    ],
+    "words": "his signed confession would become the template for the diplomatic maneuver that eventually freed his entire crew."
+   },
+   {
+    "n": 121,
+    "t": [
+     7.57,
+     10.0
+    ],
+    "words": "That confession became the template for"
+   }
+  ]
+ },
+ {
+  "clip": 66,
+  "file": "clip_066.mp4",
+  "est_window": [
+   650.0,
+   660.0
+  ],
+  "shots": [
+   {
+    "n": 121,
+    "t": [
+     0.0,
+     3.01
+    ],
+    "words": "what would happen at Panmunjom months later."
+   },
+   {
+    "n": 122,
+    "t": [
+     3.01,
+     10.0
+    ],
+    "words": "The only channel the United States had to North Korea was the Military Armistice Commission at Panmunjom."
+   }
+  ]
+ },
+ {
+  "clip": 67,
+  "file": "clip_067.mp4",
+  "est_window": [
+   660.0,
+   670.0
+  ],
+  "shots": [
+   {
+    "n": 122,
+    "t": [
+     0.0,
+     0.12
+    ],
+    "words": ""
+   },
+   {
+    "n": 123,
+    "t": [
+     0.12,
+     7.23
+    ],
+    "words": "That name already carried Cold War weight. Panmunjom was where the Korean War had ended in 1953,"
+   },
+   {
+    "n": 124,
+    "t": [
+     7.23,
+     10.0
+    ],
+    "words": "not with a peace treaty but with"
+   }
+  ]
+ },
+ {
+  "clip": 68,
+  "file": "clip_068.mp4",
+  "est_window": [
+   670.0,
+   680.0
+  ],
+  "shots": [
+   {
+    "n": 124,
+    "t": [
+     0.0,
+     3.92
+    ],
+    "words": "a ceasefire. It was a place built for stalemates,"
+   },
+   {
+    "n": 125,
+    "t": [
+     3.92,
+     4.76
+    ],
+    "words": "not solutions."
+   },
+   {
+    "n": 126,
+    "t": [
+     4.76,
+     6.02
+    ],
+    "words": "For months, American"
+   },
+   {
+    "n": 127,
+    "t": [
+     6.02,
+     10.0
+    ],
+    "words": "and North Korean negotiators met at the table. The North"
+   }
+  ]
+ },
+ {
+  "clip": 69,
+  "file": "clip_069.mp4",
+  "est_window": [
+   680.0,
+   690.0
+  ],
+  "shots": [
+   {
+    "n": 127,
+    "t": [
+     0.0,
+     3.13
+    ],
+    "words": "Koreans demanded an admission of wrongdoing. The"
+   },
+   {
+    "n": 128,
+    "t": [
+     3.13,
+     9.41
+    ],
+    "words": "Americans demanded the crew's return. Neither side would move unless the other gave ground first."
+   },
+   {
+    "n": 129,
+    "t": [
+     9.41,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 70,
+  "file": "clip_070.mp4",
+  "est_window": [
+   690.0,
+   700.0
+  ],
+  "shots": [
+   {
+    "n": 129,
+    "t": [
+     0.0,
+     5.27
+    ],
+    "words": "Johnson administration faced pressure from multiple directions. The public wanted the crew home,"
+   },
+   {
+    "n": 130,
+    "t": [
+     5.27,
+     7.78
+    ],
+    "words": "the military wanted to strike back,"
+   },
+   {
+    "n": 131,
+    "t": [
+     7.78,
+     10.0
+    ],
+    "words": "and the diplomats wanted to"
+   }
+  ]
+ },
+ {
+  "clip": 71,
+  "file": "clip_071.mp4",
+  "est_window": [
+   700.0,
+   710.0
+  ],
+  "shots": [
+   {
+    "n": 131,
+    "t": [
+     0.0,
+     4.89
+    ],
+    "words": "avoid a wider war. Every option looked bad. If the United States"
+   },
+   {
+    "n": 132,
+    "t": [
+     4.89,
+     10.0
+    ],
+    "words": "attacked, it might have to fight in Korea while losing in Vietnam."
+   }
+  ]
+ },
+ {
+  "clip": 72,
+  "file": "clip_072.mp4",
+  "est_window": [
+   710.0,
+   720.0
+  ],
+  "shots": [
+   {
+    "n": 132,
+    "t": [
+     0.0,
+     1.58
+    ],
+    "words": "If it did nothing,"
+   },
+   {
+    "n": 133,
+    "t": [
+     1.58,
+     6.18
+    ],
+    "words": "it would signal that American sailors could be seized with impunity."
+   },
+   {
+    "n": 134,
+    "t": [
+     6.18,
+     6.6
+    ],
+    "words": "Finally,"
+   },
+   {
+    "n": 135,
+    "t": [
+     6.6,
+     10.0
+    ],
+    "words": "a compromise emerged that only Cold War logic"
+   }
+  ]
+ },
+ {
+  "clip": 73,
+  "file": "clip_073.mp4",
+  "est_window": [
+   720.0,
+   730.0
+  ],
+  "shots": [
+   {
+    "n": 135,
+    "t": [
+     0.0,
+     3.71
+    ],
+    "words": "could produce. The United States agreed to sign a"
+   },
+   {
+    "n": 136,
+    "t": [
+     3.71,
+     9.57
+    ],
+    "words": "letter admitting the Pueblo sailed into North Korean waters. But here was the twist:"
+   },
+   {
+    "n": 137,
+    "t": [
+     9.57,
+     10.0
+    ],
+    "words": "before"
+   }
+  ]
+ },
+ {
+  "clip": 74,
+  "file": "clip_074.mp4",
+  "est_window": [
+   730.0,
+   740.0
+  ],
+  "shots": [
+   {
+    "n": 137,
+    "t": [
+     0.0,
+     5.43
+    ],
+    "words": "the document was handed over, an American representative stood at the signing table"
+   },
+   {
+    "n": 138,
+    "t": [
+     5.43,
+     10.0
+    ],
+    "words": "and publicly repudiated it. The confession was signed and disavowed in"
+   }
+  ]
+ },
+ {
+  "clip": 75,
+  "file": "clip_075.mp4",
+  "est_window": [
+   740.0,
+   750.0
+  ],
+  "shots": [
+   {
+    "n": 138,
+    "t": [
+     0.0,
+     1.29
+    ],
+    "words": "the same breath."
+   },
+   {
+    "n": 139,
+    "t": [
+     1.29,
+     7.15
+    ],
+    "words": "This pre-repudiated apology let both sides claim victory. North Korea got its signed admission,"
+   },
+   {
+    "n": 140,
+    "t": [
+     7.15,
+     10.0
+    ],
+    "words": "which it could display to its own"
+   }
+  ]
+ },
+ {
+  "clip": 76,
+  "file": "clip_076.mp4",
+  "est_window": [
+   750.0,
+   760.0
+  ],
+  "shots": [
+   {
+    "n": 140,
+    "t": [
+     0.0,
+     0.5
+    ],
+    "words": "people"
+   },
+   {
+    "n": 141,
+    "t": [
+     0.5,
+     7.61
+    ],
+    "words": "and to the world. The United States got its crew back without technically admitting anything. The diplomatic"
+   },
+   {
+    "n": 142,
+    "t": [
+     7.61,
+     10.0
+    ],
+    "words": "mechanism was absurd, but it worked."
+   }
+  ]
+ },
+ {
+  "clip": 77,
+  "file": "clip_077.mp4",
+  "est_window": [
+   760.0,
+   770.0
+  ],
+  "shots": [
+   {
+    "n": 142,
+    "t": [
+     0.0,
+     3.89
+    ],
+    "words": "No other major power had ever signed a confession"
+   },
+   {
+    "n": 143,
+    "t": [
+     3.89,
+     10.0
+    ],
+    "words": "and disavowed it in the same breath, and no one has tried the same trick"
+   }
+  ]
+ },
+ {
+  "clip": 78,
+  "file": "clip_078.mp4",
+  "est_window": [
+   770.0,
+   780.0
+  ],
+  "shots": [
+   {
+    "n": 143,
+    "t": [
+     0.0,
+     0.58
+    ],
+    "words": "since."
+   },
+   {
+    "n": 144,
+    "t": [
+     0.58,
+     4.76
+    ],
+    "words": "On December 23, 1968, exactly eleven months after the seizure,"
+   },
+   {
+    "n": 145,
+    "t": [
+     4.76,
+     10.0
+    ],
+    "words": "the surviving crew crossed the Bridge of No Return at Panmunjom. They carried"
+   }
+  ]
+ },
+ {
+  "clip": 79,
+  "file": "clip_079.mp4",
+  "est_window": [
+   780.0,
+   790.0
+  ],
+  "shots": [
+   {
+    "n": 145,
+    "t": [
+     0.0,
+     1.87
+    ],
+    "words": "with them the body"
+   },
+   {
+    "n": 146,
+    "t": [
+     1.87,
+     3.13
+    ],
+    "words": "of Duane Hodges,"
+   },
+   {
+    "n": 147,
+    "t": [
+     3.13,
+     10.0
+    ],
+    "words": "the man who had not survived the first hour. Hodges had been dead for almost a"
+   }
+  ]
+ },
+ {
+  "clip": 80,
+  "file": "clip_080.mp4",
+  "est_window": [
+   790.0,
+   800.0
+  ],
+  "shots": [
+   {
+    "n": 147,
+    "t": [
+     0.0,
+     0.24
+    ],
+    "words": "year."
+   },
+   {
+    "n": 148,
+    "t": [
+     0.24,
+     6.1
+    ],
+    "words": "His body had been kept by the North Koreans as part of the bargaining."
+   },
+   {
+    "n": 149,
+    "t": [
+     6.1,
+     10.0
+    ],
+    "words": "Bucher led his men across the bridge. Some were"
+   }
+  ]
+ },
+ {
+  "clip": 81,
+  "file": "clip_081.mp4",
+  "est_window": [
+   800.0,
+   810.0
+  ],
+  "shots": [
+   {
+    "n": 149,
+    "t": [
+     0.0,
+     1.96
+    ],
+    "words": "crippled and could barely see,"
+   },
+   {
+    "n": 150,
+    "t": [
+     1.96,
+     6.56
+    ],
+    "words": "but all of them were defiant. They had survived captivity, humiliation,"
+   },
+   {
+    "n": 151,
+    "t": [
+     6.56,
+     9.49
+    ],
+    "words": "and a government that had treated them"
+   },
+   {
+    "n": 152,
+    "t": [
+     9.49,
+     10.0
+    ],
+    "words": "as"
+   }
+  ]
+ },
+ {
+  "clip": 82,
+  "file": "clip_082.mp4",
+  "est_window": [
+   810.0,
+   820.0
+  ],
+  "shots": [
+   {
+    "n": 152,
+    "t": [
+     0.0,
+     4.93
+    ],
+    "words": "bargaining chips. But they left something behind that no negotiation could retrieve."
+   },
+   {
+    "n": 153,
+    "t": [
+     4.93,
+     8.7
+    ],
+    "words": "The ship itself had never been on the table"
+   },
+   {
+    "n": 154,
+    "t": [
+     8.7,
+     10.0
+    ],
+    "words": "because the United"
+   }
+  ]
+ },
+ {
+  "clip": 83,
+  "file": "clip_083.mp4",
+  "est_window": [
+   820.0,
+   830.0
+  ],
+  "shots": [
+   {
+    "n": 154,
+    "t": [
+     0.0,
+     4.14
+    ],
+    "words": "States had negotiated only for the crew, not the vessel."
+   },
+   {
+    "n": 155,
+    "t": [
+     4.14,
+     7.49
+    ],
+    "words": "The crew came home. The ship did not."
+   },
+   {
+    "n": 156,
+    "t": [
+     7.49,
+     10.0
+    ],
+    "words": "North Korea refused to return the"
+   }
+  ]
+ },
+ {
+  "clip": 84,
+  "file": "clip_084.mp4",
+  "est_window": [
+   830.0,
+   840.0
+  ],
+  "shots": [
+   {
+    "n": 156,
+    "t": [
+     0.0,
+     4.18
+    ],
+    "words": "Pueblo. They moved it to the Pothonggang Canal in Pyongyang,"
+   },
+   {
+    "n": 157,
+    "t": [
+     4.18,
+     10.0
+    ],
+    "words": "right next to the Victorious Fatherland Liberation War Museum, where they painted it, repaired"
+   }
+  ]
+ },
+ {
+  "clip": 85,
+  "file": "clip_085.mp4",
+  "est_window": [
+   840.0,
+   850.0
+  ],
+  "shots": [
+   {
+    "n": 157,
+    "t": [
+     0.0,
+     1.29
+    ],
+    "words": "parts of it,"
+   },
+   {
+    "n": 158,
+    "t": [
+     1.29,
+     3.8
+    ],
+    "words": "and turned it into a trophy."
+   },
+   {
+    "n": 159,
+    "t": [
+     3.8,
+     10.0
+    ],
+    "words": "Here is what makes this more than a historical footnote. The USS Pueblo is still"
+   }
+  ]
+ },
+ {
+  "clip": 86,
+  "file": "clip_086.mp4",
+  "est_window": [
+   850.0,
+   860.0
+  ],
+  "shots": [
+   {
+    "n": 159,
+    "t": [
+     0.0,
+     0.91
+    ],
+    "words": "a commissioned"
+   },
+   {
+    "n": 160,
+    "t": [
+     0.91,
+     8.02
+    ],
+    "words": "vessel of the United States Navy. It has never been decommissioned. It has never been struck from"
+   },
+   {
+    "n": 161,
+    "t": [
+     8.02,
+     9.28
+    ],
+    "words": "the naval register."
+   },
+   {
+    "n": 162,
+    "t": [
+     9.28,
+     10.0
+    ],
+    "words": "That makes"
+   }
+  ]
+ },
+ {
+  "clip": 87,
+  "file": "clip_087.mp4",
+  "est_window": [
+   860.0,
+   870.0
+  ],
+  "shots": [
+   {
+    "n": 162,
+    "t": [
+     0.0,
+     4.72
+    ],
+    "words": "it the second-oldest commissioned ship in the entire United States Navy,"
+   },
+   {
+    "n": 163,
+    "t": [
+     4.72,
+     8.9
+    ],
+    "words": "after USS Constitution. And it sits in an enemy capital,"
+   },
+   {
+    "n": 164,
+    "t": [
+     8.9,
+     10.0
+    ],
+    "words": "less than a"
+   }
+  ]
+ },
+ {
+  "clip": 88,
+  "file": "clip_088.mp4",
+  "est_window": [
+   870.0,
+   880.0
+  ],
+  "shots": [
+   {
+    "n": 164,
+    "t": [
+     0.0,
+     4.34
+    ],
+    "words": "hundred miles from the border where the crew walked free."
+   },
+   {
+    "n": 165,
+    "t": [
+     4.34,
+     10.0
+    ],
+    "words": "No other navy on earth has a ship in this position. A commissioned warship,"
+   }
+  ]
+ },
+ {
+  "clip": 89,
+  "file": "clip_089.mp4",
+  "est_window": [
+   880.0,
+   890.0
+  ],
+  "shots": [
+   {
+    "n": 165,
+    "t": [
+     0.0,
+     1.03
+    ],
+    "words": "legally active,"
+   },
+   {
+    "n": 166,
+    "t": [
+     1.03,
+     8.14
+    ],
+    "words": "held by a foreign government for almost sixty years. The United States has demanded its return repeatedly."
+   },
+   {
+    "n": 167,
+    "t": [
+     8.14,
+     10.0
+    ],
+    "words": "North Korea has refused"
+   }
+  ]
+ },
+ {
+  "clip": 90,
+  "file": "clip_090.mp4",
+  "est_window": [
+   890.0,
+   900.0
+  ],
+  "shots": [
+   {
+    "n": 167,
+    "t": [
+     0.0,
+     1.49
+    ],
+    "words": "every time. For Pyongyang,"
+   },
+   {
+    "n": 168,
+    "t": [
+     1.49,
+     6.51
+    ],
+    "words": "the Pueblo is proof that a small power can humiliate a superpower"
+   },
+   {
+    "n": 169,
+    "t": [
+     6.51,
+     9.44
+    ],
+    "words": "and keep the evidence on permanent display."
+   },
+   {
+    "n": 170,
+    "t": [
+     9.44,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 91,
+  "file": "clip_091.mp4",
+  "est_window": [
+   900.0,
+   910.0
+  ],
+  "shots": [
+   {
+    "n": 170,
+    "t": [
+     0.0,
+     6.55
+    ],
+    "words": "ship is not a ruin. Visitors on state-approved tours can walk its decks. They can see"
+   },
+   {
+    "n": 171,
+    "t": [
+     6.55,
+     10.0
+    ],
+    "words": "the listening equipment that started all of this."
+   }
+  ]
+ },
+ {
+  "clip": 92,
+  "file": "clip_092.mp4",
+  "est_window": [
+   910.0,
+   920.0
+  ],
+  "shots": [
+   {
+    "n": 171,
+    "t": [
+     0.0,
+     3.66
+    ],
+    "words": "They can look at the bullet holes that killed"
+   },
+   {
+    "n": 172,
+    "t": [
+     3.66,
+     7.84
+    ],
+    "words": "Duane Hodges. And if they know what to look for,"
+   },
+   {
+    "n": 173,
+    "t": [
+     7.84,
+     10.0
+    ],
+    "words": "they can see something even"
+   }
+  ]
+ },
+ {
+  "clip": 93,
+  "file": "clip_093.mp4",
+  "est_window": [
+   920.0,
+   930.0
+  ],
+  "shots": [
+   {
+    "n": 173,
+    "t": [
+     0.0,
+     4.53
+    ],
+    "words": "stranger: a vessel that belongs to one navy, frozen in time,"
+   },
+   {
+    "n": 174,
+    "t": [
+     4.53,
+     7.46
+    ],
+    "words": "moored in the capital of its captor."
+   },
+   {
+    "n": 175,
+    "t": [
+     7.46,
+     10.0
+    ],
+    "words": "The legal status matters. A commissioned"
+   }
+  ]
+ },
+ {
+  "clip": 94,
+  "file": "clip_094.mp4",
+  "est_window": [
+   930.0,
+   940.0
+  ],
+  "shots": [
+   {
+    "n": 175,
+    "t": [
+     0.0,
+     4.57
+    ],
+    "words": "ship is not property in the normal sense. It is a"
+   },
+   {
+    "n": 176,
+    "t": [
+     4.57,
+     9.59
+    ],
+    "words": "sovereign extension of the nation that owns it. By keeping the Pueblo,"
+   },
+   {
+    "n": 177,
+    "t": [
+     9.59,
+     10.0
+    ],
+    "words": "North"
+   }
+  ]
+ },
+ {
+  "clip": 95,
+  "file": "clip_095.mp4",
+  "est_window": [
+   940.0,
+   950.0
+  ],
+  "shots": [
+   {
+    "n": 177,
+    "t": [
+     0.0,
+     6.7
+    ],
+    "words": "Korea is not just holding a museum piece. It is holding a piece of the United"
+   },
+   {
+    "n": 178,
+    "t": [
+     6.7,
+     10.0
+    ],
+    "words": "States Navy. That is why every administration since"
+   }
+  ]
+ },
+ {
+  "clip": 96,
+  "file": "clip_096.mp4",
+  "est_window": [
+   950.0,
+   960.0
+  ],
+  "shots": [
+   {
+    "n": 178,
+    "t": [
+     0.0,
+     3.81
+    ],
+    "words": "Johnson has asked for it back. That is why"
+   },
+   {
+    "n": 179,
+    "t": [
+     3.81,
+     6.32
+    ],
+    "words": "the answer has always been no."
+   },
+   {
+    "n": 180,
+    "t": [
+     6.32,
+     8.41
+    ],
+    "words": "For the North Korean government,"
+   },
+   {
+    "n": 181,
+    "t": [
+     8.41,
+     10.0
+    ],
+    "words": "the Pueblo serves a"
+   }
+  ]
+ },
+ {
+  "clip": 97,
+  "file": "clip_097.mp4",
+  "est_window": [
+   960.0,
+   970.0
+  ],
+  "shots": [
+   {
+    "n": 181,
+    "t": [
+     0.0,
+     5.52
+    ],
+    "words": "purpose that goes beyond propaganda. It is a physical reminder that the Korean"
+   },
+   {
+    "n": 182,
+    "t": [
+     5.52,
+     10.0
+    ],
+    "words": "War never actually ended. The armistice that stopped the shooting in"
+   }
+  ]
+ },
+ {
+  "clip": 98,
+  "file": "clip_098.mp4",
+  "est_window": [
+   970.0,
+   980.0
+  ],
+  "shots": [
+   {
+    "n": 182,
+    "t": [
+     0.0,
+     2.63
+    ],
+    "words": "1953 was not a peace treaty,"
+   },
+   {
+    "n": 183,
+    "t": [
+     2.63,
+     9.74
+    ],
+    "words": "and both sides have been waiting for the other to blink ever since. The Pueblo is one"
+   },
+   {
+    "n": 184,
+    "t": [
+     9.74,
+     10.0
+    ],
+    "words": "small"
+   }
+  ]
+ },
+ {
+  "clip": 99,
+  "file": "clip_099.mp4",
+  "est_window": [
+   980.0,
+   990.0
+  ],
+  "shots": [
+   {
+    "n": 184,
+    "t": [
+     0.0,
+     5.6
+    ],
+    "words": "piece of that unfinished war, frozen in place where everyone can see it."
+   },
+   {
+    "n": 185,
+    "t": [
+     5.6,
+     10.0
+    ],
+    "words": "That is not a settled matter. It is an open wound"
+   }
+  ]
+ },
+ {
+  "clip": 100,
+  "file": "clip_100.mp4",
+  "est_window": [
+   990.0,
+   1000.0
+  ],
+  "shots": [
+   {
+    "n": 185,
+    "t": [
+     0.0,
+     2.71
+    ],
+    "words": "dressed up as a museum piece."
+   },
+   {
+    "n": 186,
+    "t": [
+     2.71,
+     9.82
+    ],
+    "words": "A commissioned American warship has been sitting in Pyongyang for almost sixty years. That is not a"
+   },
+   {
+    "n": 187,
+    "t": [
+     9.82,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 101,
+  "file": "clip_101.mp4",
+  "est_window": [
+   1000.0,
+   1010.0
+  ],
+  "shots": [
+   {
+    "n": 187,
+    "t": [
+     0.0,
+     6.93
+    ],
+    "words": "closed chapter. It is an open question about what happens when a nation takes something from a"
+   },
+   {
+    "n": 188,
+    "t": [
+     6.93,
+     7.35
+    ],
+    "words": "superpower"
+   },
+   {
+    "n": 189,
+    "t": [
+     7.35,
+     10.0
+    ],
+    "words": "and simply refuses to give it"
+   }
+  ]
+ },
+ {
+  "clip": 102,
+  "file": "clip_102.mp4",
+  "est_window": [
+   1010.0,
+   1017.39
+  ],
+  "shots": [
+   {
+    "n": 189,
+    "t": [
+     0.0,
+     4.46
+    ],
+    "words": "back. If you want to see how other Cold War assumptions"
+   },
+   {
+    "n": 190,
+    "t": [
+     4.46,
+     7.39
+    ],
+    "words": "fell apart, subscribe for the next investigation."
+   }
+  ]
+ }
+]

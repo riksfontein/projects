@@ -1,0 +1,5386 @@
+[
+ {
+  "clip": 1,
+  "file": "clip_001.mp4",
+  "est_window": [
+   0.0,
+   10.0
+  ],
+  "shots": [
+   {
+    "n": 1,
+    "t": [
+     0.0,
+     5.86
+    ],
+    "words": "56 million years ago, the Earth developed a fever that lasted roughly 200,000 years."
+   },
+   {
+    "n": 2,
+    "t": [
+     5.86,
+     10.0
+    ],
+    "words": "In the forests of Wyoming's Bighorn Basin, the first horse,"
+   }
+  ]
+ },
+ {
+  "clip": 2,
+  "file": "clip_002.mp4",
+  "est_window": [
+   10.0,
+   20.0
+  ],
+  "shots": [
+   {
+    "n": 2,
+    "t": [
+     0.0,
+     2.14
+    ],
+    "words": "Sifrhippus, weighed about twelve pounds."
+   },
+   {
+    "n": 3,
+    "t": [
+     2.14,
+     8.0
+    ],
+    "words": "Then the temperature rose by five to eight degrees Celsius, and evolution ran backwards."
+   },
+   {
+    "n": 4,
+    "t": [
+     8.0,
+     10.0
+    ],
+    "words": "Over the next 130,000 years,"
+   }
+  ]
+ },
+ {
+  "clip": 3,
+  "file": "clip_003.mp4",
+  "est_window": [
+   20.0,
+   30.0
+  ],
+  "shots": [
+   {
+    "n": 4,
+    "t": [
+     0.0,
+     2.6
+    ],
+    "words": "Sifrhippus shrank by roughly thirty percent,"
+   },
+   {
+    "n": 5,
+    "t": [
+     2.6,
+     6.37
+    ],
+    "words": "down to the size of a small house cat."
+   },
+   {
+    "n": 6,
+    "t": [
+     6.37,
+     10.0
+    ],
+    "words": "Scientists found the proof locked in its teeth and"
+   }
+  ]
+ },
+ {
+  "clip": 4,
+  "file": "clip_004.mp4",
+  "est_window": [
+   30.0,
+   40.0
+  ],
+  "shots": [
+   {
+    "n": 6,
+    "t": [
+     0.0,
+     3.06
+    ],
+    "words": "in the sediment layers of the basin,"
+   },
+   {
+    "n": 7,
+    "t": [
+     3.06,
+     10.0
+    ],
+    "words": "and by the end you will understand what happens when heat itself becomes a forge that melts"
+   }
+  ]
+ },
+ {
+  "clip": 5,
+  "file": "clip_005.mp4",
+  "est_window": [
+   40.0,
+   50.0
+  ],
+  "shots": [
+   {
+    "n": 7,
+    "t": [
+     0.0,
+     0.17
+    ],
+    "words": ""
+   },
+   {
+    "n": 8,
+    "t": [
+     0.17,
+     1.01
+    ],
+    "words": "size away."
+   },
+   {
+    "n": 9,
+    "t": [
+     1.01,
+     6.87
+    ],
+    "words": "Welcome to Ancient Earth Cinema, where we rebuild the lost worlds of deep time."
+   },
+   {
+    "n": 10,
+    "t": [
+     6.87,
+     10.0
+    ],
+    "words": "What you are watching is simulated footage,"
+   }
+  ]
+ },
+ {
+  "clip": 6,
+  "file": "clip_006.mp4",
+  "est_window": [
+   50.0,
+   60.0
+  ],
+  "shots": [
+   {
+    "n": 10,
+    "t": [
+     0.0,
+     3.56
+    ],
+    "words": "reconstructed from the fossil record and the published science."
+   },
+   {
+    "n": 11,
+    "t": [
+     3.56,
+     10.0
+    ],
+    "words": "Fifty-six million years ago, the Bighorn Basin in Wyoming was a low, green bowl of"
+   }
+  ]
+ },
+ {
+  "clip": 7,
+  "file": "clip_007.mp4",
+  "est_window": [
+   60.0,
+   70.0
+  ],
+  "shots": [
+   {
+    "n": 11,
+    "t": [
+     0.0,
+     0.25
+    ],
+    "words": "forest"
+   },
+   {
+    "n": 12,
+    "t": [
+     0.25,
+     6.94
+    ],
+    "words": "and river mud, and the continent of North America sat farther south than it does now,"
+   },
+   {
+    "n": 13,
+    "t": [
+     6.94,
+     10.0
+    ],
+    "words": "so the winters were mild and the"
+   }
+  ]
+ },
+ {
+  "clip": 8,
+  "file": "clip_008.mp4",
+  "est_window": [
+   70.0,
+   80.0
+  ],
+  "shots": [
+   {
+    "n": 13,
+    "t": [
+     0.0,
+     1.54
+    ],
+    "words": "poles held no ice."
+   },
+   {
+    "n": 14,
+    "t": [
+     1.54,
+     8.65
+    ],
+    "words": "Palm relatives grew inside the Arctic circle, and crocodiles basked in swamp water above the sixty-sixth parallel."
+   },
+   {
+    "n": 15,
+    "t": [
+     8.65,
+     10.0
+    ],
+    "words": "The global climate"
+   }
+  ]
+ },
+ {
+  "clip": 9,
+  "file": "clip_009.mp4",
+  "est_window": [
+   80.0,
+   90.0
+  ],
+  "shots": [
+   {
+    "n": 15,
+    "t": [
+     0.0,
+     4.09
+    ],
+    "words": "was already warm, but it had not yet gone mad,"
+   },
+   {
+    "n": 16,
+    "t": [
+     4.09,
+     10.0
+    ],
+    "words": "and the basin was a place of steady rain, slow rivers, and sediment that"
+   }
+  ]
+ },
+ {
+  "clip": 10,
+  "file": "clip_010.mp4",
+  "est_window": [
+   90.0,
+   100.0
+  ],
+  "shots": [
+   {
+    "n": 16,
+    "t": [
+     0.0,
+     1.2
+    ],
+    "words": "accumulated without interruption."
+   },
+   {
+    "n": 17,
+    "t": [
+     1.2,
+     2.04
+    ],
+    "words": "The sandstone"
+   },
+   {
+    "n": 18,
+    "t": [
+     2.04,
+     9.15
+    ],
+    "words": "and mudstone layers that form the basin walls were laid down by braided streams that wandered across"
+   },
+   {
+    "n": 19,
+    "t": [
+     9.15,
+     10.0
+    ],
+    "words": "broad floodplains,"
+   }
+  ]
+ },
+ {
+  "clip": 11,
+  "file": "clip_011.mp4",
+  "est_window": [
+   100.0,
+   110.0
+  ],
+  "shots": [
+   {
+    "n": 19,
+    "t": [
+     0.0,
+     4.59
+    ],
+    "words": "depositing silt and sand in sheets that would harden into rock."
+   },
+   {
+    "n": 20,
+    "t": [
+     4.59,
+     10.0
+    ],
+    "words": "These beds would become the type section, the physical reference for the Paleocene-Eocene"
+   }
+  ]
+ },
+ {
+  "clip": 12,
+  "file": "clip_012.mp4",
+  "est_window": [
+   110.0,
+   120.0
+  ],
+  "shots": [
+   {
+    "n": 20,
+    "t": [
+     0.0,
+     0.87
+    ],
+    "words": "Thermal Maximum,"
+   },
+   {
+    "n": 21,
+    "t": [
+     0.87,
+     6.31
+    ],
+    "words": "because they hold the most complete terrestrial record of the event on Earth."
+   },
+   {
+    "n": 22,
+    "t": [
+     6.31,
+     10.0
+    ],
+    "words": "Geologists call this stack of rock the Willwood Formation,"
+   }
+  ]
+ },
+ {
+  "clip": 13,
+  "file": "clip_013.mp4",
+  "est_window": [
+   120.0,
+   130.0
+  ],
+  "shots": [
+   {
+    "n": 22,
+    "t": [
+     0.0,
+     1.75
+    ],
+    "words": "and within its tan"
+   },
+   {
+    "n": 23,
+    "t": [
+     1.75,
+     7.19
+    ],
+    "words": "and gray bands lies a diary written in soil chemistry and fossil bone."
+   },
+   {
+    "n": 24,
+    "t": [
+     7.19,
+     10.0
+    ],
+    "words": "The mammals that moved through these forests"
+   }
+  ]
+ },
+ {
+  "clip": 14,
+  "file": "clip_014.mp4",
+  "est_window": [
+   130.0,
+   140.0
+  ],
+  "shots": [
+   {
+    "n": 24,
+    "t": [
+     0.0,
+     2.21
+    ],
+    "words": "were small, compact, and quick."
+   },
+   {
+    "n": 25,
+    "t": [
+     2.21,
+     5.56
+    ],
+    "words": "None reached the size of a modern deer."
+   },
+   {
+    "n": 26,
+    "t": [
+     5.56,
+     10.0
+    ],
+    "words": "The largest predators were archaic carnivores no bigger than a fox,"
+   }
+  ]
+ },
+ {
+  "clip": 15,
+  "file": "clip_015.mp4",
+  "est_window": [
+   140.0,
+   150.0
+  ],
+  "shots": [
+   {
+    "n": 26,
+    "t": [
+     0.0,
+     0.16
+    ],
+    "words": ""
+   },
+   {
+    "n": 27,
+    "t": [
+     0.16,
+     6.85
+    ],
+    "words": "and the herbivores browsed on soft leaves and shoots under a canopy of hardwoods and conifers."
+   },
+   {
+    "n": 28,
+    "t": [
+     6.85,
+     10.0
+    ],
+    "words": "The canopy was thick with sycamore, walnut, and"
+   }
+  ]
+ },
+ {
+  "clip": 16,
+  "file": "clip_016.mp4",
+  "est_window": [
+   150.0,
+   160.0
+  ],
+  "shots": [
+   {
+    "n": 28,
+    "t": [
+     0.0,
+     3.54
+    ],
+    "words": "cypress, and the air smelled of decaying leaves"
+   },
+   {
+    "n": 29,
+    "t": [
+     3.54,
+     4.8
+    ],
+    "words": "and wet stone."
+   },
+   {
+    "n": 30,
+    "t": [
+     4.8,
+     10.0
+    ],
+    "words": "Insects moved through the underbrush in abundance, and small reptiles left claw"
+   }
+  ]
+ },
+ {
+  "clip": 17,
+  "file": "clip_017.mp4",
+  "est_window": [
+   160.0,
+   170.0
+  ],
+  "shots": [
+   {
+    "n": 30,
+    "t": [
+     0.0,
+     1.91
+    ],
+    "words": "marks in the river mud."
+   },
+   {
+    "n": 31,
+    "t": [
+     1.91,
+     7.77
+    ],
+    "words": "The mammals that hunted them were mostly nocturnal, with eyes adapted to low light"
+   },
+   {
+    "n": 32,
+    "t": [
+     7.77,
+     10.0
+    ],
+    "words": "and hearing tuned to the"
+   }
+  ]
+ },
+ {
+  "clip": 18,
+  "file": "clip_018.mp4",
+  "est_window": [
+   170.0,
+   180.0
+  ],
+  "shots": [
+   {
+    "n": 32,
+    "t": [
+     0.0,
+     1.12
+    ],
+    "words": "rustle of leaves."
+   },
+   {
+    "n": 33,
+    "t": [
+     1.12,
+     5.3
+    ],
+    "words": "It was a world of small bodies and small stakes,"
+   },
+   {
+    "n": 34,
+    "t": [
+     5.3,
+     9.48
+    ],
+    "words": "and it had been this way for millions of years."
+   },
+   {
+    "n": 35,
+    "t": [
+     9.48,
+     10.0
+    ],
+    "words": "There"
+   }
+  ]
+ },
+ {
+  "clip": 19,
+  "file": "clip_019.mp4",
+  "est_window": [
+   180.0,
+   190.0
+  ],
+  "shots": [
+   {
+    "n": 35,
+    "t": [
+     0.0,
+     2.83
+    ],
+    "words": "were no elephants, no bison, no wolves."
+   },
+   {
+    "n": 36,
+    "t": [
+     2.83,
+     9.52
+    ],
+    "words": "The largest herbivores were pig-sized phenacodontids, and the apex predators were creodonts with skulls like weasels."
+   },
+   {
+    "n": 37,
+    "t": [
+     9.52,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 20,
+  "file": "clip_020.mp4",
+  "est_window": [
+   190.0,
+   200.0
+  ],
+  "shots": [
+   {
+    "n": 37,
+    "t": [
+     0.0,
+     2.45
+    ],
+    "words": "Bighorn Basin was a quiet place,"
+   },
+   {
+    "n": 38,
+    "t": [
+     2.45,
+     9.14
+    ],
+    "words": "and the quiet had persisted long enough to build a thousand feet of mud and sand."
+   },
+   {
+    "n": 39,
+    "t": [
+     9.14,
+     10.0
+    ],
+    "words": "Among them"
+   }
+  ]
+ },
+ {
+  "clip": 21,
+  "file": "clip_021.mp4",
+  "est_window": [
+   200.0,
+   210.0
+  ],
+  "shots": [
+   {
+    "n": 39,
+    "t": [
+     0.0,
+     2.91
+    ],
+    "words": "was Sifrhippus sandae, the earliest known horse."
+   },
+   {
+    "n": 40,
+    "t": [
+     2.91,
+     8.35
+    ],
+    "words": "It stood roughly twelve pounds, small enough to fit inside a modern backpack,"
+   },
+   {
+    "n": 41,
+    "t": [
+     8.35,
+     10.0
+    ],
+    "words": "with four toes on"
+   }
+  ]
+ },
+ {
+  "clip": 22,
+  "file": "clip_022.mp4",
+  "est_window": [
+   210.0,
+   220.0
+  ],
+  "shots": [
+   {
+    "n": 41,
+    "t": [
+     0.0,
+     4.63
+    ],
+    "words": "each front foot and teeth shaped for grinding leaves and fruit."
+   },
+   {
+    "n": 42,
+    "t": [
+     4.63,
+     9.65
+    ],
+    "words": "Its bones were light, and its eyes were large for its skull,"
+   },
+   {
+    "n": 43,
+    "t": [
+     9.65,
+     10.0
+    ],
+    "words": "because"
+   }
+  ]
+ },
+ {
+  "clip": 23,
+  "file": "clip_023.mp4",
+  "est_window": [
+   220.0,
+   230.0
+  ],
+  "shots": [
+   {
+    "n": 43,
+    "t": [
+     0.0,
+     3.83
+    ],
+    "words": "the forest floor was dim and patched with shadow."
+   },
+   {
+    "n": 44,
+    "t": [
+     3.83,
+     8.85
+    ],
+    "words": "The animal didn't graze on open grasslands, because grasslands didn't exist yet,"
+   },
+   {
+    "n": 45,
+    "t": [
+     8.85,
+     10.0
+    ],
+    "words": "and so it"
+   }
+  ]
+ },
+ {
+  "clip": 24,
+  "file": "clip_024.mp4",
+  "est_window": [
+   230.0,
+   240.0
+  ],
+  "shots": [
+   {
+    "n": 45,
+    "t": [
+     0.0,
+     5.54
+    ],
+    "words": "picked its way through underbrush and along streambanks, snapping twigs and fallen seeds."
+   },
+   {
+    "n": 46,
+    "t": [
+     5.54,
+     10.0
+    ],
+    "words": "Generation after generation, Sifrhippus lived and died in the same basin,"
+   }
+  ]
+ },
+ {
+  "clip": 25,
+  "file": "clip_025.mp4",
+  "est_window": [
+   240.0,
+   250.0
+  ],
+  "shots": [
+   {
+    "n": 46,
+    "t": [
+     0.0,
+     0.98
+    ],
+    "words": "leaving teeth"
+   },
+   {
+    "n": 47,
+    "t": [
+     0.98,
+     5.58
+    ],
+    "words": "and ankle bones in the mud that settled over the riverbanks."
+   },
+   {
+    "n": 48,
+    "t": [
+     5.58,
+     10.0
+    ],
+    "words": "The fossils of Sifrhippus aren't rare in the lower layers of"
+   }
+  ]
+ },
+ {
+  "clip": 26,
+  "file": "clip_026.mp4",
+  "est_window": [
+   250.0,
+   260.0
+  ],
+  "shots": [
+   {
+    "n": 48,
+    "t": [
+     0.0,
+     1.44
+    ],
+    "words": "the Willwood Formation,"
+   },
+   {
+    "n": 49,
+    "t": [
+     1.44,
+     6.88
+    ],
+    "words": "because the animals died in groups near water, and the mud preserved them."
+   },
+   {
+    "n": 50,
+    "t": [
+     6.88,
+     10.0
+    ],
+    "words": "Each tooth carries a record of the"
+   }
+  ]
+ },
+ {
+  "clip": 27,
+  "file": "clip_027.mp4",
+  "est_window": [
+   260.0,
+   270.0
+  ],
+  "shots": [
+   {
+    "n": 50,
+    "t": [
+     0.0,
+     2.32
+    ],
+    "words": "animal's diet and its mother's milk,"
+   },
+   {
+    "n": 51,
+    "t": [
+     2.32,
+     9.43
+    ],
+    "words": "and the oxygen locked in the enamel records the temperature of the rain that fell on the"
+   },
+   {
+    "n": 52,
+    "t": [
+     9.43,
+     10.0
+    ],
+    "words": "basin"
+   }
+  ]
+ },
+ {
+  "clip": 28,
+  "file": "clip_028.mp4",
+  "est_window": [
+   270.0,
+   280.0
+  ],
+  "shots": [
+   {
+    "n": 52,
+    "t": [
+     0.0,
+     1.94
+    ],
+    "words": "while the animal was alive."
+   },
+   {
+    "n": 53,
+    "t": [
+     1.94,
+     6.12
+    ],
+    "words": "This is how we know the horse was twelve pounds,"
+   },
+   {
+    "n": 54,
+    "t": [
+     6.12,
+     10.0
+    ],
+    "words": "and this is how we will know what happened"
+   }
+  ]
+ },
+ {
+  "clip": 29,
+  "file": "clip_029.mp4",
+  "est_window": [
+   280.0,
+   290.0
+  ],
+  "shots": [
+   {
+    "n": 54,
+    "t": [
+     0.0,
+     1.56
+    ],
+    "words": "when the heat arrived."
+   },
+   {
+    "n": 55,
+    "t": [
+     1.56,
+     8.25
+    ],
+    "words": "In the undergrowth, phenacodontids like Ectocion and Copecion moved on hooves that weren't yet fully formed,"
+   },
+   {
+    "n": 56,
+    "t": [
+     8.25,
+     10.0
+    ],
+    "words": "eating plants that had"
+   }
+  ]
+ },
+ {
+  "clip": 30,
+  "file": "clip_030.mp4",
+  "est_window": [
+   290.0,
+   300.0
+  ],
+  "shots": [
+   {
+    "n": 56,
+    "t": [
+     0.0,
+     2.85
+    ],
+    "words": "not yet been shaped by grazing pressure."
+   },
+   {
+    "n": 57,
+    "t": [
+     2.85,
+     8.71
+    ],
+    "words": "The ecosystem was balanced on a knife edge of warmth, but it was functioning,"
+   },
+   {
+    "n": 58,
+    "t": [
+     8.71,
+     10.0
+    ],
+    "words": "and the animals"
+   }
+  ]
+ },
+ {
+  "clip": 31,
+  "file": "clip_031.mp4",
+  "est_window": [
+   300.0,
+   310.0
+  ],
+  "shots": [
+   {
+    "n": 58,
+    "t": [
+     0.0,
+     4.15
+    ],
+    "words": "had no warning that the carbon buried in ancient sediments"
+   },
+   {
+    "n": 59,
+    "t": [
+     4.15,
+     8.33
+    ],
+    "words": "and frozen in seabed ice was about to be unsealed."
+   },
+   {
+    "n": 60,
+    "t": [
+     8.33,
+     10.0
+    ],
+    "words": "The Bighorn Basin wasn't"
+   }
+  ]
+ },
+ {
+  "clip": 32,
+  "file": "clip_032.mp4",
+  "est_window": [
+   310.0,
+   320.0
+  ],
+  "shots": [
+   {
+    "n": 60,
+    "t": [
+     0.0,
+     1.26
+    ],
+    "words": "a special place."
+   },
+   {
+    "n": 61,
+    "t": [
+     1.26,
+     8.37
+    ],
+    "words": "It was simply a place where the rocks happened to be stacked in the right order, page"
+   },
+   {
+    "n": 62,
+    "t": [
+     8.37,
+     10.0
+    ],
+    "words": "after page, and the"
+   }
+  ]
+ },
+ {
+  "clip": 33,
+  "file": "clip_033.mp4",
+  "est_window": [
+   320.0,
+   330.0
+  ],
+  "shots": [
+   {
+    "n": 62,
+    "t": [
+     0.0,
+     4.65
+    ],
+    "words": "bones happened to fall in the mud before the fever began."
+   },
+   {
+    "n": 63,
+    "t": [
+     4.65,
+     9.25
+    ],
+    "words": "Today the basin is dry and wind-scoured, but the layers remain,"
+   },
+   {
+    "n": 64,
+    "t": [
+     9.25,
+     10.0
+    ],
+    "words": "and each"
+   }
+  ]
+ },
+ {
+  "clip": 34,
+  "file": "clip_034.mp4",
+  "est_window": [
+   330.0,
+   340.0
+  ],
+  "shots": [
+   {
+    "n": 64,
+    "t": [
+     0.0,
+     6.36
+    ],
+    "words": "one still holds the chemistry of the air that settled on it fifty-six million years"
+   },
+   {
+    "n": 65,
+    "t": [
+     6.36,
+     6.78
+    ],
+    "words": "ago."
+   },
+   {
+    "n": 66,
+    "t": [
+     6.78,
+     10.0
+    ],
+    "words": "The story of the next 200,000 years is"
+   }
+  ]
+ },
+ {
+  "clip": 35,
+  "file": "clip_035.mp4",
+  "est_window": [
+   340.0,
+   350.0
+  ],
+  "shots": [
+   {
+    "n": 66,
+    "t": [
+     0.0,
+     2.64
+    ],
+    "words": "still there, waiting in the stone."
+   },
+   {
+    "n": 67,
+    "t": [
+     2.64,
+     5.99
+    ],
+    "words": "The change didn't arrive as a single season."
+   },
+   {
+    "n": 68,
+    "t": [
+     5.99,
+     10.0
+    ],
+    "words": "It built over thousands of years, but in geological terms"
+   }
+  ]
+ },
+ {
+  "clip": 36,
+  "file": "clip_036.mp4",
+  "est_window": [
+   350.0,
+   360.0
+  ],
+  "shots": [
+   {
+    "n": 68,
+    "t": [
+     0.0,
+     1.85
+    ],
+    "words": "it was a blink,"
+   },
+   {
+    "n": 69,
+    "t": [
+     1.85,
+     8.13
+    ],
+    "words": "and the animals that lived through it had no capacity to understand what was happening."
+   },
+   {
+    "n": 70,
+    "t": [
+     8.13,
+     10.0
+    ],
+    "words": "The Paleocene-Eocene Thermal Maximum"
+   }
+  ]
+ },
+ {
+  "clip": 37,
+  "file": "clip_037.mp4",
+  "est_window": [
+   360.0,
+   370.0
+  ],
+  "shots": [
+   {
+    "n": 70,
+    "t": [
+     0.0,
+     5.24
+    ],
+    "words": "began roughly 56 million years ago when a massive pulse of carbon dioxide"
+   },
+   {
+    "n": 71,
+    "t": [
+     5.24,
+     6.5
+    ],
+    "words": "flooded the atmosphere,"
+   },
+   {
+    "n": 72,
+    "t": [
+     6.5,
+     10.0
+    ],
+    "words": "and the source of that carbon is still"
+   }
+  ]
+ },
+ {
+  "clip": 38,
+  "file": "clip_038.mp4",
+  "est_window": [
+   370.0,
+   380.0
+  ],
+  "shots": [
+   {
+    "n": 72,
+    "t": [
+     0.0,
+     3.61
+    ],
+    "words": "debated by geologists who study the North Atlantic volcanic"
+   },
+   {
+    "n": 73,
+    "t": [
+     3.61,
+     4.03
+    ],
+    "words": "province."
+   },
+   {
+    "n": 74,
+    "t": [
+     4.03,
+     9.89
+    ],
+    "words": "Some researchers point to vast lava flows in what is now Greenland and Scotland,"
+   },
+   {
+    "n": 75,
+    "t": [
+     9.89,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 39,
+  "file": "clip_039.mp4",
+  "est_window": [
+   380.0,
+   390.0
+  ],
+  "shots": [
+   {
+    "n": 75,
+    "t": [
+     0.0,
+     6.17
+    ],
+    "words": "where the opening of the ocean floor released greenhouse gases from deep in the mantle."
+   },
+   {
+    "n": 76,
+    "t": [
+     6.17,
+     10.0
+    ],
+    "words": "Others argue that peat and permafrost, or methane ice"
+   }
+  ]
+ },
+ {
+  "clip": 40,
+  "file": "clip_040.mp4",
+  "est_window": [
+   390.0,
+   400.0
+  ],
+  "shots": [
+   {
+    "n": 76,
+    "t": [
+     0.0,
+     1.61
+    ],
+    "words": "trapped in seabed sediments,"
+   },
+   {
+    "n": 77,
+    "t": [
+     1.61,
+     8.3
+    ],
+    "words": "destabilized under the initial warming and vented more carbon into the air in a feedback loop."
+   },
+   {
+    "n": 78,
+    "t": [
+     8.3,
+     10.0
+    ],
+    "words": "What is certain is"
+   }
+  ]
+ },
+ {
+  "clip": 41,
+  "file": "clip_041.mp4",
+  "est_window": [
+   400.0,
+   410.0
+  ],
+  "shots": [
+   {
+    "n": 78,
+    "t": [
+     0.0,
+     5.41
+    ],
+    "words": "that the carbon isotope signature in the Bighorn Basin sediment shifts abruptly at"
+   },
+   {
+    "n": 79,
+    "t": [
+     5.41,
+     10.0
+    ],
+    "words": "a specific layer, and that shift marks the beginning of the"
+   }
+  ]
+ },
+ {
+  "clip": 42,
+  "file": "clip_042.mp4",
+  "est_window": [
+   410.0,
+   420.0
+  ],
+  "shots": [
+   {
+    "n": 79,
+    "t": [
+     0.0,
+     2.52
+    ],
+    "words": "fever that would last 200,000 years."
+   },
+   {
+    "n": 80,
+    "t": [
+     2.52,
+     4.19
+    ],
+    "words": "The numbers are stark."
+   },
+   {
+    "n": 81,
+    "t": [
+     4.19,
+     8.79
+    ],
+    "words": "Global mean surface temperatures rose by five to eight degrees Celsius,"
+   },
+   {
+    "n": 82,
+    "t": [
+     8.79,
+     10.0
+    ],
+    "words": "and in the"
+   }
+  ]
+ },
+ {
+  "clip": 43,
+  "file": "clip_043.mp4",
+  "est_window": [
+   420.0,
+   430.0
+  ],
+  "shots": [
+   {
+    "n": 82,
+    "t": [
+     0.0,
+     5.48
+    ],
+    "words": "Bighorn Basin the shift was recorded in the oxygen isotopes of fossil teeth"
+   },
+   {
+    "n": 83,
+    "t": [
+     5.48,
+     6.74
+    ],
+    "words": "and ancient soil."
+   },
+   {
+    "n": 84,
+    "t": [
+     6.74,
+     10.0
+    ],
+    "words": "The rain that fell on the basin became"
+   }
+  ]
+ },
+ {
+  "clip": 44,
+  "file": "clip_044.mp4",
+  "est_window": [
+   430.0,
+   440.0
+  ],
+  "shots": [
+   {
+    "n": 84,
+    "t": [
+     0.0,
+     3.85
+    ],
+    "words": "warmer, and the soil chemistry shifted, altering the plants."
+   },
+   {
+    "n": 85,
+    "t": [
+     3.85,
+     10.0
+    ],
+    "words": "The carbon isotope excursion, as geologists call it, appears as a sharp spike in the"
+   }
+  ]
+ },
+ {
+  "clip": 45,
+  "file": "clip_045.mp4",
+  "est_window": [
+   440.0,
+   450.0
+  ],
+  "shots": [
+   {
+    "n": 85,
+    "t": [
+     0.0,
+     0.96
+    ],
+    "words": "rock layers,"
+   },
+   {
+    "n": 86,
+    "t": [
+     0.96,
+     5.14
+    ],
+    "words": "like a heartbeat on a monitor that suddenly accelerates and"
+   },
+   {
+    "n": 87,
+    "t": [
+     5.14,
+     9.74
+    ],
+    "words": "then holds its elevated rhythm for tens of thousands of years."
+   },
+   {
+    "n": 88,
+    "t": [
+     9.74,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 46,
+  "file": "clip_046.mp4",
+  "est_window": [
+   450.0,
+   460.0
+  ],
+  "shots": [
+   {
+    "n": 88,
+    "t": [
+     0.0,
+     4.34
+    ],
+    "words": "event lasted roughly 200,000 years, and the warming was front-loaded,"
+   },
+   {
+    "n": 89,
+    "t": [
+     4.34,
+     8.52
+    ],
+    "words": "meaning the worst of it came in the first half."
+   },
+   {
+    "n": 90,
+    "t": [
+     8.52,
+     10.0
+    ],
+    "words": "The forests didn't die"
+   }
+  ]
+ },
+ {
+  "clip": 47,
+  "file": "clip_047.mp4",
+  "est_window": [
+   460.0,
+   470.0
+  ],
+  "shots": [
+   {
+    "n": 90,
+    "t": [
+     0.0,
+     5.21
+    ],
+    "words": "immediately, but the heat began to reshape them from the ground up."
+   },
+   {
+    "n": 91,
+    "t": [
+     5.21,
+     10.0
+    ],
+    "words": "Plant communities shifted toward warmth-tolerant species, and the chemistry of the"
+   }
+  ]
+ },
+ {
+  "clip": 48,
+  "file": "clip_048.mp4",
+  "est_window": [
+   470.0,
+   480.0
+  ],
+  "shots": [
+   {
+    "n": 91,
+    "t": [
+     0.0,
+     1.07
+    ],
+    "words": "leaf wax shifted,"
+   },
+   {
+    "n": 92,
+    "t": [
+     1.07,
+     4.42
+    ],
+    "words": "leaving signals the isotopes can still read today."
+   },
+   {
+    "n": 93,
+    "t": [
+     4.42,
+     9.44
+    ],
+    "words": "In the basin, the rivers kept flowing and the mud kept accumulating,"
+   },
+   {
+    "n": 94,
+    "t": [
+     9.44,
+     10.0
+    ],
+    "words": "but"
+   }
+  ]
+ },
+ {
+  "clip": 49,
+  "file": "clip_049.mp4",
+  "est_window": [
+   480.0,
+   490.0
+  ],
+  "shots": [
+   {
+    "n": 94,
+    "t": [
+     0.0,
+     6.55
+    ],
+    "words": "the animals that walked across the floodplains were entering a world that was turning against them."
+   },
+   {
+    "n": 95,
+    "t": [
+     6.55,
+     9.06
+    ],
+    "words": "The temperature wasn't the only stress."
+   },
+   {
+    "n": 96,
+    "t": [
+     9.06,
+     10.0
+    ],
+    "words": "The elevated"
+   }
+  ]
+ },
+ {
+  "clip": 50,
+  "file": "clip_050.mp4",
+  "est_window": [
+   490.0,
+   500.0
+  ],
+  "shots": [
+   {
+    "n": 96,
+    "t": [
+     0.0,
+     6.17
+    ],
+    "words": "carbon dioxide altered the nutritional quality of the plants, making leaves tougher and less nourishing,"
+   },
+   {
+    "n": 97,
+    "t": [
+     6.17,
+     10.0
+    ],
+    "words": "and the water cycles shifted, bringing longer dry spells"
+   }
+  ]
+ },
+ {
+  "clip": 51,
+  "file": "clip_051.mp4",
+  "est_window": [
+   500.0,
+   510.0
+  ],
+  "shots": [
+   {
+    "n": 97,
+    "t": [
+     0.0,
+     2.45
+    ],
+    "words": "between rains that stressed the vegetation."
+   },
+   {
+    "n": 98,
+    "t": [
+     2.45,
+     7.05
+    ],
+    "words": "The ecosystem was still intact, but it was bending under pressure,"
+   },
+   {
+    "n": 99,
+    "t": [
+     7.05,
+     10.0
+    ],
+    "words": "and the mammals that depended on it"
+   }
+  ]
+ },
+ {
+  "clip": 52,
+  "file": "clip_052.mp4",
+  "est_window": [
+   510.0,
+   520.0
+  ],
+  "shots": [
+   {
+    "n": 99,
+    "t": [
+     0.0,
+     3.33
+    ],
+    "words": "would have to bend with it or break."
+   },
+   {
+    "n": 100,
+    "t": [
+     3.33,
+     10.0
+    ],
+    "words": "The fossils in the layers above the carbon spike tell a different story from the ones"
+   }
+  ]
+ },
+ {
+  "clip": 53,
+  "file": "clip_053.mp4",
+  "est_window": [
+   520.0,
+   530.0
+  ],
+  "shots": [
+   {
+    "n": 100,
+    "t": [
+     0.0,
+     0.44
+    ],
+    "words": "below,"
+   },
+   {
+    "n": 101,
+    "t": [
+     0.44,
+     5.46
+    ],
+    "words": "and the difference isn't just in the species that appear or vanish."
+   },
+   {
+    "n": 102,
+    "t": [
+     5.46,
+     8.39
+    ],
+    "words": "It's in the size of the bones."
+   },
+   {
+    "n": 103,
+    "t": [
+     8.39,
+     10.0
+    ],
+    "words": "And the size was"
+   }
+  ]
+ },
+ {
+  "clip": 54,
+  "file": "clip_054.mp4",
+  "est_window": [
+   530.0,
+   540.0
+  ],
+  "shots": [
+   {
+    "n": 103,
+    "t": [
+     0.0,
+     0.48
+    ],
+    "words": "shrinking."
+   },
+   {
+    "n": 104,
+    "t": [
+     0.48,
+     5.08
+    ],
+    "words": "The proof is locked in the mineral fraction of the teeth."
+   },
+   {
+    "n": 105,
+    "t": [
+     5.08,
+     10.0
+    ],
+    "words": "When a mammal drinks water, the oxygen isotopes in that water are"
+   }
+  ]
+ },
+ {
+  "clip": 55,
+  "file": "clip_055.mp4",
+  "est_window": [
+   540.0,
+   550.0
+  ],
+  "shots": [
+   {
+    "n": 105,
+    "t": [
+     0.0,
+     1.77
+    ],
+    "words": "incorporated into the enamel"
+   },
+   {
+    "n": 106,
+    "t": [
+     1.77,
+     5.95
+    ],
+    "words": "as it grows, and because tooth enamel forms in layers,"
+   },
+   {
+    "n": 107,
+    "t": [
+     5.95,
+     10.0
+    ],
+    "words": "a single molar can record the temperature of the rain"
+   }
+  ]
+ },
+ {
+  "clip": 56,
+  "file": "clip_056.mp4",
+  "est_window": [
+   550.0,
+   560.0
+  ],
+  "shots": [
+   {
+    "n": 107,
+    "t": [
+     0.0,
+     1.81
+    ],
+    "words": "across months or years."
+   },
+   {
+    "n": 108,
+    "t": [
+     1.81,
+     2.23
+    ],
+    "words": "Secord"
+   },
+   {
+    "n": 109,
+    "t": [
+     2.23,
+     9.34
+    ],
+    "words": "and his colleagues used this fact to build a temperature curve for the Bighorn Basin during the"
+   },
+   {
+    "n": 110,
+    "t": [
+     9.34,
+     10.0
+    ],
+    "words": "PETM, and"
+   }
+  ]
+ },
+ {
+  "clip": 57,
+  "file": "clip_057.mp4",
+  "est_window": [
+   560.0,
+   570.0
+  ],
+  "shots": [
+   {
+    "n": 110,
+    "t": [
+     0.0,
+     6.03
+    ],
+    "words": "they matched that curve to the size of the animals that carried the teeth."
+   },
+   {
+    "n": 111,
+    "t": [
+     6.03,
+     7.7
+    ],
+    "words": "The correlation is direct."
+   },
+   {
+    "n": 112,
+    "t": [
+     7.7,
+     10.0
+    ],
+    "words": "As the isotopes warmed, the"
+   }
+  ]
+ },
+ {
+  "clip": 58,
+  "file": "clip_058.mp4",
+  "est_window": [
+   570.0,
+   580.0
+  ],
+  "shots": [
+   {
+    "n": 112,
+    "t": [
+     0.0,
+     0.63
+    ],
+    "words": "horses shrank."
+   },
+   {
+    "n": 113,
+    "t": [
+     0.63,
+     3.56
+    ],
+    "words": "The heat also changed the land itself."
+   },
+   {
+    "n": 114,
+    "t": [
+     3.56,
+     9.84
+    ],
+    "words": "The braided streams that had wandered across the floodplain began to shift course more frequently,"
+   },
+   {
+    "n": 115,
+    "t": [
+     9.84,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 59,
+  "file": "clip_059.mp4",
+  "est_window": [
+   580.0,
+   590.0
+  ],
+  "shots": [
+   {
+    "n": 115,
+    "t": [
+     0.0,
+     4.86
+    ],
+    "words": "cutting into the banks and burying some fossil localities while exposing others."
+   },
+   {
+    "n": 116,
+    "t": [
+     4.86,
+     10.0
+    ],
+    "words": "The Sand Creek Divide, a quarry in the northern part of the"
+   }
+  ]
+ },
+ {
+  "clip": 60,
+  "file": "clip_060.mp4",
+  "est_window": [
+   590.0,
+   600.0
+  ],
+  "shots": [
+   {
+    "n": 116,
+    "t": [
+     0.0,
+     0.3
+    ],
+    "words": "basin,"
+   },
+   {
+    "n": 117,
+    "t": [
+     0.3,
+     6.58
+    ],
+    "words": "preserves a window into the middle of the event, where the sediment is stained red"
+   },
+   {
+    "n": 118,
+    "t": [
+     6.58,
+     10.0
+    ],
+    "words": "and brown with oxidized iron, a sign of"
+   }
+  ]
+ },
+ {
+  "clip": 61,
+  "file": "clip_061.mp4",
+  "est_window": [
+   600.0,
+   610.0
+  ],
+  "shots": [
+   {
+    "n": 118,
+    "t": [
+     0.0,
+     1.18
+    ],
+    "words": "warmer, drier conditions."
+   },
+   {
+    "n": 119,
+    "t": [
+     1.18,
+     5.36
+    ],
+    "words": "It was here that the first dwarfed horses were found,"
+   },
+   {
+    "n": 120,
+    "t": [
+     5.36,
+     10.0
+    ],
+    "words": "mixed in with the teeth of other mammals that had also"
+   }
+  ]
+ },
+ {
+  "clip": 62,
+  "file": "clip_062.mp4",
+  "est_window": [
+   610.0,
+   620.0
+  ],
+  "shots": [
+   {
+    "n": 120,
+    "t": [
+     0.0,
+     1.22
+    ],
+    "words": "begun to change."
+   },
+   {
+    "n": 121,
+    "t": [
+     1.22,
+     5.82
+    ],
+    "words": "For a mammal like Sifrhippus, the heat wasn't an abstract number."
+   },
+   {
+    "n": 122,
+    "t": [
+     5.82,
+     10.0
+    ],
+    "words": "It was the temperature of the water it drank, the"
+   }
+  ]
+ },
+ {
+  "clip": 63,
+  "file": "clip_063.mp4",
+  "est_window": [
+   620.0,
+   630.0
+  ],
+  "shots": [
+   {
+    "n": 122,
+    "t": [
+     0.0,
+     1.26
+    ],
+    "words": "air it breathed,"
+   },
+   {
+    "n": 123,
+    "t": [
+     1.26,
+     3.35
+    ],
+    "words": "and the leaves it ate."
+   },
+   {
+    "n": 124,
+    "t": [
+     3.35,
+     10.0
+    ],
+    "words": "A body built for twelve pounds of metabolism was now operating in an environment that demanded"
+   }
+  ]
+ },
+ {
+  "clip": 64,
+  "file": "clip_064.mp4",
+  "est_window": [
+   630.0,
+   640.0
+  ],
+  "shots": [
+   {
+    "n": 124,
+    "t": [
+     0.0,
+     0.46
+    ],
+    "words": "less"
+   },
+   {
+    "n": 125,
+    "t": [
+     0.46,
+     6.74
+    ],
+    "words": "mass and more surface area, and the penalty for getting this wrong wasn't immediate death"
+   },
+   {
+    "n": 126,
+    "t": [
+     6.74,
+     10.0
+    ],
+    "words": "but a slow pressure across thousands of generations."
+   }
+  ]
+ },
+ {
+  "clip": 65,
+  "file": "clip_065.mp4",
+  "est_window": [
+   640.0,
+   650.0
+  ],
+  "shots": [
+   {
+    "n": 126,
+    "t": [
+     0.0,
+     0.09
+    ],
+    "words": ""
+   },
+   {
+    "n": 127,
+    "t": [
+     0.09,
+     4.27
+    ],
+    "words": "The basin was still green, but the rules had changed,"
+   },
+   {
+    "n": 128,
+    "t": [
+     4.27,
+     7.62
+    ],
+    "words": "and the fossils would record exactly how much."
+   },
+   {
+    "n": 129,
+    "t": [
+     7.62,
+     10.0
+    ],
+    "words": "The evidence was found in the"
+   }
+  ]
+ },
+ {
+  "clip": 66,
+  "file": "clip_066.mp4",
+  "est_window": [
+   650.0,
+   660.0
+  ],
+  "shots": [
+   {
+    "n": 129,
+    "t": [
+     0.0,
+     0.55
+    ],
+    "words": "teeth,"
+   },
+   {
+    "n": 130,
+    "t": [
+     0.55,
+     5.57
+    ],
+    "words": "and it's still there for anyone who knows how to read it."
+   },
+   {
+    "n": 131,
+    "t": [
+     5.57,
+     9.34
+    ],
+    "words": "Secord and his colleagues at the University of Nebraska"
+   },
+   {
+    "n": 132,
+    "t": [
+     9.34,
+     10.0
+    ],
+    "words": "and the"
+   }
+  ]
+ },
+ {
+  "clip": 67,
+  "file": "clip_067.mp4",
+  "est_window": [
+   660.0,
+   670.0
+  ],
+  "shots": [
+   {
+    "n": 132,
+    "t": [
+     0.0,
+     6.45
+    ],
+    "words": "University of Florida analyzed Sifrhippus fossils from across the PETM interval in the Bighorn Basin,"
+   },
+   {
+    "n": 133,
+    "t": [
+     6.45,
+     10.0
+    ],
+    "words": "and they published their findings in the journal"
+   }
+  ]
+ },
+ {
+  "clip": 68,
+  "file": "clip_068.mp4",
+  "est_window": [
+   670.0,
+   680.0
+  ],
+  "shots": [
+   {
+    "n": 133,
+    "t": [
+     0.0,
+     1.05
+    ],
+    "words": "Science in 2012."
+   },
+   {
+    "n": 134,
+    "t": [
+     1.05,
+     8.16
+    ],
+    "words": "The study used oxygen isotopes in the tooth enamel to track temperature, and it used the length"
+   },
+   {
+    "n": 135,
+    "t": [
+     8.16,
+     10.0
+    ],
+    "words": "and width of the"
+   }
+  ]
+ },
+ {
+  "clip": 69,
+  "file": "clip_069.mp4",
+  "est_window": [
+   680.0,
+   690.0
+  ],
+  "shots": [
+   {
+    "n": 135,
+    "t": [
+     0.0,
+     1.93
+    ],
+    "words": "molars to estimate body size."
+   },
+   {
+    "n": 136,
+    "t": [
+     1.93,
+     4.86
+    ],
+    "words": "The two curves moved together in lockstep."
+   },
+   {
+    "n": 137,
+    "t": [
+     4.86,
+     9.04
+    ],
+    "words": "When the isotopes showed warmer rain, the molars were smaller."
+   },
+   {
+    "n": 138,
+    "t": [
+     9.04,
+     10.0
+    ],
+    "words": "When the"
+   }
+  ]
+ },
+ {
+  "clip": 70,
+  "file": "clip_070.mp4",
+  "est_window": [
+   690.0,
+   700.0
+  ],
+  "shots": [
+   {
+    "n": 138,
+    "t": [
+     0.0,
+     2.39
+    ],
+    "words": "isotopes cooled, the molars grew again."
+   },
+   {
+    "n": 139,
+    "t": [
+     2.39,
+     8.25
+    ],
+    "words": "The correlation was so tight that it left little room for argument or coincidence."
+   },
+   {
+    "n": 140,
+    "t": [
+     8.25,
+     10.0
+    ],
+    "words": "The heat was driving"
+   }
+  ]
+ },
+ {
+  "clip": 71,
+  "file": "clip_071.mp4",
+  "est_window": [
+   700.0,
+   710.0
+  ],
+  "shots": [
+   {
+    "n": 140,
+    "t": [
+     0.0,
+     3.27
+    ],
+    "words": "the shrinkage, and the teeth were the thermometer."
+   },
+   {
+    "n": 141,
+    "t": [
+     3.27,
+     7.87
+    ],
+    "words": "The numbers are precise, and they come from the rock itself."
+   },
+   {
+    "n": 142,
+    "t": [
+     7.87,
+     10.0
+    ],
+    "words": "Before the PETM, Sifrhippus weighed"
+   }
+  ]
+ },
+ {
+  "clip": 72,
+  "file": "clip_072.mp4",
+  "est_window": [
+   710.0,
+   720.0
+  ],
+  "shots": [
+   {
+    "n": 142,
+    "t": [
+     0.0,
+     3.73
+    ],
+    "words": "roughly twelve pounds, a small animal by any standard."
+   },
+   {
+    "n": 143,
+    "t": [
+     3.73,
+     10.0
+    ],
+    "words": "During the first 130,000 years of the event, as the temperature climbed and the carbon"
+   }
+  ]
+ },
+ {
+  "clip": 73,
+  "file": "clip_073.mp4",
+  "est_window": [
+   720.0,
+   730.0
+  ],
+  "shots": [
+   {
+    "n": 143,
+    "t": [
+     0.0,
+     0.84
+    ],
+    "words": "isotopes spiked,"
+   },
+   {
+    "n": 144,
+    "t": [
+     0.84,
+     3.77
+    ],
+    "words": "the horse dwindled by about thirty percent."
+   },
+   {
+    "n": 145,
+    "t": [
+     3.77,
+     10.0
+    ],
+    "words": "At its smallest, it reached roughly 8.5 pounds, which is the size of a small"
+   }
+  ]
+ },
+ {
+  "clip": 74,
+  "file": "clip_074.mp4",
+  "est_window": [
+   730.0,
+   740.0
+  ],
+  "shots": [
+   {
+    "n": 145,
+    "t": [
+     0.0,
+     0.88
+    ],
+    "words": "house cat."
+   },
+   {
+    "n": 146,
+    "t": [
+     0.88,
+     6.32
+    ],
+    "words": "Its teeth became smaller, its leg bones shorter, and its skull more compact."
+   },
+   {
+    "n": 147,
+    "t": [
+     6.32,
+     9.67
+    ],
+    "words": "The animal didn't simply grow thin or malnourished."
+   },
+   {
+    "n": 148,
+    "t": [
+     9.67,
+     10.0
+    ],
+    "words": "It"
+   }
+  ]
+ },
+ {
+  "clip": 75,
+  "file": "clip_075.mp4",
+  "est_window": [
+   740.0,
+   750.0
+  ],
+  "shots": [
+   {
+    "n": 148,
+    "t": [
+     0.0,
+     6.36
+    ],
+    "words": "evolved a smaller frame, because a smaller frame sheds heat more efficiently through its skin."
+   },
+   {
+    "n": 149,
+    "t": [
+     6.36,
+     8.87
+    ],
+    "words": "This is Bergmann's Rule in action,"
+   },
+   {
+    "n": 150,
+    "t": [
+     8.87,
+     10.0
+    ],
+    "words": "written into the"
+   }
+  ]
+ },
+ {
+  "clip": 76,
+  "file": "clip_076.mp4",
+  "est_window": [
+   750.0,
+   760.0
+  ],
+  "shots": [
+   {
+    "n": 150,
+    "t": [
+     0.0,
+     5.15
+    ],
+    "words": "mudstone of Wyoming over a timeframe that humans would call an eternity"
+   },
+   {
+    "n": 151,
+    "t": [
+     5.15,
+     7.66
+    ],
+    "words": "but the Earth calls a hiccup."
+   },
+   {
+    "n": 152,
+    "t": [
+     7.66,
+     9.33
+    ],
+    "words": "The horse wasn't defective."
+   },
+   {
+    "n": 153,
+    "t": [
+     9.33,
+     10.0
+    ],
+    "words": "It was"
+   }
+  ]
+ },
+ {
+  "clip": 77,
+  "file": "clip_077.mp4",
+  "est_window": [
+   760.0,
+   770.0
+  ],
+  "shots": [
+   {
+    "n": 153,
+    "t": [
+     0.0,
+     0.59
+    ],
+    "words": "optimized."
+   },
+   {
+    "n": 154,
+    "t": [
+     0.59,
+     3.94
+    ],
+    "words": "The fossils show the change in clear steps."
+   },
+   {
+    "n": 155,
+    "t": [
+     3.94,
+     8.54
+    ],
+    "words": "At Sand Creek Divide, in the middle of the PETM sequence,"
+   },
+   {
+    "n": 156,
+    "t": [
+     8.54,
+     10.0
+    ],
+    "words": "the dwarfed horses"
+   }
+  ]
+ },
+ {
+  "clip": 78,
+  "file": "clip_078.mp4",
+  "est_window": [
+   770.0,
+   780.0
+  ],
+  "shots": [
+   {
+    "n": 156,
+    "t": [
+     0.0,
+     3.98
+    ],
+    "words": "appear in the same red-stained layers as the isotope spike."
+   },
+   {
+    "n": 157,
+    "t": [
+     3.98,
+     7.75
+    ],
+    "words": "Their molars are unmistakably smaller than the pre-PETM population,"
+   },
+   {
+    "n": 158,
+    "t": [
+     7.75,
+     10.0
+    ],
+    "words": "and the wear patterns show"
+   }
+  ]
+ },
+ {
+  "clip": 79,
+  "file": "clip_079.mp4",
+  "est_window": [
+   780.0,
+   790.0
+  ],
+  "shots": [
+   {
+    "n": 158,
+    "t": [
+     0.0,
+     4.86
+    ],
+    "words": "they were eating softer, less abrasive plants than their ancestors had eaten."
+   },
+   {
+    "n": 159,
+    "t": [
+     4.86,
+     10.0
+    ],
+    "words": "The jaw fragments are delicate, and the ankle bones are reduced in"
+   }
+  ]
+ },
+ {
+  "clip": 80,
+  "file": "clip_080.mp4",
+  "est_window": [
+   790.0,
+   800.0
+  ],
+  "shots": [
+   {
+    "n": 159,
+    "t": [
+     0.0,
+     1.97
+    ],
+    "words": "strict proportion to the body."
+   },
+   {
+    "n": 160,
+    "t": [
+     1.97,
+     4.9
+    ],
+    "words": "These aren't the bones of starving animals."
+   },
+   {
+    "n": 161,
+    "t": [
+     4.9,
+     10.0
+    ],
+    "words": "They're the bones of a lineage that successfully adapted to a hotter"
+   }
+  ]
+ },
+ {
+  "clip": 81,
+  "file": "clip_081.mp4",
+  "est_window": [
+   800.0,
+   810.0
+  ],
+  "shots": [
+   {
+    "n": 161,
+    "t": [
+     0.0,
+     2.01
+    ],
+    "words": "world by getting smaller, generation"
+   },
+   {
+    "n": 162,
+    "t": [
+     2.01,
+     4.52
+    ],
+    "words": "after generation, until the heat relented."
+   },
+   {
+    "n": 163,
+    "t": [
+     4.52,
+     8.7
+    ],
+    "words": "When you hold a pre-PETM Sifrhippus tooth in your hand"
+   },
+   {
+    "n": 164,
+    "t": [
+     8.7,
+     10.0
+    ],
+    "words": "and place it"
+   }
+  ]
+ },
+ {
+  "clip": 82,
+  "file": "clip_082.mp4",
+  "est_window": [
+   810.0,
+   820.0
+  ],
+  "shots": [
+   {
+    "n": 164,
+    "t": [
+     0.0,
+     3.3
+    ],
+    "words": "beside a PETM tooth from the same lineage,"
+   },
+   {
+    "n": 165,
+    "t": [
+     3.3,
+     6.23
+    ],
+    "words": "the difference is visible without a microscope."
+   },
+   {
+    "n": 166,
+    "t": [
+     6.23,
+     10.0
+    ],
+    "words": "The earlier tooth is longer and heavier, with broader"
+   }
+  ]
+ },
+ {
+  "clip": 83,
+  "file": "clip_083.mp4",
+  "est_window": [
+   820.0,
+   830.0
+  ],
+  "shots": [
+   {
+    "n": 166,
+    "t": [
+     0.0,
+     0.83
+    ],
+    "words": "grinding surfaces."
+   },
+   {
+    "n": 167,
+    "t": [
+     0.83,
+     4.18
+    ],
+    "words": "The later tooth looks like a scaled-down copy,"
+   },
+   {
+    "n": 168,
+    "t": [
+     4.18,
+     10.0
+    ],
+    "words": "as if the animal had been shrunk by a photographic process rather than carved"
+   }
+  ]
+ },
+ {
+  "clip": 84,
+  "file": "clip_084.mp4",
+  "est_window": [
+   830.0,
+   840.0
+  ],
+  "shots": [
+   {
+    "n": 168,
+    "t": [
+     0.0,
+     0.87
+    ],
+    "words": "by hunger."
+   },
+   {
+    "n": 169,
+    "t": [
+     0.87,
+     3.38
+    ],
+    "words": "The bones tell the same story."
+   },
+   {
+    "n": 170,
+    "t": [
+     3.38,
+     7.56
+    ],
+    "words": "A leg bone from the dwarfed horse isn't merely thinner."
+   },
+   {
+    "n": 171,
+    "t": [
+     7.56,
+     10.0
+    ],
+    "words": "It's shorter in every dimension, and"
+   }
+  ]
+ },
+ {
+  "clip": 85,
+  "file": "clip_085.mp4",
+  "est_window": [
+   840.0,
+   850.0
+  ],
+  "shots": [
+   {
+    "n": 171,
+    "t": [
+     0.0,
+     2.58
+    ],
+    "words": "the joints are reduced to match."
+   },
+   {
+    "n": 172,
+    "t": [
+     2.58,
+     5.09
+    ],
+    "words": "This isn't the anatomy of stress."
+   },
+   {
+    "n": 173,
+    "t": [
+     5.09,
+     10.0
+    ],
+    "words": "It's the anatomy of adaptation, and it was driven by temperature alone."
+   }
+  ]
+ },
+ {
+  "clip": 86,
+  "file": "clip_086.mp4",
+  "est_window": [
+   850.0,
+   860.0
+  ],
+  "shots": [
+   {
+    "n": 173,
+    "t": [
+     0.0,
+     0.11
+    ],
+    "words": ""
+   },
+   {
+    "n": 174,
+    "t": [
+     0.11,
+     3.04
+    ],
+    "words": "But Sifrhippus wasn't alone in its compression."
+   },
+   {
+    "n": 175,
+    "t": [
+     3.04,
+     10.0
+    ],
+    "words": "The study documented that roughly one-third of mammal lineages in the basin underwent major size reduction during"
+   }
+  ]
+ },
+ {
+  "clip": 87,
+  "file": "clip_087.mp4",
+  "est_window": [
+   860.0,
+   870.0
+  ],
+  "shots": [
+   {
+    "n": 175,
+    "t": [
+     0.0,
+     0.15
+    ],
+    "words": ""
+   },
+   {
+    "n": 176,
+    "t": [
+     0.15,
+     4.75
+    ],
+    "words": "the PETM, and some species shrank by as much as one-half."
+   },
+   {
+    "n": 177,
+    "t": [
+     4.75,
+     9.35
+    ],
+    "words": "The phenomenon wasn't limited to horses or to the Bighorn Basin."
+   },
+   {
+    "n": 178,
+    "t": [
+     9.35,
+     10.0
+    ],
+    "words": "It was"
+   }
+  ]
+ },
+ {
+  "clip": 88,
+  "file": "clip_088.mp4",
+  "est_window": [
+   870.0,
+   880.0
+  ],
+  "shots": [
+   {
+    "n": 178,
+    "t": [
+     0.0,
+     4.79
+    ],
+    "words": "a mammal-wide response to a planet that had become a furnace."
+   },
+   {
+    "n": 179,
+    "t": [
+     4.79,
+     9.39
+    ],
+    "words": "The basin, once a quiet forest, was now a pressure cooker,"
+   },
+   {
+    "n": 180,
+    "t": [
+     9.39,
+     10.0
+    ],
+    "words": "and"
+   }
+  ]
+ },
+ {
+  "clip": 89,
+  "file": "clip_089.mp4",
+  "est_window": [
+   880.0,
+   890.0
+  ],
+  "shots": [
+   {
+    "n": 180,
+    "t": [
+     0.0,
+     6.5
+    ],
+    "words": "the animals that survived were the ones that could compress their bodies without compressing their ability"
+   },
+   {
+    "n": 181,
+    "t": [
+     6.5,
+     8.17
+    ],
+    "words": "to breed and feed."
+   },
+   {
+    "n": 182,
+    "t": [
+     8.17,
+     10.0
+    ],
+    "words": "The ones that couldn't"
+   }
+  ]
+ },
+ {
+  "clip": 90,
+  "file": "clip_090.mp4",
+  "est_window": [
+   890.0,
+   900.0
+  ],
+  "shots": [
+   {
+    "n": 182,
+    "t": [
+     0.0,
+     3.19
+    ],
+    "words": "shrink fast enough simply vanished from the record."
+   },
+   {
+    "n": 183,
+    "t": [
+     3.19,
+     8.63
+    ],
+    "words": "The shrinkage was reversible, and that's perhaps the most startling fact of all."
+   },
+   {
+    "n": 184,
+    "t": [
+     8.63,
+     10.0
+    ],
+    "words": "In the final"
+   }
+  ]
+ },
+ {
+  "clip": 91,
+  "file": "clip_091.mp4",
+  "est_window": [
+   900.0,
+   910.0
+  ],
+  "shots": [
+   {
+    "n": 184,
+    "t": [
+     0.0,
+     4.07
+    ],
+    "words": "45,000 years of the PETM, as the carbon cycle stabilized"
+   },
+   {
+    "n": 185,
+    "t": [
+     4.07,
+     10.0
+    ],
+    "words": "and the temperatures began to drop back toward their pre-event baseline, the horses started"
+   }
+  ]
+ },
+ {
+  "clip": 92,
+  "file": "clip_092.mp4",
+  "est_window": [
+   910.0,
+   920.0
+  ],
+  "shots": [
+   {
+    "n": 185,
+    "t": [
+     0.0,
+     1.18
+    ],
+    "words": "to grow again."
+   },
+   {
+    "n": 186,
+    "t": [
+     1.18,
+     5.78
+    ],
+    "words": "The isotopes cooled, and the molars enlarged in nearly perfect synchrony."
+   },
+   {
+    "n": 187,
+    "t": [
+     5.78,
+     10.0
+    ],
+    "words": "Sifrhippus rebounded to about fifteen pounds, still small by modern"
+   }
+  ]
+ },
+ {
+  "clip": 93,
+  "file": "clip_093.mp4",
+  "est_window": [
+   920.0,
+   930.0
+  ],
+  "shots": [
+   {
+    "n": 187,
+    "t": [
+     0.0,
+     0.38
+    ],
+    "words": "standards"
+   },
+   {
+    "n": 188,
+    "t": [
+     0.38,
+     7.49
+    ],
+    "words": "but measurably larger than the dwarfed form that had walked the basin at the peak of the"
+   },
+   {
+    "n": 189,
+    "t": [
+     7.49,
+     7.91
+    ],
+    "words": "heat."
+   },
+   {
+    "n": 190,
+    "t": [
+     7.91,
+     10.0
+    ],
+    "words": "The sediment layers record this"
+   }
+  ]
+ },
+ {
+  "clip": 94,
+  "file": "clip_094.mp4",
+  "est_window": [
+   930.0,
+   940.0
+  ],
+  "shots": [
+   {
+    "n": 190,
+    "t": [
+     0.0,
+     3.35
+    ],
+    "words": "rebound as clearly as they record the collapse,"
+   },
+   {
+    "n": 191,
+    "t": [
+     3.35,
+     10.0
+    ],
+    "words": "and the teeth in the post-PETM layers are almost indistinguishable from the pre-PETM teeth in their"
+   }
+  ]
+ },
+ {
+  "clip": 95,
+  "file": "clip_095.mp4",
+  "est_window": [
+   940.0,
+   950.0
+  ],
+  "shots": [
+   {
+    "n": 191,
+    "t": [
+     0.0,
+     0.46
+    ],
+    "words": "overall"
+   },
+   {
+    "n": 192,
+    "t": [
+     0.46,
+     0.88
+    ],
+    "words": "proportions."
+   },
+   {
+    "n": 193,
+    "t": [
+     0.88,
+     5.9
+    ],
+    "words": "The lineage had not been destroyed or permanently altered into something broken."
+   },
+   {
+    "n": 194,
+    "t": [
+     5.9,
+     10.0
+    ],
+    "words": "It had been compressed by pressure, and then it expanded"
+   }
+  ]
+ },
+ {
+  "clip": 96,
+  "file": "clip_096.mp4",
+  "est_window": [
+   950.0,
+   960.0
+  ],
+  "shots": [
+   {
+    "n": 194,
+    "t": [
+     0.0,
+     2.59
+    ],
+    "words": "again when the pressure was released."
+   },
+   {
+    "n": 195,
+    "t": [
+     2.59,
+     6.36
+    ],
+    "words": "The story of Sifrhippus is the most dramatic case,"
+   },
+   {
+    "n": 196,
+    "t": [
+     6.36,
+     10.0
+    ],
+    "words": "but it's not the only one recorded in the"
+   }
+  ]
+ },
+ {
+  "clip": 97,
+  "file": "clip_097.mp4",
+  "est_window": [
+   960.0,
+   970.0
+  ],
+  "shots": [
+   {
+    "n": 196,
+    "t": [
+     0.0,
+     0.54
+    ],
+    "words": "stone."
+   },
+   {
+    "n": 197,
+    "t": [
+     0.54,
+     6.82
+    ],
+    "words": "In the same layers of the Willwood Formation, paleontologists found something stranger: not shrinking animals,"
+   },
+   {
+    "n": 198,
+    "t": [
+     6.82,
+     9.33
+    ],
+    "words": "but a changing of the guard."
+   },
+   {
+    "n": 199,
+    "t": [
+     9.33,
+     10.0
+    ],
+    "words": "The phenacodontid"
+   }
+  ]
+ },
+ {
+  "clip": 98,
+  "file": "clip_098.mp4",
+  "est_window": [
+   970.0,
+   980.0
+  ],
+  "shots": [
+   {
+    "n": 199,
+    "t": [
+     0.0,
+     6.44
+    ],
+    "words": "Ectocion osbornianus, a browser of ordinary size, gave way almost entirely to a smaller cousin,"
+   },
+   {
+    "n": 200,
+    "t": [
+     6.44,
+     10.0
+    ],
+    "words": "Ectocion parvus, nearly a fifth smaller by the measure"
+   }
+  ]
+ },
+ {
+  "clip": 99,
+  "file": "clip_099.mp4",
+  "est_window": [
+   980.0,
+   990.0
+  ],
+  "shots": [
+   {
+    "n": 200,
+    "t": [
+     0.0,
+     1.46
+    ],
+    "words": "of its teeth."
+   },
+   {
+    "n": 201,
+    "t": [
+     1.46,
+     3.97
+    ],
+    "words": "The same swap happened with Copecion,"
+   },
+   {
+    "n": 202,
+    "t": [
+     3.97,
+     8.99
+    ],
+    "words": "where the larger Copecion brachypternus was displaced by the smaller Copecion davisi."
+   },
+   {
+    "n": 203,
+    "t": [
+     8.99,
+     10.0
+    ],
+    "words": "These weren't"
+   }
+  ]
+ },
+ {
+  "clip": 100,
+  "file": "clip_100.mp4",
+  "est_window": [
+   990.0,
+   1000.0
+  ],
+  "shots": [
+   {
+    "n": 203,
+    "t": [
+     0.0,
+     4.01
+    ],
+    "words": "the same animals shrinking in place, the way Sifrhippus did."
+   },
+   {
+    "n": 204,
+    "t": [
+     4.01,
+     9.45
+    ],
+    "words": "A 2012 study in Palaeogeography, Palaeoclimatology, Palaeoecology found that Ectocion parvus already existed"
+   },
+   {
+    "n": 205,
+    "t": [
+     9.45,
+     10.0
+    ],
+    "words": "as"
+   }
+  ]
+ },
+ {
+  "clip": 101,
+  "file": "clip_101.mp4",
+  "est_window": [
+   1000.0,
+   1010.0
+  ],
+  "shots": [
+   {
+    "n": 205,
+    "t": [
+     0.0,
+     5.73
+    ],
+    "words": "a smaller species farther south, in what is now Colorado, before the PETM began."
+   },
+   {
+    "n": 206,
+    "t": [
+     5.73,
+     10.0
+    ],
+    "words": "As the heat arrived, it expanded its range north into"
+   }
+  ]
+ },
+ {
+  "clip": 102,
+  "file": "clip_102.mp4",
+  "est_window": [
+   1010.0,
+   1020.0
+  ],
+  "shots": [
+   {
+    "n": 206,
+    "t": [
+     0.0,
+     1.17
+    ],
+    "words": "the Bighorn Basin"
+   },
+   {
+    "n": 207,
+    "t": [
+     1.17,
+     4.1
+    ],
+    "words": "and largely replaced its larger relative there."
+   },
+   {
+    "n": 208,
+    "t": [
+     4.1,
+     9.96
+    ],
+    "words": "It's a different strategy than shrinking, but the same answer to the same problem."
+   }
+  ]
+ },
+ {
+  "clip": 103,
+  "file": "clip_103.mp4",
+  "est_window": [
+   1020.0,
+   1030.0
+  ],
+  "shots": [
+   {
+    "n": 209,
+    "t": [
+     0.0,
+     3.73
+    ],
+    "words": "A smaller body, already built for a warmer climate,"
+   },
+   {
+    "n": 210,
+    "t": [
+     3.73,
+     9.59
+    ],
+    "words": "simply moved into territory the heat had made survivable only for something that size."
+   },
+   {
+    "n": 211,
+    "t": [
+     9.59,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 104,
+  "file": "clip_104.mp4",
+  "est_window": [
+   1030.0,
+   1040.0
+  ],
+  "shots": [
+   {
+    "n": 211,
+    "t": [
+     0.0,
+     5.87
+    ],
+    "words": "fossils from the northern sites carry the same small proportions as the southern populations,"
+   },
+   {
+    "n": 212,
+    "t": [
+     5.87,
+     8.8
+    ],
+    "words": "which means this wasn't a local accident."
+   },
+   {
+    "n": 213,
+    "t": [
+     8.8,
+     10.0
+    ],
+    "words": "It was the"
+   }
+  ]
+ },
+ {
+  "clip": 105,
+  "file": "clip_105.mp4",
+  "est_window": [
+   1040.0,
+   1050.0
+  ],
+  "shots": [
+   {
+    "n": 213,
+    "t": [
+     0.0,
+     4.66
+    ],
+    "words": "heat redrawing the map of which body size could live where."
+   },
+   {
+    "n": 214,
+    "t": [
+     4.66,
+     8.01
+    ],
+    "words": "Copecion davisi tells the same story of replacement."
+   },
+   {
+    "n": 215,
+    "t": [
+     8.01,
+     10.0
+    ],
+    "words": "Its molars are measurably smaller"
+   }
+  ]
+ },
+ {
+  "clip": 106,
+  "file": "clip_106.mp4",
+  "est_window": [
+   1050.0,
+   1060.0
+  ],
+  "shots": [
+   {
+    "n": 215,
+    "t": [
+     0.0,
+     3.87
+    ],
+    "words": "than those of Copecion brachypternus, the species it displaced,"
+   },
+   {
+    "n": 216,
+    "t": [
+     3.87,
+     9.31
+    ],
+    "words": "and the timing lines up with the same isotope spike that shrank Sifrhippus."
+   },
+   {
+    "n": 217,
+    "t": [
+     9.31,
+     10.0
+    ],
+    "words": "These weren't"
+   }
+  ]
+ },
+ {
+  "clip": 107,
+  "file": "clip_107.mp4",
+  "est_window": [
+   1060.0,
+   1070.0
+  ],
+  "shots": [
+   {
+    "n": 217,
+    "t": [
+     0.0,
+     2.66
+    ],
+    "words": "failed animals or evolutionary dead ends."
+   },
+   {
+    "n": 218,
+    "t": [
+     2.66,
+     9.77
+    ],
+    "words": "They were survivors that adjusted their biology to a world that had become hostile to the large"
+   },
+   {
+    "n": 219,
+    "t": [
+     9.77,
+     10.0
+    ],
+    "words": "and"
+   }
+  ]
+ },
+ {
+  "clip": 108,
+  "file": "clip_108.mp4",
+  "est_window": [
+   1070.0,
+   1080.0
+  ],
+  "shots": [
+   {
+    "n": 219,
+    "t": [
+     0.0,
+     1.03
+    ],
+    "words": "the heavy."
+   },
+   {
+    "n": 220,
+    "t": [
+     1.03,
+     8.14
+    ],
+    "words": "Multiple lineages independently shrinking under the same temperature curve proves that the response wasn't a genetic quirk"
+   },
+   {
+    "n": 221,
+    "t": [
+     8.14,
+     9.81
+    ],
+    "words": "or a local accident."
+   },
+   {
+    "n": 222,
+    "t": [
+     9.81,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 109,
+  "file": "clip_109.mp4",
+  "est_window": [
+   1080.0,
+   1090.0
+  ],
+  "shots": [
+   {
+    "n": 222,
+    "t": [
+     0.0,
+     6.09
+    ],
+    "words": "It was a physical law, written in bone and enamel, and it operated across species"
+   },
+   {
+    "n": 223,
+    "t": [
+     6.09,
+     9.44
+    ],
+    "words": "and across habitats with the consistency of gravity."
+   },
+   {
+    "n": 224,
+    "t": [
+     9.44,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 110,
+  "file": "clip_110.mp4",
+  "est_window": [
+   1090.0,
+   1100.0
+  ],
+  "shots": [
+   {
+    "n": 224,
+    "t": [
+     0.0,
+     2.37
+    ],
+    "words": "shrinkage also changed the ecosystem itself."
+   },
+   {
+    "n": 225,
+    "t": [
+     2.37,
+     7.81
+    ],
+    "words": "Smaller herbivores eat less and reproduce faster, which alters the pressure on plants"
+   },
+   {
+    "n": 226,
+    "t": [
+     7.81,
+     10.0
+    ],
+    "words": "and the food available for"
+   }
+  ]
+ },
+ {
+  "clip": 111,
+  "file": "clip_111.mp4",
+  "est_window": [
+   1100.0,
+   1110.0
+  ],
+  "shots": [
+   {
+    "n": 226,
+    "t": [
+     0.0,
+     0.32
+    ],
+    "words": "predators."
+   },
+   {
+    "n": 227,
+    "t": [
+     0.32,
+     6.6
+    ],
+    "words": "The basin's mammal community became a community of miniatures, and the relationships between species shifted"
+   },
+   {
+    "n": 228,
+    "t": [
+     6.6,
+     8.27
+    ],
+    "words": "as the bodies changed."
+   },
+   {
+    "n": 229,
+    "t": [
+     8.27,
+     10.0
+    ],
+    "words": "It was a reorganization"
+   }
+  ]
+ },
+ {
+  "clip": 112,
+  "file": "clip_112.mp4",
+  "est_window": [
+   1110.0,
+   1120.0
+  ],
+  "shots": [
+   {
+    "n": 229,
+    "t": [
+     0.0,
+     4.13
+    ],
+    "words": "of the food web, driven not by competition or extinction"
+   },
+   {
+    "n": 230,
+    "t": [
+     4.13,
+     7.48
+    ],
+    "words": "but by the simple physics of heat dissipation."
+   },
+   {
+    "n": 231,
+    "t": [
+     7.48,
+     9.57
+    ],
+    "words": "The animals didn't choose this."
+   },
+   {
+    "n": 232,
+    "t": [
+     9.57,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 113,
+  "file": "clip_113.mp4",
+  "est_window": [
+   1120.0,
+   1130.0
+  ],
+  "shots": [
+   {
+    "n": 232,
+    "t": [
+     0.0,
+     2.08
+    ],
+    "words": "temperature chose it for them."
+   },
+   {
+    "n": 233,
+    "t": [
+     2.08,
+     8.77
+    ],
+    "words": "The Sand Creek Divide quarry has yielded more than a thousand specimens from the PETM interval,"
+   },
+   {
+    "n": 234,
+    "t": [
+     8.77,
+     10.0
+    ],
+    "words": "and the assemblage"
+   }
+  ]
+ },
+ {
+  "clip": 114,
+  "file": "clip_114.mp4",
+  "est_window": [
+   1130.0,
+   1140.0
+  ],
+  "shots": [
+   {
+    "n": 234,
+    "t": [
+     0.0,
+     3.37
+    ],
+    "words": "includes the dwarfed forms of several distinct lineages."
+   },
+   {
+    "n": 235,
+    "t": [
+     3.37,
+     7.14
+    ],
+    "words": "When laid out on a table in chronological order,"
+   },
+   {
+    "n": 236,
+    "t": [
+     7.14,
+     10.0
+    ],
+    "words": "the teeth form a gradient from large"
+   }
+  ]
+ },
+ {
+  "clip": 115,
+  "file": "clip_115.mp4",
+  "est_window": [
+   1140.0,
+   1150.0
+  ],
+  "shots": [
+   {
+    "n": 236,
+    "t": [
+     0.0,
+     2.58
+    ],
+    "words": "to small and back to large,"
+   },
+   {
+    "n": 237,
+    "t": [
+     2.58,
+     8.86
+    ],
+    "words": "a physical timeline of compression and release that you could read with your eyes closed."
+   },
+   {
+    "n": 238,
+    "t": [
+     8.86,
+     10.0
+    ],
+    "words": "The basin wasn't"
+   }
+  ]
+ },
+ {
+  "clip": 116,
+  "file": "clip_116.mp4",
+  "est_window": [
+   1150.0,
+   1160.0
+  ],
+  "shots": [
+   {
+    "n": 238,
+    "t": [
+     0.0,
+     0.95
+    ],
+    "words": "a graveyard."
+   },
+   {
+    "n": 239,
+    "t": [
+     0.95,
+     6.39
+    ],
+    "words": "It was a laboratory, and the experiment was conducted by the Earth itself."
+   },
+   {
+    "n": 240,
+    "t": [
+     6.39,
+     10.0
+    ],
+    "words": "The results are still on display, and they say"
+   }
+  ]
+ },
+ {
+  "clip": 117,
+  "file": "clip_117.mp4",
+  "est_window": [
+   1160.0,
+   1170.0
+  ],
+  "shots": [
+   {
+    "n": 240,
+    "t": [
+     0.0,
+     2.67
+    ],
+    "words": "that when the world grows hot,"
+   },
+   {
+    "n": 241,
+    "t": [
+     2.67,
+     7.69
+    ],
+    "words": "the mammals that remain are the ones that can make themselves smaller."
+   },
+   {
+    "n": 242,
+    "t": [
+     7.69,
+     8.95
+    ],
+    "words": "The mammals shrank."
+   },
+   {
+    "n": 243,
+    "t": [
+     8.95,
+     10.0
+    ],
+    "words": "The mechanism is"
+   }
+  ]
+ },
+ {
+  "clip": 118,
+  "file": "clip_118.mp4",
+  "est_window": [
+   1170.0,
+   1180.0
+  ],
+  "shots": [
+   {
+    "n": 243,
+    "t": [
+     0.0,
+     3.97
+    ],
+    "words": "called Bergmann's Rule, and it's one of the oldest"
+   },
+   {
+    "n": 244,
+    "t": [
+     3.97,
+     6.48
+    ],
+    "words": "and most consistent patterns in biology."
+   },
+   {
+    "n": 245,
+    "t": [
+     6.48,
+     10.0
+    ],
+    "words": "The rule states that within a given species"
+   }
+  ]
+ },
+ {
+  "clip": 119,
+  "file": "clip_119.mp4",
+  "est_window": [
+   1180.0,
+   1190.0
+  ],
+  "shots": [
+   {
+    "n": 245,
+    "t": [
+     0.0,
+     1.5
+    ],
+    "words": "or closely related group,"
+   },
+   {
+    "n": 246,
+    "t": [
+     1.5,
+     6.94
+    ],
+    "words": "individuals in warmer climates tend to be smaller than those in colder climates."
+   },
+   {
+    "n": 247,
+    "t": [
+     6.94,
+     10.0
+    ],
+    "words": "The reason is simple physics, and it"
+   }
+  ]
+ },
+ {
+  "clip": 120,
+  "file": "clip_120.mp4",
+  "est_window": [
+   1190.0,
+   1200.0
+  ],
+  "shots": [
+   {
+    "n": 247,
+    "t": [
+     0.0,
+     4.05
+    ],
+    "words": "applies to mammals everywhere from the Arctic to the equator."
+   },
+   {
+    "n": 248,
+    "t": [
+     4.05,
+     7.4
+    ],
+    "words": "A smaller body has a higher surface-area-to-volume ratio,"
+   },
+   {
+    "n": 249,
+    "t": [
+     7.4,
+     10.0
+    ],
+    "words": "which means it sheds heat more"
+   }
+  ]
+ },
+ {
+  "clip": 121,
+  "file": "clip_121.mp4",
+  "est_window": [
+   1200.0,
+   1210.0
+  ],
+  "shots": [
+   {
+    "n": 249,
+    "t": [
+     0.0,
+     2.42
+    ],
+    "words": "efficiently through the skin and lungs."
+   },
+   {
+    "n": 250,
+    "t": [
+     2.42,
+     7.44
+    ],
+    "words": "A larger body retains heat, which is an advantage in the Arctic"
+   },
+   {
+    "n": 251,
+    "t": [
+     7.44,
+     10.0
+    ],
+    "words": "but a lethal liability in the"
+   }
+  ]
+ },
+ {
+  "clip": 122,
+  "file": "clip_122.mp4",
+  "est_window": [
+   1210.0,
+   1220.0
+  ],
+  "shots": [
+   {
+    "n": 251,
+    "t": [
+     0.0,
+     0.37
+    ],
+    "words": "tropics."
+   },
+   {
+    "n": 252,
+    "t": [
+     0.37,
+     4.97
+    ],
+    "words": "During the PETM, the Bighorn Basin became a tropical pressure cooker,"
+   },
+   {
+    "n": 253,
+    "t": [
+     4.97,
+     8.74
+    ],
+    "words": "and the mammals responded by doing what physics demanded."
+   },
+   {
+    "n": 254,
+    "t": [
+     8.74,
+     10.0
+    ],
+    "words": "Secord and his"
+   }
+  ]
+ },
+ {
+  "clip": 123,
+  "file": "clip_123.mp4",
+  "est_window": [
+   1220.0,
+   1230.0
+  ],
+  "shots": [
+   {
+    "n": 254,
+    "t": [
+     0.0,
+     4.6
+    ],
+    "words": "team tested this directly, using the fossils as a time machine."
+   },
+   {
+    "n": 255,
+    "t": [
+     4.6,
+     10.0
+    ],
+    "words": "They compared the oxygen isotope temperatures to the molar sizes across the PETM"
+   }
+  ]
+ },
+ {
+  "clip": 124,
+  "file": "clip_124.mp4",
+  "est_window": [
+   1230.0,
+   1240.0
+  ],
+  "shots": [
+   {
+    "n": 255,
+    "t": [
+     0.0,
+     0.46
+    ],
+    "words": "interval,"
+   },
+   {
+    "n": 256,
+    "t": [
+     0.46,
+     5.9
+    ],
+    "words": "and they found that the two variables tracked each other with uncanny precision."
+   },
+   {
+    "n": 257,
+    "t": [
+     5.9,
+     9.25
+    ],
+    "words": "There was no lag, no gap, no mystery."
+   },
+   {
+    "n": 258,
+    "t": [
+     9.25,
+     10.0
+    ],
+    "words": "The teeth"
+   }
+  ]
+ },
+ {
+  "clip": 125,
+  "file": "clip_125.mp4",
+  "est_window": [
+   1240.0,
+   1250.0
+  ],
+  "shots": [
+   {
+    "n": 258,
+    "t": [
+     0.0,
+     3.85
+    ],
+    "words": "didn't shrink after a delay of thousands of years."
+   },
+   {
+    "n": 259,
+    "t": [
+     3.85,
+     6.36
+    ],
+    "words": "They shrank as the temperature rose,"
+   },
+   {
+    "n": 260,
+    "t": [
+     6.36,
+     10.0
+    ],
+    "words": "which means the response wasn't an evolutionary accident that"
+   }
+  ]
+ },
+ {
+  "clip": 126,
+  "file": "clip_126.mp4",
+  "est_window": [
+   1250.0,
+   1260.0
+  ],
+  "shots": [
+   {
+    "n": 260,
+    "t": [
+     0.0,
+     2.64
+    ],
+    "words": "played out over millions of years."
+   },
+   {
+    "n": 261,
+    "t": [
+     2.64,
+     4.31
+    ],
+    "words": "It was a rapid,"
+   },
+   {
+    "n": 262,
+    "t": [
+     4.31,
+     10.0
+    ],
+    "words": "directional change that followed the thermostat of the planet in something close to real"
+   }
+  ]
+ },
+ {
+  "clip": 127,
+  "file": "clip_127.mp4",
+  "est_window": [
+   1260.0,
+   1270.0
+  ],
+  "shots": [
+   {
+    "n": 262,
+    "t": [
+     0.0,
+     0.59
+    ],
+    "words": "time."
+   },
+   {
+    "n": 263,
+    "t": [
+     0.59,
+     6.03
+    ],
+    "words": "The horses weren't adapting to a new predator or a new food source."
+   },
+   {
+    "n": 264,
+    "t": [
+     6.03,
+     8.96
+    ],
+    "words": "They were adapting to the heat itself,"
+   },
+   {
+    "n": 265,
+    "t": [
+     8.96,
+     10.0
+    ],
+    "words": "and the"
+   }
+  ]
+ },
+ {
+  "clip": 128,
+  "file": "clip_128.mp4",
+  "est_window": [
+   1270.0,
+   1280.0
+  ],
+  "shots": [
+   {
+    "n": 265,
+    "t": [
+     0.0,
+     3.56
+    ],
+    "words": "adaptation was written in real time across the tan"
+   },
+   {
+    "n": 266,
+    "t": [
+     3.56,
+     6.49
+    ],
+    "words": "and gray layers of the Willwood Formation."
+   },
+   {
+    "n": 267,
+    "t": [
+     6.49,
+     10.0
+    ],
+    "words": "Some researchers have argued that the dwarfing was"
+   }
+  ]
+ },
+ {
+  "clip": 129,
+  "file": "clip_129.mp4",
+  "est_window": [
+   1280.0,
+   1290.0
+  ],
+  "shots": [
+   {
+    "n": 267,
+    "t": [
+     0.0,
+     2.77
+    ],
+    "words": "driven partly by changes in plant nutrition,"
+   },
+   {
+    "n": 268,
+    "t": [
+     2.77,
+     9.88
+    ],
+    "words": "because elevated carbon dioxide can reduce the protein content of leaves and make them harder to digest."
+   },
+   {
+    "n": 269,
+    "t": [
+     9.88,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 130,
+  "file": "clip_130.mp4",
+  "est_window": [
+   1290.0,
+   1300.0
+  ],
+  "shots": [
+   {
+    "n": 269,
+    "t": [
+     0.0,
+     6.57
+    ],
+    "words": "But the isotope data suggests that temperature was the primary driver, and the plants were secondary."
+   },
+   {
+    "n": 270,
+    "t": [
+     6.57,
+     10.0
+    ],
+    "words": "When Secord's group checked the aridity index, a"
+   }
+  ]
+ },
+ {
+  "clip": 131,
+  "file": "clip_131.mp4",
+  "est_window": [
+   1300.0,
+   1310.0
+  ],
+  "shots": [
+   {
+    "n": 270,
+    "t": [
+     0.0,
+     3.68
+    ],
+    "words": "measure of dryness, they found no correlation between aridity"
+   },
+   {
+    "n": 271,
+    "t": [
+     3.68,
+     4.94
+    ],
+    "words": "and body size."
+   },
+   {
+    "n": 272,
+    "t": [
+     4.94,
+     10.0
+    ],
+    "words": "The horses didn't shrink because the climate became drier or because the"
+   }
+  ]
+ },
+ {
+  "clip": 132,
+  "file": "clip_132.mp4",
+  "est_window": [
+   1310.0,
+   1320.0
+  ],
+  "shots": [
+   {
+    "n": 272,
+    "t": [
+     0.0,
+     0.8
+    ],
+    "words": "food vanished."
+   },
+   {
+    "n": 273,
+    "t": [
+     0.8,
+     3.73
+    ],
+    "words": "They shrank because the climate became hotter,"
+   },
+   {
+    "n": 274,
+    "t": [
+     3.73,
+     8.33
+    ],
+    "words": "and the physics of heat loss left them no other path."
+   },
+   {
+    "n": 275,
+    "t": [
+     8.33,
+     10.0
+    ],
+    "words": "A twelve-pound horse in"
+   }
+  ]
+ },
+ {
+  "clip": 133,
+  "file": "clip_133.mp4",
+  "est_window": [
+   1320.0,
+   1330.0
+  ],
+  "shots": [
+   {
+    "n": 275,
+    "t": [
+     0.0,
+     3.77
+    ],
+    "words": "an eight-degree-warmer world is a machine running too hot,"
+   },
+   {
+    "n": 276,
+    "t": [
+     3.77,
+     10.0
+    ],
+    "words": "and the only fix is to build a smaller machine with more skin per pound"
+   }
+  ]
+ },
+ {
+  "clip": 134,
+  "file": "clip_134.mp4",
+  "est_window": [
+   1330.0,
+   1340.0
+  ],
+  "shots": [
+   {
+    "n": 276,
+    "t": [
+     0.0,
+     0.88
+    ],
+    "words": "of flesh."
+   },
+   {
+    "n": 277,
+    "t": [
+     0.88,
+     7.99
+    ],
+    "words": "The uncanny implication is that evolution, which we usually think of as a march toward greater size"
+   },
+   {
+    "n": 278,
+    "t": [
+     7.99,
+     10.0
+    ],
+    "words": "and complexity, isn't a one-way"
+   }
+  ]
+ },
+ {
+  "clip": 135,
+  "file": "clip_135.mp4",
+  "est_window": [
+   1340.0,
+   1350.0
+  ],
+  "shots": [
+   {
+    "n": 278,
+    "t": [
+     0.0,
+     1.76
+    ],
+    "words": "street or a ladder."
+   },
+   {
+    "n": 279,
+    "t": [
+     1.76,
+     8.87
+    ],
+    "words": "The PETM proves that the direction of evolution can be reversed by a physical force as simple"
+   },
+   {
+    "n": 280,
+    "t": [
+     8.87,
+     10.0
+    ],
+    "words": "and brutal as"
+   }
+  ]
+ },
+ {
+  "clip": 136,
+  "file": "clip_136.mp4",
+  "est_window": [
+   1350.0,
+   1360.0
+  ],
+  "shots": [
+   {
+    "n": 280,
+    "t": [
+     0.0,
+     0.54
+    ],
+    "words": "temperature."
+   },
+   {
+    "n": 281,
+    "t": [
+     0.54,
+     3.05
+    ],
+    "words": "The animals didn't become more advanced."
+   },
+   {
+    "n": 282,
+    "t": [
+     3.05,
+     7.23
+    ],
+    "words": "They became more compact, and they didn't conquer new environments."
+   },
+   {
+    "n": 283,
+    "t": [
+     7.23,
+     10.0
+    ],
+    "words": "Instead, they retreated into smaller bodies in"
+   }
+  ]
+ },
+ {
+  "clip": 137,
+  "file": "clip_137.mp4",
+  "est_window": [
+   1360.0,
+   1370.0
+  ],
+  "shots": [
+   {
+    "n": 283,
+    "t": [
+     0.0,
+     3.92
+    ],
+    "words": "the same environment, and they survived because of it."
+   },
+   {
+    "n": 284,
+    "t": [
+     3.92,
+     8.94
+    ],
+    "words": "The Bighorn Basin holds the proof that heat can run evolution backwards,"
+   },
+   {
+    "n": 285,
+    "t": [
+     8.94,
+     10.0
+    ],
+    "words": "and the proof"
+   }
+  ]
+ },
+ {
+  "clip": 138,
+  "file": "clip_138.mp4",
+  "est_window": [
+   1370.0,
+   1380.0
+  ],
+  "shots": [
+   {
+    "n": 285,
+    "t": [
+     0.0,
+     1.45
+    ],
+    "words": "is still there,"
+   },
+   {
+    "n": 286,
+    "t": [
+     1.45,
+     6.89
+    ],
+    "words": "locked in the teeth of horses that lived through a world on fire."
+   },
+   {
+    "n": 287,
+    "t": [
+     6.89,
+     10.0
+    ],
+    "words": "The teeth are small, and the message"
+   }
+  ]
+ },
+ {
+  "clip": 139,
+  "file": "clip_139.mp4",
+  "est_window": [
+   1380.0,
+   1390.0
+  ],
+  "shots": [
+   {
+    "n": 287,
+    "t": [
+     0.0,
+     1.91
+    ],
+    "words": "burns larger than it looks."
+   },
+   {
+    "n": 288,
+    "t": [
+     1.91,
+     7.35
+    ],
+    "words": "The heat didn't last forever, and that's the final twist in the story."
+   },
+   {
+    "n": 289,
+    "t": [
+     7.35,
+     10.0
+    ],
+    "words": "The carbon pulse was finite, and"
+   }
+  ]
+ },
+ {
+  "clip": 140,
+  "file": "clip_140.mp4",
+  "est_window": [
+   1390.0,
+   1400.0
+  ],
+  "shots": [
+   {
+    "n": 289,
+    "t": [
+     0.0,
+     4.04
+    ],
+    "words": "the Earth's systems eventually absorbed the excess through rock weathering"
+   },
+   {
+    "n": 290,
+    "t": [
+     4.04,
+     5.3
+    ],
+    "words": "and oceanic uptake."
+   },
+   {
+    "n": 291,
+    "t": [
+     5.3,
+     8.65
+    ],
+    "words": "In the last 45,000 years of the PETM,"
+   },
+   {
+    "n": 292,
+    "t": [
+     8.65,
+     10.0
+    ],
+    "words": "the carbon isotope"
+   }
+  ]
+ },
+ {
+  "clip": 141,
+  "file": "clip_141.mp4",
+  "est_window": [
+   1400.0,
+   1410.0
+  ],
+  "shots": [
+   {
+    "n": 292,
+    "t": [
+     0.0,
+     3.67
+    ],
+    "words": "curve began to fall back toward its pre-event baseline,"
+   },
+   {
+    "n": 293,
+    "t": [
+     3.67,
+     6.6
+    ],
+    "words": "and the oxygen isotopes recorded cooling rains."
+   },
+   {
+    "n": 294,
+    "t": [
+     6.6,
+     10.0
+    ],
+    "words": "The forests of the Bighorn Basin didn't return"
+   }
+  ]
+ },
+ {
+  "clip": 142,
+  "file": "clip_142.mp4",
+  "est_window": [
+   1410.0,
+   1420.0
+  ],
+  "shots": [
+   {
+    "n": 294,
+    "t": [
+     0.0,
+     2.46
+    ],
+    "words": "to exactly what they had been,"
+   },
+   {
+    "n": 295,
+    "t": [
+     2.46,
+     9.15
+    ],
+    "words": "because evolution doesn't rewind, but the temperature dropped enough to lift the pressure on mammalian bodies."
+   },
+   {
+    "n": 296,
+    "t": [
+     9.15,
+     10.0
+    ],
+    "words": "Sifrhippus responded"
+   }
+  ]
+ },
+ {
+  "clip": 143,
+  "file": "clip_143.mp4",
+  "est_window": [
+   1420.0,
+   1430.0
+  ],
+  "shots": [
+   {
+    "n": 296,
+    "t": [
+     0.0,
+     0.82
+    ],
+    "words": "almost immediately."
+   },
+   {
+    "n": 297,
+    "t": [
+     0.82,
+     7.1
+    ],
+    "words": "Its teeth began to enlarge, its leg bones lengthened, and its skull expanded in proportion."
+   },
+   {
+    "n": 298,
+    "t": [
+     7.1,
+     10.0
+    ],
+    "words": "The rebound was as precise and as"
+   }
+  ]
+ },
+ {
+  "clip": 144,
+  "file": "clip_144.mp4",
+  "est_window": [
+   1430.0,
+   1440.0
+  ],
+  "shots": [
+   {
+    "n": 298,
+    "t": [
+     0.0,
+     1.7
+    ],
+    "words": "orderly as the collapse."
+   },
+   {
+    "n": 299,
+    "t": [
+     1.7,
+     7.56
+    ],
+    "words": "By the time the event ended, Sifrhippus had climbed back to about fifteen pounds,"
+   },
+   {
+    "n": 300,
+    "t": [
+     7.56,
+     10.0
+    ],
+    "words": "a weight that would have looked"
+   }
+  ]
+ },
+ {
+  "clip": 145,
+  "file": "clip_145.mp4",
+  "est_window": [
+   1440.0,
+   1450.0
+  ],
+  "shots": [
+   {
+    "n": 300,
+    "t": [
+     0.0,
+     2.16
+    ],
+    "words": "normal to its pre-PETM ancestors."
+   },
+   {
+    "n": 301,
+    "t": [
+     2.16,
+     5.93
+    ],
+    "words": "It was still a small animal by modern standards,"
+   },
+   {
+    "n": 302,
+    "t": [
+     5.93,
+     10.0
+    ],
+    "words": "but it was nearly a third larger than the dwarfed"
+   }
+  ]
+ },
+ {
+  "clip": 146,
+  "file": "clip_146.mp4",
+  "est_window": [
+   1450.0,
+   1460.0
+  ],
+  "shots": [
+   {
+    "n": 302,
+    "t": [
+     0.0,
+     3.04
+    ],
+    "words": "form that had moved through the basin"
+   },
+   {
+    "n": 303,
+    "t": [
+     3.04,
+     5.13
+    ],
+    "words": "when the heat was worst."
+   },
+   {
+    "n": 304,
+    "t": [
+     5.13,
+     10.0
+    ],
+    "words": "The post-PETM fossils show a body that had unclenched, that had relaxed"
+   }
+  ]
+ },
+ {
+  "clip": 147,
+  "file": "clip_147.mp4",
+  "est_window": [
+   1460.0,
+   1470.0
+  ],
+  "shots": [
+   {
+    "n": 304,
+    "t": [
+     0.0,
+     2.24
+    ],
+    "words": "back into a larger frame"
+   },
+   {
+    "n": 305,
+    "t": [
+     2.24,
+     8.52
+    ],
+    "words": "because the world had cooled and the physics of heat loss no longer demanded miniaturization."
+   },
+   {
+    "n": 306,
+    "t": [
+     8.52,
+     10.0
+    ],
+    "words": "The rebound is recorded"
+   }
+  ]
+ },
+ {
+  "clip": 148,
+  "file": "clip_148.mp4",
+  "est_window": [
+   1470.0,
+   1480.0
+  ],
+  "shots": [
+   {
+    "n": 306,
+    "t": [
+     0.0,
+     3.96
+    ],
+    "words": "in the same sediment layers that record the collapse,"
+   },
+   {
+    "n": 307,
+    "t": [
+     3.96,
+     7.73
+    ],
+    "words": "and the two curves form a near-perfect mirror image."
+   },
+   {
+    "n": 308,
+    "t": [
+     7.73,
+     10.0
+    ],
+    "words": "What went down came back"
+   }
+  ]
+ },
+ {
+  "clip": 149,
+  "file": "clip_149.mp4",
+  "est_window": [
+   1480.0,
+   1490.0
+  ],
+  "shots": [
+   {
+    "n": 308,
+    "t": [
+     0.0,
+     0.24
+    ],
+    "words": "up."
+   },
+   {
+    "n": 309,
+    "t": [
+     0.24,
+     4.84
+    ],
+    "words": "The size returning proves the shrinkage wasn't a permanent genetic rewrite."
+   },
+   {
+    "n": 310,
+    "t": [
+     4.84,
+     10.0
+    ],
+    "words": "It was a plastic response to an environmental extreme, and when the"
+   }
+  ]
+ },
+ {
+  "clip": 150,
+  "file": "clip_150.mp4",
+  "est_window": [
+   1490.0,
+   1500.0
+  ],
+  "shots": [
+   {
+    "n": 310,
+    "t": [
+     0.0,
+     1.95
+    ],
+    "words": "extreme passed, the plasticity reversed."
+   },
+   {
+    "n": 311,
+    "t": [
+     1.95,
+     5.3
+    ],
+    "words": "This isn't how we usually think of evolution."
+   },
+   {
+    "n": 312,
+    "t": [
+     5.3,
+     9.9
+    ],
+    "words": "We imagine slow, irreversible trends toward larger brains and longer limbs."
+   },
+   {
+    "n": 313,
+    "t": [
+     9.9,
+     10.0
+    ],
+    "words": ""
+   }
+  ]
+ },
+ {
+  "clip": 151,
+  "file": "clip_151.mp4",
+  "est_window": [
+   1500.0,
+   1510.0
+  ],
+  "shots": [
+   {
+    "n": 313,
+    "t": [
+     0.0,
+     6.18
+    ],
+    "words": "But the PETM shows evolution can be fast, reversible, and driven by simple physical forces."
+   },
+   {
+    "n": 314,
+    "t": [
+     6.18,
+     10.0
+    ],
+    "words": "The Bighorn Basin is a monument to bodies being"
+   }
+  ]
+ },
+ {
+  "clip": 152,
+  "file": "clip_152.mp4",
+  "est_window": [
+   1510.0,
+   1520.0
+  ],
+  "shots": [
+   {
+    "n": 314,
+    "t": [
+     0.0,
+     3.29
+    ],
+    "words": "temporary sculptures, and the temperature is the sculptor."
+   },
+   {
+    "n": 315,
+    "t": [
+     3.29,
+     5.8
+    ],
+    "words": "Other lineages show the same rebound."
+   },
+   {
+    "n": 316,
+    "t": [
+     5.8,
+     10.0
+    ],
+    "words": "Ectocion and Copecion also regained size after the PETM, and"
+   }
+  ]
+ },
+ {
+  "clip": 153,
+  "file": "clip_153.mp4",
+  "est_window": [
+   1520.0,
+   1530.0
+  ],
+  "shots": [
+   {
+    "n": 316,
+    "t": [
+     0.0,
+     1.24
+    ],
+    "words": "the mammal community"
+   },
+   {
+    "n": 317,
+    "t": [
+     1.24,
+     6.68
+    ],
+    "words": "as a whole returned to a body-size distribution closer to the pre-event norm."
+   },
+   {
+    "n": 318,
+    "t": [
+     6.68,
+     8.77
+    ],
+    "words": "The basin recovered its quiet."
+   },
+   {
+    "n": 319,
+    "t": [
+     8.77,
+     10.0
+    ],
+    "words": "The animals grew"
+   }
+  ]
+ },
+ {
+  "clip": 154,
+  "file": "clip_154.mp4",
+  "est_window": [
+   1530.0,
+   1540.0
+  ],
+  "shots": [
+   {
+    "n": 319,
+    "t": [
+     0.0,
+     2.54
+    ],
+    "words": "back, and the layers kept accumulating,"
+   },
+   {
+    "n": 320,
+    "t": [
+     2.54,
+     7.98
+    ],
+    "words": "burying the evidence under new sediment until humans arrived to dig it up."
+   },
+   {
+    "n": 321,
+    "t": [
+     7.98,
+     10.0
+    ],
+    "words": "The Bighorn Basin today is"
+   }
+  ]
+ },
+ {
+  "clip": 155,
+  "file": "clip_155.mp4",
+  "est_window": [
+   1540.0,
+   1550.0
+  ],
+  "shots": [
+   {
+    "n": 321,
+    "t": [
+     0.0,
+     4.26
+    ],
+    "words": "silent and wind-scoured, but the layers still hold the proof."
+   },
+   {
+    "n": 322,
+    "t": [
+     4.26,
+     9.7
+    ],
+    "words": "Fifty-six million years ago, heat ran evolution backwards, and the fossils still remember."
+   },
+   {
+    "n": 323,
+    "t": [
+     9.7,
+     10.0
+    ],
+    "words": "The"
+   }
+  ]
+ },
+ {
+  "clip": 156,
+  "file": "clip_156.mp4",
+  "est_window": [
+   1550.0,
+   1556.4
+  ],
+  "shots": [
+   {
+    "n": 323,
+    "t": [
+     0.0,
+     3.05
+    ],
+    "words": "teeth are small, but the story isn't."
+   },
+   {
+    "n": 324,
+    "t": [
+     3.05,
+     6.4
+    ],
+    "words": "The earth still has more to show you."
+   }
+  ]
+ }
+]
