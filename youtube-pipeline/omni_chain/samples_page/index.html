@@ -1,0 +1,152 @@
+<title>Omni Sample Packs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;750&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+:root{
+  --bg:#f3f4f2; --panel:#ffffff; --ink:#1b2127; --muted:#5d6770; --line:#d9ddda;
+  --accent:#1f6f78; --accent-ink:#ffffff; --real:#2f7d4a; --est:#a4661a; --spread:#5b5f8f;
+  --chip-bg:#eef1ef;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#12171b; --panel:#1a2126; --ink:#e6eaec; --muted:#9aa5ad; --line:#2b353c;
+    --accent:#4fb3bd; --accent-ink:#0d1316; --real:#6cc48a; --est:#e0a255; --spread:#9ea3d8; --chip-bg:#222b31;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#12171b; --panel:#1a2126; --ink:#e6eaec; --muted:#9aa5ad; --line:#2b353c;
+  --accent:#4fb3bd; --accent-ink:#0d1316; --real:#6cc48a; --est:#e0a255; --spread:#9ea3d8; --chip-bg:#222b31;
+}
+body{background:var(--bg);color:var(--ink);font-family:Archivo,"Helvetica Neue",Arial,sans-serif;font-size:15px;line-height:1.5}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:28px 48px;display:grid;gap:28px}
+header h1{font-size:28px;font-weight:750;letter-spacing:-.01em;margin:0 0 6px;text-wrap:balance}
+header p{margin:0;color:var(--muted);max-width:68ch}
+.method{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.method span{font:600 12px/1 "JetBrains Mono",ui-monospace,monospace;background:var(--chip-bg);border:1px solid var(--line);padding:6px 8px;border-radius:4px}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 10px;font-weight:600}
+.list{display:grid;gap:10px}
+.pack{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 16px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px 16px;align-items:start}
+.pack .tag{font:600 13px/1.2 "JetBrains Mono",ui-monospace,monospace;color:var(--accent)}
+.pack .name{font-weight:600;font-size:16px;margin:2px 0 4px}
+.pack .note{color:var(--muted);font-size:13.5px;max-width:70ch}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.pill{font:600 11.5px/1 "JetBrains Mono",ui-monospace,monospace;padding:5px 7px;border-radius:999px;border:1px solid currentColor}
+.pill.real{color:var(--real)} .pill.est{color:var(--est)} .pill.spread{color:var(--spread)} .pill.plain{color:var(--muted)}
+.actions{display:flex;flex-direction:column;gap:6px;min-width:190px}
+button{font:600 13px/1 Archivo,"Helvetica Neue",Arial,sans-serif;padding:10px 12px;border-radius:5px;border:1px solid var(--accent);background:var(--panel);color:var(--accent);cursor:pointer;text-align:left}
+button.primary{background:var(--accent);color:var(--accent-ink)}
+button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+button[data-done="1"]{border-color:var(--real);color:var(--real);background:var(--panel)}
+details{grid-column:1/-1;border-top:1px solid var(--line);padding-top:8px}
+summary{cursor:pointer;color:var(--muted);font-size:13px}
+pre{font:12px/1.5 "JetBrains Mono",ui-monospace,monospace;background:var(--chip-bg);border:1px solid var(--line);border-radius:4px;padding:10px;overflow-x:auto;white-space:pre;margin:8px 0 0;max-height:360px}
+textarea.fallback{width:100%;height:140px;margin-top:8px;font:12px "JetBrains Mono",monospace;background:var(--chip-bg);color:var(--ink);border:1px solid var(--line)}
+footer{color:var(--muted);font-size:13px;max-width:75ch}
+@media (max-width:640px){.pack{grid-template-columns:1fr}.actions{min-width:0}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Omni Sample Packs</h1>
+    <p>Eight 2-minute samples for the new chain method: one first frame, then 12 Omni Flash clips of 10 s, each continuing from the last frame of the one before. Copy the first-frame prompt into TurboFlow (Image, Nano Banana Pro, x2), then paste all 12 prompts into one Video batch with "Continue from last frame" on.</p>
+    <div class="method">
+      <span>Omni Flash · 16:9 · 10s · 720p</span><span>Start frame → continue from last frame</span><span>1080p Upscale on download</span><span>Queue row must show "continuous"</span>
+    </div>
+  </header>
+
+  <section>
+    <h2>Episodes · gate 2B sample (clips 1–12)</h2>
+    <div class="list" id="episodes"></div>
+  </section>
+
+  <section>
+    <h2>ch03 archetype test · ep10 "Enoch Saw Them"</h2>
+    <div class="list" id="ch03"></div>
+  </section>
+
+  <footer>Prompts are generated from the authored plans in <code>youtube-pipeline/omni_chain</code> (GitHub branch <code>claude/youtube-pipeline-episodes-0hktdf</code>) by <code>_rx_omni_render.py</code>. After a sample is approved, the next 12 clips start from the last frame of clip 12, so the sample becomes the first two minutes of the episode.</footer>
+</div>
+
+<script>
+const PACKS = [
+  {grp:"episodes", tag:"CH01EP19", name:"Ancient Earth · When Earth Got So Hot Every Animal Shrank",
+   note:"Sifrhippus in the Eocene forest → fossil jaw in the badlands → medallion (logo in post) → the green basin from the air → crocodile swamp → braided floodplain → the type-section rock wall. 3 scene changes, all camera bridges.",
+   pills:[["real","real voice"],["plain","folder ch01ep19-omni"],["plain","prefix clip"]]},
+  {grp:"episodes", tag:"CH02EP16", name:"Chronicle Zero · ROKS Cheonan",
+   note:"Night corvette and the water column → divers to the seabed → torpedo section (ink smudge, never readable) → brass disc (logo in post) → Cheonan on patrol → Baengnyeong Island → shallow cluttered seabed → two navies at dusk.",
+   pills:[["real","real voice"],["plain","folder ch02ep16-omni"],["plain","prefix clip"]]},
+  {grp:"episodes", tag:"CH02EP17", name:"Chronicle Zero · USS Pueblo",
+   note:"Subchaser closes on Pueblo → commander on the bridge wing → the confession desk → Pueblo moored today, brass disc → the ex-cargo hull → the listening masts → radio room → the unarmed deck. Timed on the shotlist estimate: re-time once the narration is built.",
+   pills:[["est","estimate timing"],["plain","folder ch02ep17-omni"],["plain","prefix clip"]]},
+  {grp:"ch03", tag:"CH03EP10_A", name:"A · Photoreal epic (Unraveling the Scriptures)",
+   note:"Watchers are rigid carved stone statues, archangel faces lost in glare, Enoch's face never shown. Start frame: samples_2min/A_start.png.",
+   pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-A"]]},
+  {grp:"ch03", tag:"CH03EP10_B", name:"B · Stick figures on painted backgrounds",
+   note:"Outlines never boil or redraw, mouths closed. Start frame: samples_2min/B_start.png.",
+   pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-B"]]},
+  {grp:"ch03", tag:"CH03EP10_C", name:"C · Engraving collage (Doré + gold leaf)",
+   note:"Hatching stays crisp and fixed, slow minimal motion. Start frame: samples_2min/C_start.png.",
+   pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-C"]]},
+  {grp:"ch03", tag:"CH03EP10_D", name:"D · Luminous oil painting (Night Psalms)",
+   note:"Brush texture never swims, gentle living-painting motion. Start frame: samples_2min/D_start.png.",
+   pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-D"]]},
+  {grp:"ch03", tag:"CH03EP10_E", name:"E · Chibi cartoon on painted backgrounds",
+   note:"Stable outlines, round heads keep their shape, mouths closed. Start frame: samples_2min/E_start.png.",
+   pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-E"]]},
+];
+
+const cache = {};
+async function load(path){
+  if (!(path in cache)) {
+    const r = await fetch(path);
+    if (!r.ok) throw new Error("Could not load " + path);
+    cache[path] = await r.text();
+  }
+  return cache[path];
+}
+
+async function copy(btn, path, label){
+  try {
+    const text = await load(path);
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.dataset.done = "1"; btn.textContent = "Copied: " + label;
+    } catch (e) {
+      let ta = btn.closest(".pack").querySelector("textarea.fallback");
+      if (!ta) { ta = document.createElement("textarea"); ta.className = "fallback"; ta.readOnly = true;
+        btn.closest(".pack").appendChild(ta); }
+      ta.value = text; ta.focus(); ta.select();
+      btn.textContent = "Selected below: press Ctrl+C";
+    }
+  } catch (e) { btn.textContent = e.message; }
+}
+
+for (const p of PACKS) {
+  const el = document.createElement("article");
+  el.className = "pack";
+  const pills = p.pills.map(([k, t]) => `<span class="pill ${k}">${t}</span>`).join("");
+  el.innerHTML = `
+    <div>
+      <div class="tag">${p.tag}</div>
+      <div class="name">${p.name}</div>
+      <div class="note">${p.note}</div>
+      <div class="meta"><span class="pill plain">12 clips · 2:00</span>${pills}</div>
+    </div>
+    <div class="actions">
+      <button type="button" id="ff-${p.tag}">Copy first-frame prompt</button>
+      <button type="button" class="primary" id="clips-${p.tag}">Copy all 12 clip prompts</button>
+    </div>
+    <details><summary>TurboFlow settings for this pack</summary><pre id="rm-${p.tag}">Loading…</pre></details>`;
+  document.getElementById(p.grp).appendChild(el);
+  el.querySelector(`#ff-${p.tag}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_first_frame.txt`, "first frame"));
+  el.querySelector(`#clips-${p.tag}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_clips_001-012.txt`, "12 prompts"));
+  el.querySelector("details").addEventListener("toggle", async ev => {
+    if (!ev.target.open) return;
+    const pre = el.querySelector("pre");
+    try { pre.textContent = await load(`packs/${p.tag}_README.txt`); } catch (e) { pre.textContent = e.message; }
+  });
+}
+</script>
