@@ -200,12 +200,13 @@ def main():
     (out / f"{tag}_omni_clips_{lo:03d}-{hi:03d}.txt").write_text("\n".join(blocks) + "\n", encoding="utf-8")
     fold = plan.get("folder", f"{tag.lower()}-omni")
     prefix = plan.get("prefix", "clip")
-    start_frame = (f"{tag}_first_frame.png (the picked AI33 master image)" if lo == 1 else
+    image = plan.get("start_image", f"_FLOW\\first_frames\\{tag}_first_frame.jpg")
+    start_frame = (f"{image} (the master image Claude made and picked)" if lo == 1 else
                    f"the LAST frame of {prefix}_{lo - 1:03d}.mp4 (not the master image)")
-    first = ("" if lo != 1 else f"""1. FIRST FRAME  (made by Claude, not in TurboFlow)
-   AI33 image model at the highest quality (gpt-image-2, 4K, quality high - or the newer top model if AI33
-   lists one), 16:9, 2 variants from {tag}_omni_first_frame.txt. Claude looks at both and picks
-   (no black bars, borders, burned-in text, extra limbs) and delivers {tag}_first_frame.png.
+    first = ("" if lo != 1 else f"""1. FIRST FRAME  (made by Claude, not in TurboFlow - nothing to generate here)
+   {image}
+   {plan.get("start_note", f"Made by Claude at the highest image quality (4K, 16:9) from {tag}_omni_first_frame.txt, variants")}
+   looked at and picked (no black bars, borders, burned-in text, extra limbs). Upload it as the Start frame.
 
 """)
     (out / f"{tag}_omni_README_{lo:03d}-{hi:03d}.txt").write_text(f"""{tag} - Omni Flash chain, clips {lo}-{hi} ({len(clips) * 10 // 60} min {len(clips) * 10 % 60} s)

@@ -1,13 +1,13 @@
 CH02EP16 - Omni Flash chain, clips 1-12 (2 min 0 s)
 
-1. FIRST FRAME
-   TurboFlow -> Mode Image -> Nano Banana Pro -> 16:9 -> Images per prompt x2 -> 2K Upscale
-   Prompt: CH02EP16_omni_first_frame.txt    Save folder: ch02ep16-omni    prefix: ff  sep _  start 1
-   Claude looks at both and picks (reject black bars, borders, burned-in text, extra limbs).
+1. FIRST FRAME  (made by Claude, not in TurboFlow - nothing to generate here)
+   _FLOW\first_frames\CH02EP16_first_frame.jpg
+   Made by Claude at the highest image quality (4K, 16:9) from CH02EP16_omni_first_frame.txt, variants
+   looked at and picked (no black bars, borders, burned-in text, extra limbs). Upload it as the Start frame.
 
 2. CHAIN
    TurboFlow -> Mode Video -> Omni Flash -> 16:9 -> x1 -> Duration 10s -> Video mode Start -> 360p OFF
-   Start frame: the picked master image (ff_001 or ff_001b)
+   Start frame: _FLOW\first_frames\CH02EP16_first_frame.jpg (the master image Claude made and picked)
    Continue from last frame: ON   (never "Different for Each" with chaining)
    Settings: Save folder ch02ep16-omni . Auto-download videos . Video quality 1080p Upscale
              File naming custom prefix: clip  sep _  start number 1

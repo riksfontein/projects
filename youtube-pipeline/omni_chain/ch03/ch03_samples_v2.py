@@ -288,6 +288,8 @@ def main():
         tag = f"CH03EP10_{key.split('_')[0]}"
         plan = {"tag": tag, "start": 1, "folder": "ch03-samples", "prefix": s["prefix"],
                 "first_frame": image_prompt(s),
+                "start_image": f"ch03\\samples_2min\\{key.split('_')[0]}_start.png",
+                "start_note": f"Made by Claude on 2026-09-24 from {tag}_omni_first_frame.txt (prompt unchanged), variants",
                 "look": {"lens": s["lens"], "style": s["style"], "motion_style": s["motion"],
                          "subject": f"{s['enoch']}; {s['angels']} - identical designs, sizes and colours throughout",
                          "continuity": s["stability"], "neg": s["neg"]},

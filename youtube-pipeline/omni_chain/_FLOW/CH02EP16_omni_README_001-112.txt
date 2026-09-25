@@ -1,13 +1,13 @@
 CH02EP16 - Omni Flash chain, clips 1-112 (18 min 40 s)
 
-1. FIRST FRAME  (made by Claude, not in TurboFlow)
-   AI33 image model at the highest quality (gpt-image-2, 4K, quality high - or the newer top model if AI33
-   lists one), 16:9, 2 variants from CH02EP16_omni_first_frame.txt. Claude looks at both and picks
-   (no black bars, borders, burned-in text, extra limbs) and delivers CH02EP16_first_frame.png.
+1. FIRST FRAME  (made by Claude, not in TurboFlow - nothing to generate here)
+   _FLOW\first_frames\CH02EP16_first_frame.jpg
+   Made by Claude at the highest image quality (4K, 16:9) from CH02EP16_omni_first_frame.txt, variants
+   looked at and picked (no black bars, borders, burned-in text, extra limbs). Upload it as the Start frame.
 
 2. CHAIN
    TurboFlow -> Mode Video -> Omni Flash -> 16:9 -> x1 -> Duration 10s -> Video mode Start -> 360p OFF
-   Start frame: CH02EP16_first_frame.png (the picked AI33 master image)
+   Start frame: _FLOW\first_frames\CH02EP16_first_frame.jpg (the master image Claude made and picked)
    Continue from last frame: ON   (never "Different for Each" with chaining)
    Settings: Save folder ch02ep16-omni . Auto-download videos . Video quality 1080p Upscale
              File naming custom prefix: clip  sep _  start number 1

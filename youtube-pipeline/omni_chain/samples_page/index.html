@@ -35,6 +35,9 @@ h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute
 .pill{font:600 11.5px/1 "JetBrains Mono",ui-monospace,monospace;padding:5px 7px;border-radius:999px;border:1px solid currentColor}
 .pill.real{color:var(--real)} .pill.est{color:var(--est)} .pill.spread{color:var(--spread)} .pill.plain{color:var(--muted)}
 .actions{display:flex;flex-direction:column;gap:6px;min-width:190px}
+.ff{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}
+.ff img{width:190px;max-width:100%;aspect-ratio:16/9;object-fit:cover;border:1px solid var(--line);border-radius:4px;display:block}
+.ff a{color:var(--accent)}
 button{font:600 13px/1 Archivo,"Helvetica Neue",Arial,sans-serif;padding:10px 12px;border-radius:5px;border:1px solid var(--accent);background:var(--panel);color:var(--accent);cursor:pointer;text-align:left}
 button.primary{background:var(--accent);color:var(--accent-ink)}
 button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
@@ -51,7 +54,7 @@ footer{color:var(--muted);font-size:13px;max-width:75ch}
 <div class="wrap">
   <header>
     <h1>Omni Sample Packs</h1>
-    <p>Eight 2-minute samples for the new chain method: one first frame, then 12 Omni Flash clips of 10 s, each continuing from the last frame of the one before. Claude makes each first frame on AI33 (top image model, 4K, high quality) and picks from two variants. Use it as the start frame, then paste the clip prompts into one Omni Flash Video batch with "Continue from last frame" on.</p>
+    <p>Eight 2-minute samples for the new chain method: one first frame, then 12 Omni Flash clips of 10 s, each continuing from the last frame of the one before. Claude made each first frame at the highest image quality (4K, 16:9) and picked from the variants. They are shown on each card: open one, save it, and upload it as the Start frame. Then paste the clip prompts into one Omni Flash Video batch with "Continue from last frame" on. When the clips are downloaded, the assemble command on each card lays the approved narration and music mix under them.</p>
     <div class="method">
       <span>Omni Flash · 16:9 · 10s · 720p</span><span>Start frame → continue from last frame</span><span>1080p Upscale on download</span><span>Queue row must show "continuous"</span>
     </div>
@@ -73,7 +76,7 @@ footer{color:var(--muted);font-size:13px;max-width:75ch}
 <script>
 const PACKS = [
   {grp:"episodes", tag:"CH02EP16", id:"CH02EP16_all", clips:"001-112", count:112, noFirst:true, name:"Chronicle Zero · ROKS Cheonan · FULL EPISODE, one batch (posting 26 Sep)",
-   note:"All 112 clips in one chained batch, no sample stop. Start frame = CH02EP16_first_frame.png, which Claude makes on AI33 (top image model, 4K, high) and picks from 2 variants. Clips 1–12 are on the real voice, 13–112 on the estimate; the assembler stretches them onto the full narration.",
+   note:"All 112 clips in one chained batch, no sample stop. Start frame = the CH02EP16 first frame (same as the sample). Clips 1–12 are on the real voice, 13–112 on the estimate; the assembler stretches them onto the full narration.",
    pills:[["real","1–12 real voice"],["est","13–112 estimate"],["plain","folder ch02ep16-omni"],["plain","start number 1"]]},
   {grp:"episodes", tag:"CH01EP19", name:"Ancient Earth · When Earth Got So Hot Every Animal Shrank",
    note:"Sifrhippus in the Eocene forest → fossil jaw in the badlands → medallion (logo in post) → the green basin from the air → crocodile swamp → braided floodplain → the type-section rock wall. 3 scene changes, all camera bridges.",
@@ -88,21 +91,33 @@ const PACKS = [
    note:"Subchaser closes on Pueblo → commander on the bridge wing → the confession desk → Pueblo moored today, brass disc → the ex-cargo hull → the listening masts → radio room → the unarmed deck. Timed on the shotlist estimate: re-time once the narration is built.",
    pills:[["est","estimate timing"],["plain","folder ch02ep17-omni"],["plain","prefix clip"]]},
   {grp:"ch03", tag:"CH03EP10_A", name:"A · Photoreal epic (Unraveling the Scriptures)",
-   note:"Watchers are rigid carved stone statues, archangel faces lost in glare, Enoch's face never shown. Start frame: samples_2min/A_start.png.",
+   note:"Watchers are rigid carved stone statues, archangel faces lost in glare, Enoch's face never shown. Start frame (Drive): _style_samples/_analysis/ch03_mimic_v2_2026-09-24/samples_2min/A_start.png.",
    pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-A"]]},
   {grp:"ch03", tag:"CH03EP10_B", name:"B · Stick figures on painted backgrounds",
-   note:"Outlines never boil or redraw, mouths closed. Start frame: samples_2min/B_start.png.",
+   note:"Outlines never boil or redraw, mouths closed. Start frame (Drive): _style_samples/_analysis/ch03_mimic_v2_2026-09-24/samples_2min/B_start.png.",
    pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-B"]]},
   {grp:"ch03", tag:"CH03EP10_C", name:"C · Engraving collage (Doré + gold leaf)",
-   note:"Hatching stays crisp and fixed, slow minimal motion. Start frame: samples_2min/C_start.png.",
+   note:"Hatching stays crisp and fixed, slow minimal motion. Start frame (Drive): _style_samples/_analysis/ch03_mimic_v2_2026-09-24/samples_2min/C_start.png.",
    pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-C"]]},
   {grp:"ch03", tag:"CH03EP10_D", name:"D · Luminous oil painting (Night Psalms)",
-   note:"Brush texture never swims, gentle living-painting motion. Start frame: samples_2min/D_start.png.",
+   note:"Brush texture never swims, gentle living-painting motion. Start frame (Drive): _style_samples/_analysis/ch03_mimic_v2_2026-09-24/samples_2min/D_start.png.",
    pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-D"]]},
   {grp:"ch03", tag:"CH03EP10_E", name:"E · Chibi cartoon on painted backgrounds",
-   note:"Stable outlines, round heads keep their shape, mouths closed. Start frame: samples_2min/E_start.png.",
+   note:"Stable outlines, round heads keep their shape, mouths closed. Start frame (Drive): _style_samples/_analysis/ch03_mimic_v2_2026-09-24/samples_2min/E_start.png.",
    pills:[["spread","ep10 0:00–2:00"],["plain","folder ch03-samples"],["plain","prefix ch03-E"]]},
 ];
+
+const ASM = {"CH02EP16_all": "set EP=02 Chronicle Zero News and Documentaries\\ep16_ROKS_Cheonan\\_v5\npy -3.12 _rx_omni_assemble.py --channel ch02 --episode ep16 --clips \"%USERPROFILE%\\Downloads\\ch02ep16-omni\" --cuts-then \"%EP%\\sample_1-29_vol_level\\cuts.json\" --cuts \"<full narration cuts.json>\"\n(after the full narration is built; the builder then mixes picture.mp4 with the ducked 2D pick)",
+"CH01EP19": "set EP=01 Ancient Earth Cinema\\ep19_When_Earth_Got_So_Hot_Every_Animal_Shrank\\_v5\npy -3.12 _rx_omni_assemble.py --channel ch01 --episode ep19 --clips \"%USERPROFILE%\\Downloads\\ch01ep19-omni\" --clips-upto 12 --cuts-then \"%EP%\\sample_1-29_vol_level\\cuts.json\" --cuts \"%EP%\\sample_1-29_vol_level\\cuts.json\" --audio \"%EP%\\sample_1-29_vol_level\\master_B.mp4\"",
+"CH02EP16": "set EP=02 Chronicle Zero News and Documentaries\\ep16_ROKS_Cheonan\\_v5\npy -3.12 _rx_omni_assemble.py --channel ch02 --episode ep16 --clips \"%USERPROFILE%\\Downloads\\ch02ep16-omni\" --clips-upto 12 --cuts-then \"%EP%\\sample_1-29_vol_level\\cuts.json\" --cuts \"%EP%\\sample_1-29_vol_ducked\\cuts.json\" --audio \"%EP%\\sample_1-29_vol_ducked\\master_B.mp4\"",
+"CH02EP16_rest": "Same as the full-episode command above: all clips 1-112 are assembled together.",
+"CH02EP17": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch02ep17-omni\" --clips-upto 12 --out ch02ep17_sample_picture\n(picture only: no narration built yet)",
+"CH03EP10_A": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch03-samples\" --prefix ch03-A --clips-upto 12 --out ch03_samples_out\\A --audio \"03 AI Bible Forensic\\ep10_Enoch_Saw_Them_Outside_Eden\\_v4\\narration.wav\"",
+"CH03EP10_B": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch03-samples\" --prefix ch03-B --clips-upto 12 --out ch03_samples_out\\B --audio \"03 AI Bible Forensic\\ep10_Enoch_Saw_Them_Outside_Eden\\_v4\\narration.wav\"",
+"CH03EP10_C": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch03-samples\" --prefix ch03-C --clips-upto 12 --out ch03_samples_out\\C --audio \"03 AI Bible Forensic\\ep10_Enoch_Saw_Them_Outside_Eden\\_v4\\narration.wav\"",
+"CH03EP10_D": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch03-samples\" --prefix ch03-D --clips-upto 12 --out ch03_samples_out\\D --audio \"03 AI Bible Forensic\\ep10_Enoch_Saw_Them_Outside_Eden\\_v4\\narration.wav\"",
+"CH03EP10_E": "py -3.12 _rx_omni_assemble.py --plain --clips \"%USERPROFILE%\\Downloads\\ch03-samples\" --prefix ch03-E --clips-upto 12 --out ch03_samples_out\\E --audio \"03 AI Bible Forensic\\ep10_Enoch_Saw_Them_Outside_Eden\\_v4\\narration.wav\""};
+const FF = {"CH02EP16_all":"CH02EP16","CH01EP19":"CH01EP19","CH02EP16":"CH02EP16","CH02EP17":"CH02EP17"};
 
 const cache = {};
 async function load(path){
@@ -143,12 +158,12 @@ for (const p of PACKS) {
       <div class="meta"><span class="pill plain">${count} clips · ${Math.floor(count*10/60)}:${String(count*10%60).padStart(2,"0")}</span>${pills}</div>
     </div>
     <div class="actions">
-      ${p.noFirst ? "" : `<button type="button" id="ff-${id}">Copy first-frame prompt</button>`}
+      ${FF[id] ? `<div class="ff"><a href="ff/${FF[id]}_first_frame.jpg" target="_blank" rel="noopener"><img src="ff/${FF[id]}_preview.jpg" alt="${FF[id]} first frame" loading="lazy"></a><span>Start frame · <a href="ff/${FF[id]}_first_frame.jpg" target="_blank" rel="noopener">open 4K, then save</a></span></div>` : ""}
       <button type="button" class="primary" id="clips-${id}">Copy all ${count} clip prompts</button>
     </div>
-    <details><summary>TurboFlow settings for this pack</summary><pre id="rm-${id}">Loading…</pre></details>`;
+    <details><summary>TurboFlow settings for this pack</summary><pre id="rm-${id}">Loading…</pre></details>
+    <details><summary>Assemble command (after download)</summary><pre>${ASM[id].replace(/&/g,"&amp;").replace(/</g,"&lt;")}</pre></details>`;
   document.getElementById(p.grp).appendChild(el);
-  if (!p.noFirst) el.querySelector(`#ff-${id}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_first_frame.txt`, "first frame"));
   el.querySelector(`#clips-${id}`).addEventListener("click", e => copy(e.currentTarget, `packs/${p.tag}_clips_${rng}.txt`, `${count} prompts`));
   el.querySelector("details").addEventListener("toggle", async ev => {
     if (!ev.target.open) return;
