@@ -1,7 +1,11 @@
 """Omni chain clips -> picture.mp4 on the real narration timeline (Riks, 2026-09-25).
 
     py -3.12 _rx_omni_assemble.py --channel ch02 --episode ep16 --clips "%USERPROFILE%\\Downloads\\ch02ep16-omni"
+        --cuts-then "<ep16>\\_v5\\sample_1-29_vol_level\\cuts.json"
         [--cuts <full-episode cuts.json>] [--narration <narration_full.wav>] [--out <dir>]
+
+--cuts-then MUST be the cuts.json that _rx_omni_timing.py used when the prompts were written (for ep16 and
+ep19: the sample_1-29 cuts), or "estimate" if there was none (ep17). Guessing it would shift every beat.
 
 The chain prompts were written on a 10 s grid of the narration as it was known then (real voice where a
 cuts.json existed, shotlist estimate after that). Once the full narration is built, its cuts.json gives the
@@ -64,7 +68,8 @@ def main():
     ap.add_argument("--clips", required=True, help="folder with clip_001.mp4 ... (TurboFlow save folder)")
     ap.add_argument("--prefix", default="clip")
     ap.add_argument("--manifest", help="shotlist json (default: the episode's newest)")
-    ap.add_argument("--cuts-then", help="cuts.json the prompts were timed on (default: _FLOW/<TAG>_omni_words.json note)")
+    ap.add_argument("--cuts-then", required=True,
+                    help="the cuts.json the prompts were timed on (ch02 ep16: _v5\\\\sample_1-29_vol_level\\\\cuts.json), or 'estimate'")
     ap.add_argument("--cuts", help="FULL-episode real-voice cuts.json (default: the episode's _v5/*/cuts.json covering most shots)")
     ap.add_argument("--narration", help="narration_full.wav for a quick preview_with_vo.mp4")
     ap.add_argument("--out", help="output folder (default: <episode>/_v5/omni_full)")
@@ -80,7 +85,7 @@ def main():
     cuts_now = json.loads(pathlib.Path(a.cuts).read_text(encoding="utf-8")) if a.cuts else (find_cuts(ep_dir) or (None, None))[1]
     if not cuts_now or len(cuts_now) < len(raw):
         sys.exit(f"{tag}: need the FULL-episode cuts.json ({len(raw)} shots) - build the full narration first")
-    cuts_then = json.loads(pathlib.Path(a.cuts_then).read_text(encoding="utf-8")) if a.cuts_then else None
+    cuts_then = None if a.cuts_then == "estimate" else json.loads(pathlib.Path(a.cuts_then).read_text(encoding="utf-8"))
     f, end_then, end_now = time_map(raw, cuts_then, cuts_now)
 
     ff = ffmpeg()
