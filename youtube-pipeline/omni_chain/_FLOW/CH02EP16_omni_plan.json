@@ -1,0 +1,169 @@
+{
+ "tag": "CH02EP16",
+ "look": "ch02",
+ "start": 1,
+ "first_frame": "Cinematic 16:9 military-documentary film still, the opening frame of a documentary. Night on flat, cold Yellow Sea water under a dark overcast sky: a grey South Korean Pohang-class corvette - a low, sleek 88-metre hull, one small gun on the foredeck, a single lattice mast, no lights on - cruises from left to right in the middle distance, seen side-on from wave height. Faint cold moonlight through thin cloud edges the grey hull and the gentle swell; the ship is fully visible from bow to stern with open dark water ahead of it. No hull numbers, no names, no flags with readable text. Photorealistic simulated-footage military-documentary recreation, never cartoon. Subtle film grain, restrained cinematic grade, crushed blacks, natural light falloff. ONE SINGLE FULL-FRAME 16:9 PHOTOGRAPH - not a grid, collage, contact sheet or split-screen. The photograph fills the entire 16:9 frame edge to edge with NO black bars, NO letterboxing, NO pillarboxing, no border and no matte of any kind. No inset picture, no picture-in-picture panel, no camera HUD, no REC indicator, no timestamp. No text, letters, words, subtitles or captions anywhere in frame. No people visible.",
+ "clips": [
+  {
+   "env": "night on flat cold Yellow Sea water under a dark overcast sky; a grey corvette cruising, unlit",
+   "cast": "exactly one corvette: low sleek grey 88-metre hull, one small gun on the foredeck, a single lattice mast, no lights, no hull numbers; no people visible",
+   "action": "the corvette cruises through the night until a column of water rises silently beside her",
+   "camera": "slow lateral tracking at wave height over the dark water, keeping the corvette side-on in the middle distance",
+   "lighting": "faint cold moonlight through thin cloud, deep night blues, crushed blacks",
+   "neg": "no fire, no flash, no fireball, no debris, no people in the water, no ship breaking apart",
+   "beats": [
+    ["00:00-00:03.5", "the camera glides low over the black water; the dark corvette cruises steadily from left to right"],
+    ["00:03.5-00:07", "the corvette holds her course; faint moonlight slides along her grey hull"],
+    ["00:07-00:10", "silently, a tall white column of seawater begins to rise beside the hull amidships, climbing slowly into the night air"]
+   ]
+  },
+  {
+   "env": "the dark corvette on the night sea as the column of water falls back as mist -- then -- underwater: pitch-black water, drifting marine snow, one diver's torch beam, a muddy grey seabed below",
+   "cast": "exactly one corvette (until 00:04.5), no people visible; then exactly one diver seen from behind, face hidden by a mask, holding one torch",
+   "action": "the sea settles over the stricken ship; below the surface a diver goes down to the seabed",
+   "camera": "slow lateral tracking that turns gently into a downward tilt and a slow sinking descent beneath the surface",
+   "lighting": "faint moonlight, then Deep benthic palette: pitch black water beyond one torch cone, muddy grey silt, suspended marine snow",
+   "change_at": 4.5,
+   "neg": "no fire, no bodies, no blood, no debris field",
+   "beats": [
+    ["00:00-00:04.5", "the white column of water slowly falls back into drifting mist; the corvette sits dark and still on the black water"],
+    ["00:04.5-00:06", "without any cut the camera tilts down and sinks beneath the black surface into dark water"],
+    ["00:06-00:09", "descending through pitch-black water: a single diver, seen from behind, sinks ahead of the camera with a torch beam cutting through drifting marine snow"],
+    ["00:09-00:10", "the torch beam reaches a muddy grey seabed below"]
+   ]
+  },
+  {
+   "env": "the muddy grey seabed in the diver's torch beam: a corroded cylindrical torpedo propulsion section with a small crusted propeller, half-buried in silt",
+   "cast": "exactly one diver seen from behind, face hidden by a mask; one corroded torpedo propulsion section",
+   "action": "the diver finds the torpedo's propulsion section and a faint ink marking inside it",
+   "camera": "slow push-in over the diver's shoulder toward the object",
+   "lighting": "Deep benthic palette: pitch black water beyond one harsh torch cone, muddy grey silt, suspended marine snow",
+   "rigid": "the metal casing and propeller are rigid; only silt and marine snow drift",
+   "neg": "no readable writing, no Korean characters, no letters or numbers of any kind",
+   "beats": [
+    ["00:00-00:03.5", "the diver's torch beam finds a corroded cylindrical propulsion section half-buried in the silt, its small propeller blades crusted with sediment"],
+    ["00:03.5-00:07.5", "slow push-in to the inside of the rusted casing, where a faint smudge of blue ink is visible, blurred and illegible"],
+    ["00:07.5-00:10", "the push-in continues; silt drifts slowly through the torch beam"]
+   ]
+  },
+  {
+   "env": "the dark seabed -- then -- the corvette's grey riveted steel superstructure in overcast daylight with a plain round brass disc bolted to it; the whole corvette holding station on flat grey water near a low barren island",
+   "cast": "one brass disc with a completely blank, smooth face; exactly one corvette (low sleek grey hull, one gun forward, single lattice mast, no hull numbers); exactly one lookout silhouette on the bridge wing, face never visible",
+   "action": "from the seabed up to the ship: the channel's disc, then the whole ROKS Cheonan revealed",
+   "camera": "a steady rise up through the water, then a slow pull-back from the disc along the superstructure",
+   "lighting": "Interior mechanical palette on the disc: dark matte hull grey, one small amber lamp, damp metallic reflections; then overcast maritime light: flat slate-grey sky, iron-grey sea",
+   "change_at": 0.0,
+   "rigid": "the disc face stays blank and smooth - the channel emblem is added in post; the ship's steel is rigid",
+   "neg": "no emblem, no engraving, no letters or numbers on the disc or hull",
+   "beats": [
+    ["00:00-00:01.5", "without any cut the camera rises steadily up through the dark water and breaks the surface into grey daylight"],
+    ["00:01.5-00:04", "close on the grey riveted steel superstructure: a plain round brass disc with a completely blank, smooth face, verdigris at its edges, salt stains around it"],
+    ["00:04-00:07.5", "the camera pulls back slowly from the disc along the superstructure; the forward gun and the lattice mast come into view"],
+    ["00:07.5-00:10", "the pull-back reveals the whole grey corvette holding station on flat grey water near a low barren island; one lookout silhouette stands on the bridge wing"]
+   ]
+  },
+  {
+   "env": "the grey corvette on flat grey water in overcast daylight, a low barren island in the distance",
+   "cast": "exactly one corvette (low sleek grey hull, one gun forward, single lattice mast, anti-submarine launchers aft, no hull numbers); exactly one lookout silhouette, face never visible",
+   "action": "the camera travels along the warship that was built for coastal patrol and anti-submarine work",
+   "camera": "slow lateral tracking along the corvette at water level from stern to bow",
+   "lighting": "overcast maritime light: flat slate-grey sky, iron-grey sea, rust-streaked deck steel, salt spray; slowly cooling toward evening",
+   "neg": "no hull numbers, no names, no weapons firing",
+   "beats": [
+    ["00:00-00:04", "the camera tracks along the grey hull past the anti-submarine launchers on the stern and the plain deck fittings"],
+    ["00:04-00:07.5", "the tracking passes midships toward the bow; the plain grey bow cuts a thin line of spray at the waterline"],
+    ["00:07.5-00:10", "the tracking continues as the overcast light turns slowly cooler toward evening"]
+   ]
+  },
+  {
+   "env": "the grey corvette steaming on flat grey water toward a low barren island at dusk",
+   "cast": "exactly one corvette (low sleek grey hull, one gun forward, single lattice mast, no hull numbers); no people visible",
+   "action": "routine patrol: the corvette steams toward Baengnyeong Island",
+   "camera": "the tracking move turns gently into a slow rising crane move behind the corvette",
+   "lighting": "overcast dusk: flat slate-grey sky, iron-grey sea, fading light",
+   "beats": [
+    ["00:00-00:03", "the corvette steams steadily ahead through flat grey water, a thin white wake behind her"],
+    ["00:03-00:07", "rising higher behind the ship, a low barren island comes into view ahead: dark rock, sparse scrub, grey cliffs"],
+    ["00:07-00:10", "the crane keeps rising; the island lies small and alone in the wide grey sea at dusk"]
+   ]
+  },
+  {
+   "env": "high above the grey sea at dusk: the corvette beside the low barren island, and far away on the horizon a long dark coastline in haze",
+   "cast": "exactly one corvette, small in the distance; no people visible",
+   "action": "the island sits close to the North Korean coast",
+   "camera": "slow high pan to the right across the sea toward the horizon",
+   "lighting": "overcast dusk, fading grey light, soft haze on the horizon",
+   "beats": [
+    ["00:00-00:02", "high wide view: the corvette small on the grey sea beside the island"],
+    ["00:02-00:06", "the camera pans slowly toward the horizon, where a long dark coastline lies faint in the dusk haze"],
+    ["00:06-00:10", "the pan continues until the island and the distant coastline sit in one frame, separated only by a narrow stretch of grey water"]
+   ]
+  },
+  {
+   "env": "the island and the distant coastline across grey water at dusk -- then -- underwater in shallow murky grey-green water: an uneven seabed of boulders, ridges and silt",
+   "cast": "no people, no divers, no animals",
+   "action": "below the surface the water is shallow, cluttered and uneven",
+   "camera": "the pan ends in a gentle downward tilt that sinks beneath the surface, then a slow glide over the seabed",
+   "lighting": "dusk grey above; underwater: murky filtered daylight, grey-green water, low visibility, suspended particles",
+   "change_at": 1.5,
+   "beats": [
+    ["00:00-00:01.5", "the pan finishes on the island and the distant coast; the camera starts to tilt down toward the water"],
+    ["00:01.5-00:03", "without any cut the camera sinks beneath the grey surface into murky shallow water"],
+    ["00:03-00:07", "slow glide over a shallow seabed cluttered with boulders, ridges and scattered rocks in dim grey-green light"],
+    ["00:07-00:10", "the glide continues over uneven ground; silt drifts sideways in the current"]
+   ]
+  },
+  {
+   "env": "shallow murky grey-green water over an uneven rocky seabed; a large dark rock ridge in the murk ahead",
+   "cast": "no people, no divers, no animals, no submarine",
+   "action": "the murky terrain plays tricks: a rock ridge looks like a hidden hull until the camera comes close",
+   "camera": "slow forward glide about one metre above the seabed",
+   "lighting": "murky filtered daylight, grey-green water, low visibility, suspended particles",
+   "rigid": "the dark ridge is rock from start to end; it never moves or changes shape, only the murk around it thins",
+   "neg": "no submarine, no torpedo, no moving shapes",
+   "beats": [
+    ["00:00-00:03", "the current sweeps a haze of silt sideways across the rocks"],
+    ["00:03-00:06.5", "ahead in the murk a large dark rock ridge looms, its long outline like a submerged hull"],
+    ["00:06.5-00:10", "as the camera glides closer the murk thins and it is plainly just rock; silt keeps drifting past"]
+   ]
+  },
+  {
+   "env": "the shallow rocky seabed -- then -- the calm empty sea surface at dusk, the corvette's silhouette far away on the horizon",
+   "cast": "exactly one corvette, a distant silhouette with two dim lights; no people visible",
+   "action": "the sea gives no warning: a calm, empty evening",
+   "camera": "the forward glide turns into a steady rise up to the surface, then a slow forward drift just above the water",
+   "lighting": "murky grey-green underwater, then a fading dusk sky over calm grey water",
+   "change_at": 2.5,
+   "beats": [
+    ["00:00-00:02.5", "the glide continues over the quiet seabed; the drifting silt settles"],
+    ["00:02.5-00:04", "without any cut the camera rises steadily toward the pale surface and breaks through into dusk air"],
+    ["00:04-00:10", "at the surface the sea is calm and empty under a fading dusk sky; far away the corvette's silhouette sits on the horizon with two dim lights"]
+   ]
+  },
+  {
+   "env": "the calm dusk sea: the corvette's silhouette far away on the left, a second small patrol boat silhouette far away on the right, wide empty water between them",
+   "cast": "exactly two vessels, both distant silhouettes: the corvette with two dim lights, and one small dark patrol boat with no lights; no people visible",
+   "action": "two navies face each other across a disputed line of water",
+   "camera": "slow lateral pan to the right across the calm dusk sea",
+   "lighting": "fading dusk, slate-grey sky darkening slowly, calm grey water",
+   "neg": "no gunfire, no searchlights yet, no flags",
+   "beats": [
+    ["00:00-00:04.5", "the camera pans slowly across the empty water from the distant corvette toward a small dark patrol boat far off on the right horizon"],
+    ["00:04.5-00:10", "both distant silhouettes hold position facing each other across a wide stretch of empty grey water; the sky darkens slowly"]
+   ]
+  },
+  {
+   "env": "night falling over the calm sea between the two distant ships",
+   "cast": "exactly two vessels, both distant silhouettes: the corvette with two dim lights and the small patrol boat; no people visible",
+   "action": "contested water at nightfall",
+   "camera": "slow rising crane move above the water between the two ships",
+   "lighting": "nightfall, deep blue-grey sky, dark water; one pale searchlight beam from the patrol boat",
+   "neg": "no gunfire, no muzzle flashes, no explosions",
+   "beats": [
+    ["00:00-00:02", "the camera rises slowly above the calm sea between the two distant ships"],
+    ["00:02-00:06.5", "from higher up the empty stretch of water between them looks wide and dark as night falls"],
+    ["00:06.5-00:10", "a single pale searchlight beam from the far patrol boat sweeps slowly across the water, never reaching the corvette"]
+   ]
+  }
+ ]
+}

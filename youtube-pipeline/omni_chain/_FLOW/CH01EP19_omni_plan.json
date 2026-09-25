@@ -1,0 +1,287 @@
+{
+ "tag": "CH01EP19",
+ "look": "ch01",
+ "start": 1,
+ "first_frame": "Cinematic 16:9 natural-history film still, the opening frame of a documentary. A single tiny primitive four-toed horse (Sifrhippus) stands alone on a humid Eocene forest floor carpeted with enormous fallen leaves, seen from the side at ground level from 3 metres away: a fox-sized horse with a reddish-brown coat and faint pale dapples, a short neck, a small head with small upright ears, slender legs, a short tufted tail. It is dwarfed by its surroundings: giant fern fronds, a mossy fallen log, fallen leaves longer than its body. Hazy golden light falls through a dense subtropical canopy in soft volumetric shafts; warm humid haze hangs in the air. The horse stands in the left third of the frame facing right, fully visible from ears to hooves, with open leaf-covered ground ahead of it to walk into. Photorealistic natural-history documentary recreation, BBC/NatGeo grade, long lens, shallow depth of field, subtle film grain, restrained cinematic grade. ONE SINGLE FULL-FRAME 16:9 PHOTOGRAPH - not a grid, collage, contact sheet or split-screen. The photograph fills the entire 16:9 frame edge to edge with NO black bars, NO letterboxing, NO pillarboxing, no border and no matte of any kind. No inset picture, no picture-in-picture panel, no camera HUD, no timestamp. No text, letters, words, subtitles or captions anywhere in frame. No people.",
+ "clips": [
+  {
+   "env": "a humid Eocene subtropical forest floor carpeted with enormous fallen leaves, giant fern fronds, a mossy fallen log, dense canopy above, warm humid haze",
+   "cast": "exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+   "action": "the tiny horse stands in the humid forest, feels the heat and starts to walk",
+   "camera": "slow lateral drift from left to right at ground level, 40 cm above the leaf litter, long lens",
+   "lighting": "hazy golden sunlight through the dense canopy in soft volumetric shafts, warm soft contrast",
+   "beats": [
+    [
+     "00:00-00:02",
+     "slow lateral drift past enormous fallen leaves toward the tiny horse standing still in the golden haze"
+    ],
+    [
+     "00:02-00:07.5",
+     "warm shimmering haze thickens in the air; the horse lifts its head and breathes slowly, its flanks rising and falling, its coat damp and glistening"
+    ],
+    [
+     "00:07.5-00:10",
+     "the horse begins to walk slowly to the right across the leaf litter; the camera drifts alongside at the same pace"
+    ]
+   ]
+  },
+  {
+   "env": "the same humid Eocene forest floor of enormous fallen leaves and giant ferns, warm humid haze",
+   "cast": "exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+   "action": "the tiny horse walks through the forest while the heat rises",
+   "camera": "the same slow lateral tracking alongside the walking horse, 40 cm above the ground, at walking pace",
+   "lighting": "hazy golden sunlight through the canopy, warm soft contrast",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the horse keeps walking to the right; beside its path lies one fallen leaf longer than its whole body"
+    ],
+    [
+     "00:03-00:05.5",
+     "the horse steps lightly over a thin twig; its small hooves barely press into the damp leaves, showing how light it is"
+    ],
+    [
+     "00:05.5-00:10",
+     "heat shimmer rises from the leaf litter and the haze grows thicker around the horse; it walks on steadily, breathing faster, flanks moving"
+    ]
+   ]
+  },
+  {
+   "env": "the same humid Eocene forest floor, seen from higher and higher up: enormous fallen leaves, giant fern fronds, a mossy fallen log",
+   "cast": "exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+   "action": "the camera rises away from the horse until it looks tiny among the giant plants - the horse itself never changes size",
+   "camera": "the tracking move turns gently into a slow rising pull-back, up and away from the horse",
+   "lighting": "hazy golden sunlight through the canopy, heat haze",
+   "rigid": "the horse never grows or shrinks; only the camera's distance changes",
+   "beats": [
+    [
+     "00:00-00:02",
+     "the horse walks on through the shimmering haze; the camera begins to rise gently"
+    ],
+    [
+     "00:02-00:05",
+     "the camera keeps rising and pulling back; giant fern fronds and fallen leaves fill more and more of the frame around the horse"
+    ],
+    [
+     "00:05-00:08.5",
+     "from higher up the horse looks tiny among the giant leaves and fern stems, the same horse at the same size"
+    ],
+    [
+     "00:08.5-00:10",
+     "the horse stops beside the mossy fallen log, no bigger than a house cat next to it; the camera keeps rising"
+    ]
+   ]
+  },
+  {
+   "env": "the humid Eocene forest floor seen from above -- then -- a dry arid badland slope of banded sediment: terracotta, ochre and bleached sandstone layers; a small fossil horse jaw with a row of tiny teeth lies half-exposed in pale sediment, a worn palaeontology brush beside it",
+   "cast": "exactly one tiny horse far below (until 00:02); then no animals: one small fossil horse jaw and one brush",
+   "action": "the camera rises out of the ancient forest and arrives at the fossil evidence in the dry rock",
+   "camera": "the slow rise continues up through the canopy haze, then turns gently into a slow descent and push-in toward the fossil jaw",
+   "lighting": "golden forest haze, then Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+   "change_at": 1.5,
+   "rigid": "the fossil jaw, teeth, brush and rock are completely rigid",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "the camera keeps rising above the tiny horse into the golden canopy haze; the forest floor falls away below"
+    ],
+    [
+     "00:01.5-00:03.5",
+     "without any cut the haze brightens and turns dusty, and clears onto a dry badland slope in harsh sunlight"
+    ],
+    [
+     "00:03.5-00:07",
+     "the camera descends slowly toward the slope and pushes in on a small fossil horse jaw with a row of tiny teeth, half-exposed in pale banded sediment, a worn brush lying beside it"
+    ],
+    [
+     "00:07-00:10",
+     "the slow push-in continues along the jaw and its tiny teeth; heat shimmer rises off the sunlit rock"
+    ]
+   ]
+  },
+  {
+   "env": "the dry badland slope of banded terracotta, ochre and pale sandstone sediment in harsh sunlight: the fossil jaw, a rock hammer, and a plain round bronze medallion with a completely blank smooth face half-buried in the sediment",
+   "cast": "no animals; one fossil jaw, one brush, one rock hammer, one plain round bronze medallion with a completely blank, smooth face - no emblem, no letters",
+   "action": "the camera moves along the hot slope from the fossil to the channel's medallion",
+   "camera": "slow lateral drift along the badland slope, low over the sediment",
+   "lighting": "Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+   "rigid": "the medallion face stays blank and smooth - the channel emblem is added in post; fossil, hammer and rock are rigid",
+   "neg": "no emblem, no engraving, no letters or symbols on the medallion",
+   "beats": [
+    [
+     "00:00-00:04.5",
+     "the camera glides from the fossil jaw along the banded slope; heat shimmer ripples the air above the hot ochre rock like a forge"
+    ],
+    [
+     "00:04.5-00:07",
+     "a plain round bronze medallion with a smooth blank face comes into view, half-buried in pale banded sediment, a rock hammer lying beside it"
+    ],
+    [
+     "00:07-00:10",
+     "the camera drifts slowly toward the medallion; warm raking sunlight glints on its worn blank face"
+    ]
+   ]
+  },
+  {
+   "env": "the dry badland slope of banded sediment in harsh sunlight, the plain round bronze medallion with a blank smooth face half-buried in the sediment",
+   "cast": "no animals; one plain round bronze medallion with a completely blank, smooth face, one rock hammer",
+   "action": "the camera settles its attention on the medallion, then starts to rise away from it",
+   "camera": "slow push-in toward the medallion that turns gently into a slow rise away from it",
+   "lighting": "Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+   "rigid": "the medallion face stays blank and smooth - the channel emblem is added in post",
+   "neg": "no emblem, no engraving, no letters or symbols on the medallion",
+   "beats": [
+    [
+     "00:00-00:04",
+     "slow push-in toward the blank bronze medallion in the sediment, fine dust drifting in the raking light"
+    ],
+    [
+     "00:04-00:08",
+     "the push-in continues until the medallion sits in the centre of the frame, its face smooth and blank"
+    ],
+    [
+     "00:08-00:10",
+     "the camera begins to rise gently away from the medallion, revealing more of the sunlit badland slope around it"
+    ]
+   ]
+  },
+  {
+   "env": "the dry badland slope from above -- then -- an aerial view of the Eocene Bighorn Basin: a low wide green bowl of dense subtropical forest, meandering brown rivers with mud banks, humid golden haze, low hills on the horizon",
+   "cast": "no animals visible, no people",
+   "action": "the camera rises out of the present-day rock into the ancient green basin",
+   "camera": "the rise continues into bright haze, then becomes a slow aerial forward creep high above the forest",
+   "lighting": "humid golden haze, soft warm light, gentle contrast",
+   "change_at": 0.0,
+   "neg": "no birds, no aircraft, no roads, no buildings, no snow",
+   "beats": [
+    [
+     "00:00-00:01.5",
+     "without any cut the camera keeps rising into bright dusty haze; the haze turns humid and golden and opens onto a wide aerial view"
+    ],
+    [
+     "00:01.5-00:06",
+     "slow aerial forward creep over a low green bowl of dense forest; brown meandering rivers and wet mud banks shine below"
+    ],
+    [
+     "00:06-00:10",
+     "the camera keeps gliding forward; the forest stretches away to low hills on the hazy horizon, thin mist lying over the rivers"
+    ]
+   ]
+  },
+  {
+   "env": "the warm green Eocene Bighorn Basin from the air: dense subtropical forest, meandering brown rivers, a swampy river bend lined with palm-like trees with large fan-shaped fronds",
+   "cast": "no animals visible yet, no people",
+   "action": "a warm world without ice; the camera comes down toward a palm-lined swamp",
+   "camera": "the aerial forward creep turns gently into a slow descent toward the river",
+   "lighting": "soft mild warm light, humid haze",
+   "neg": "no snow, no ice, no birds, no aircraft",
+   "beats": [
+    [
+     "00:00-00:05.5",
+     "the aerial glide continues over the warm green basin under soft mild light; no snow or ice anywhere, only forest and water"
+    ],
+    [
+     "00:05.5-00:08.5",
+     "the camera descends slowly toward a swampy river bend lined with palm-like trees with large fan-shaped fronds"
+    ],
+    [
+     "00:08.5-00:10",
+     "the descent continues toward a still brown swamp channel between the palms"
+    ]
+   ]
+  },
+  {
+   "env": "a warm Eocene swamp channel: still brown water, a low mudbank, palm-like trees with large fan-shaped fronds, humid haze",
+   "cast": "exactly two crocodiles lying side by side on the mudbank, basking, mouths closed; no other animals",
+   "action": "crocodiles bask in a calm warm swamp until the first rain falls",
+   "camera": "slow lateral drift at water level past the mudbank",
+   "lighting": "soft warm humid light, gentle haze, calm reflections",
+   "rigid": "the two crocodiles stay completely still, never move, never multiply",
+   "beats": [
+    [
+     "00:00-00:03",
+     "the camera glides low over the still water toward a mudbank where exactly two crocodiles lie basking, completely still, mouths closed"
+    ],
+    [
+     "00:03-00:05.5",
+     "the drift continues past the two motionless crocodiles; palm fronds stir gently in the warm air"
+    ],
+    [
+     "00:05.5-00:08.5",
+     "calm still water mirrors the palms; soft warm haze, everything peaceful"
+    ],
+    [
+     "00:08.5-00:10",
+     "the first raindrops begin to fall, small rings spreading across the water"
+    ]
+   ]
+  },
+  {
+   "env": "the warm Eocene swamp channel in steady rain, a slow brown river leaving it through the forest, then a wide floodplain where the river splits into braided streams",
+   "cast": "exactly two crocodiles still on the mudbank until they leave the frame below; no other animals",
+   "action": "steady rain, a slow river carrying silt; the camera rises to see where the river goes",
+   "camera": "the lateral drift turns gently into a slow rise above the channel",
+   "lighting": "soft grey-green rain light, humid haze",
+   "rigid": "the crocodiles stay completely still",
+   "beats": [
+    [
+     "00:00-00:02.5",
+     "steady warm rain falls on the swamp, rings spreading on the water; the two crocodiles stay still on the mudbank"
+    ],
+    [
+     "00:02.5-00:06",
+     "the camera rises slowly above the channel; a slow brown river carries soft clouds of silt downstream"
+    ],
+    [
+     "00:06-00:10",
+     "rising higher, the river is seen splitting into braided streams across a wide floodplain in the rain"
+    ]
+   ]
+  },
+  {
+   "env": "a broad Eocene floodplain seen from above in light rain: many shallow braided stream channels wandering across pale sand and grey silt bars, green forest along the edges",
+   "cast": "no animals visible, no people",
+   "action": "braided streams wander across the floodplain and spread sheets of silt and sand",
+   "camera": "slow aerial forward creep over the floodplain",
+   "lighting": "soft grey rain light turning brighter as the rain eases",
+   "neg": "no birds, no aircraft, no roads, no buildings",
+   "beats": [
+    [
+     "00:00-00:05",
+     "slow aerial glide over shallow braided channels weaving across the broad floodplain"
+    ],
+    [
+     "00:05-00:10",
+     "shallow water spreads thin sheets of silt and sand across the bars; the camera keeps gliding forward as the rain eases"
+    ]
+   ]
+  },
+  {
+   "env": "the wet Eocene floodplain from above -- then -- the same basin today: tall dry badland walls of banded sandstone and mudstone, terracotta, ochre and pale grey layers, one thin dark grey-purple band running through them",
+   "cast": "no animals, no people",
+   "action": "the camera travels from the ancient floodplain to the rock layers it became",
+   "camera": "the aerial glide descends into haze, then turns into a slow lateral drift along the banded badland wall",
+   "lighting": "soft rain light, then Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+   "change_at": 1.0,
+   "rigid": "the rock layers are rigid; only fine dust drifts",
+   "beats": [
+    [
+     "00:00-00:01",
+     "the aerial glide continues over the wet floodplain"
+    ],
+    [
+     "00:01-00:02.5",
+     "without any cut the camera descends into the rain haze; the haze clears into dry harsh sunlight on the same basin today"
+    ],
+    [
+     "00:02.5-00:08.5",
+     "the camera glides slowly sideways along a tall banded badland wall: layer after layer of terracotta, ochre and pale sandstone, fine dust in the raking light"
+    ],
+    [
+     "00:08.5-00:10",
+     "the lateral drift continues; one thin dark grey-purple band runs through the layers"
+    ]
+   ]
+  }
+ ]
+}

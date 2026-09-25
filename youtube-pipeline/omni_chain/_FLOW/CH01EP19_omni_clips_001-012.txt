@@ -1,0 +1,470 @@
+{
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "slow lateral drift from left to right at ground level, 40 cm above the leaf litter, long lens; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the first frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+ "action": "the tiny horse stands in the humid forest, feels the heat and starts to walk",
+ "environment": "a humid Eocene subtropical forest floor carpeted with enormous fallen leaves, giant fern fronds, a mossy fallen log, dense canopy above, warm humid haze",
+ "timeline": [
+  {
+   "t": "00:00-00:02",
+   "narration": "56 million years ago,",
+   "action": "slow lateral drift past enormous fallen leaves toward the tiny horse standing still in the golden haze"
+  },
+  {
+   "t": "00:02-00:07.5",
+   "narration": "the Earth developed a fever that lasted roughly 200,000 years.",
+   "action": "warm shimmering haze thickens in the air; the horse lifts its head and breathes slowly, its flanks rising and falling, its coat damp and glistening"
+  },
+  {
+   "t": "00:07.5-00:10",
+   "narration": "In the forests of Wyoming's",
+   "action": "the horse begins to walk slowly to the right across the leaf litter; the camera drifts alongside at the same pace; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "hazy golden sunlight through the dense canopy in soft volumetric shafts, warm soft contrast",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the same slow lateral tracking alongside the walking horse, 40 cm above the ground, at walking pace; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+ "action": "the tiny horse walks through the forest while the heat rises",
+ "environment": "the same humid Eocene forest floor of enormous fallen leaves and giant ferns, warm humid haze",
+ "timeline": [
+  {
+   "t": "00:00-00:03",
+   "narration": "Bighorn Basin, the first horse, Sifrhippus,",
+   "action": "the horse keeps walking to the right; beside its path lies one fallen leaf longer than its whole body"
+  },
+  {
+   "t": "00:03-00:05.5",
+   "narration": "weighed about twelve pounds.",
+   "action": "the horse steps lightly over a thin twig; its small hooves barely press into the damp leaves, showing how light it is"
+  },
+  {
+   "t": "00:05.5-00:10",
+   "narration": "Then the temperature rose by five to eight degrees Celsius, and",
+   "action": "heat shimmer rises from the leaf litter and the haze grows thicker around the horse; it walks on steadily, breathing faster, flanks moving; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "hazy golden sunlight through the canopy, warm soft contrast",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the tracking move turns gently into a slow rising pull-back, up and away from the horse; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly one tiny primitive four-toed horse (Sifrhippus): fox-sized, reddish-brown coat with faint pale dapples, short neck, small head with small upright ears, slender legs, short tufted tail; no other animals",
+ "action": "the camera rises away from the horse until it looks tiny among the giant plants - the horse itself never changes size",
+ "environment": "the same humid Eocene forest floor, seen from higher and higher up: enormous fallen leaves, giant fern fronds, a mossy fallen log",
+ "timeline": [
+  {
+   "t": "00:00-00:02",
+   "narration": "evolution ran backwards. Over",
+   "action": "the horse walks on through the shimmering haze; the camera begins to rise gently"
+  },
+  {
+   "t": "00:02-00:05",
+   "narration": "the next 130,000 years, Sifrhippus",
+   "action": "the camera keeps rising and pulling back; giant fern fronds and fallen leaves fill more and more of the frame around the horse"
+  },
+  {
+   "t": "00:05-00:08.5",
+   "narration": "shrank by roughly thirty percent, down",
+   "action": "from higher up the horse looks tiny among the giant leaves and fern stems, the same horse at the same size"
+  },
+  {
+   "t": "00:08.5-00:10",
+   "narration": "to the size",
+   "action": "the horse stops beside the mossy fallen log, no bigger than a house cat next to it; the camera keeps rising; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "hazy golden sunlight through the canopy, heat haze",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the horse never grows or shrinks; only the camera's distance changes",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the slow rise continues up through the canopy haze, then turns gently into a slow descent and push-in toward the fossil jaw; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly one tiny horse far below (until 00:02); then no animals: one small fossil horse jaw and one brush",
+ "action": "the camera rises out of the ancient forest and arrives at the fossil evidence in the dry rock",
+ "environment": "the humid Eocene forest floor seen from above -- then -- a dry arid badland slope of banded sediment: terracotta, ochre and bleached sandstone layers; a small fossil horse jaw with a row of tiny teeth lies half-exposed in pale sediment, a worn palaeontology brush beside it",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "of a small house",
+   "action": "the camera keeps rising above the tiny horse into the golden canopy haze; the forest floor falls away below"
+  },
+  {
+   "t": "00:01.5-00:03.5",
+   "narration": "cat. Scientists found the proof locked in",
+   "action": "without any cut the haze brightens and turns dusty, and clears onto a dry badland slope in harsh sunlight"
+  },
+  {
+   "t": "00:03.5-00:07",
+   "narration": "its teeth and in the sediment layers of the basin,",
+   "action": "the camera descends slowly toward the slope and pushes in on a small fossil horse jaw with a row of tiny teeth, half-exposed in pale banded sediment, a worn brush lying beside it"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "and by the end you will understand what happens",
+   "action": "the slow push-in continues along the jaw and its tiny teeth; heat shimmer rises off the sunlit rock; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "golden forest haze, then Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the fossil jaw, teeth, brush and rock are completely rigid",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "slow lateral drift along the badland slope, low over the sediment; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals; one fossil jaw, one brush, one rock hammer, one plain round bronze medallion with a completely blank, smooth face - no emblem, no letters",
+ "action": "the camera moves along the hot slope from the fossil to the channel's medallion",
+ "environment": "the dry badland slope of banded terracotta, ochre and pale sandstone sediment in harsh sunlight: the fossil jaw, a rock hammer, and a plain round bronze medallion with a completely blank smooth face half-buried in the sediment",
+ "timeline": [
+  {
+   "t": "00:00-00:04.5",
+   "narration": "when heat itself becomes a forge that melts size away.",
+   "action": "the camera glides from the fossil jaw along the banded slope; heat shimmer ripples the air above the hot ochre rock like a forge"
+  },
+  {
+   "t": "00:04.5-00:07",
+   "narration": "Welcome to Ancient Earth Cinema, where",
+   "action": "a plain round bronze medallion with a smooth blank face comes into view, half-buried in pale banded sediment, a rock hammer lying beside it"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "we rebuild the lost worlds of deep",
+   "action": "the camera drifts slowly toward the medallion; warm raking sunlight glints on its worn blank face; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the medallion face stays blank and smooth - the channel emblem is added in post; fossil, hammer and rock are rigid",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size, no emblem, no engraving, no letters or symbols on the medallion"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "slow push-in toward the medallion that turns gently into a slow rise away from it; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals; one plain round bronze medallion with a completely blank, smooth face, one rock hammer",
+ "action": "the camera settles its attention on the medallion, then starts to rise away from it",
+ "environment": "the dry badland slope of banded sediment in harsh sunlight, the plain round bronze medallion with a blank smooth face half-buried in the sediment",
+ "timeline": [
+  {
+   "t": "00:00-00:04",
+   "narration": "time. What you are watching is simulated footage, reconstructed",
+   "action": "slow push-in toward the blank bronze medallion in the sediment, fine dust drifting in the raking light"
+  },
+  {
+   "t": "00:04-00:08",
+   "narration": "from the fossil record and the published science. Fifty-six",
+   "action": "the push-in continues until the medallion sits in the centre of the frame, its face smooth and blank"
+  },
+  {
+   "t": "00:08-00:10",
+   "narration": "million years ago, the",
+   "action": "the camera begins to rise gently away from the medallion, revealing more of the sunlit badland slope around it; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the medallion face stays blank and smooth - the channel emblem is added in post",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size, no emblem, no engraving, no letters or symbols on the medallion"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the rise continues into bright haze, then becomes a slow aerial forward creep high above the forest; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals visible, no people",
+ "action": "the camera rises out of the present-day rock into the ancient green basin",
+ "environment": "the dry badland slope from above -- then -- an aerial view of the Eocene Bighorn Basin: a low wide green bowl of dense subtropical forest, meandering brown rivers with mud banks, humid golden haze, low hills on the horizon",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "Bighorn Basin in Wyoming",
+   "action": "without any cut the camera keeps rising into bright dusty haze; the haze turns humid and golden and opens onto a wide aerial view"
+  },
+  {
+   "t": "00:01.5-00:06",
+   "narration": "was a low, green bowl of forest and river mud, and",
+   "action": "slow aerial forward creep over a low green bowl of dense forest; brown meandering rivers and wet mud banks shine below"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "the continent of North America sat farther south than it does",
+   "action": "the camera keeps gliding forward; the forest stretches away to low hills on the hazy horizon, thin mist lying over the rivers; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "humid golden haze, soft warm light, gentle contrast",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size, no birds, no aircraft, no roads, no buildings, no snow"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the aerial forward creep turns gently into a slow descent toward the river; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals visible yet, no people",
+ "action": "a warm world without ice; the camera comes down toward a palm-lined swamp",
+ "environment": "the warm green Eocene Bighorn Basin from the air: dense subtropical forest, meandering brown rivers, a swampy river bend lined with palm-like trees with large fan-shaped fronds",
+ "timeline": [
+  {
+   "t": "00:00-00:05.5",
+   "narration": "now, so the winters were mild and the poles held no ice.",
+   "action": "the aerial glide continues over the warm green basin under soft mild light; no snow or ice anywhere, only forest and water"
+  },
+  {
+   "t": "00:05.5-00:08.5",
+   "narration": "Palm relatives grew inside the Arctic circle,",
+   "action": "the camera descends slowly toward a swampy river bend lined with palm-like trees with large fan-shaped fronds"
+  },
+  {
+   "t": "00:08.5-00:10",
+   "narration": "and crocodiles basked",
+   "action": "the descent continues toward a still brown swamp channel between the palms; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "soft mild warm light, humid haze",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size, no snow, no ice, no birds, no aircraft"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "slow lateral drift at water level past the mudbank; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly two crocodiles lying side by side on the mudbank, basking, mouths closed; no other animals",
+ "action": "crocodiles bask in a calm warm swamp until the first rain falls",
+ "environment": "a warm Eocene swamp channel: still brown water, a low mudbank, palm-like trees with large fan-shaped fronds, humid haze",
+ "timeline": [
+  {
+   "t": "00:00-00:03",
+   "narration": "in swamp water above the sixty-sixth parallel.",
+   "action": "the camera glides low over the still water toward a mudbank where exactly two crocodiles lie basking, completely still, mouths closed"
+  },
+  {
+   "t": "00:03-00:05.5",
+   "narration": "The global climate was already warm, but",
+   "action": "the drift continues past the two motionless crocodiles; palm fronds stir gently in the warm air"
+  },
+  {
+   "t": "00:05.5-00:08.5",
+   "narration": "it had not yet gone mad, and",
+   "action": "calm still water mirrors the palms; soft warm haze, everything peaceful"
+  },
+  {
+   "t": "00:08.5-00:10",
+   "narration": "the basin was",
+   "action": "the first raindrops begin to fall, small rings spreading across the water; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "soft warm humid light, gentle haze, calm reflections",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the two crocodiles stay completely still, never move, never multiply",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the lateral drift turns gently into a slow rise above the channel; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: exactly two crocodiles still on the mudbank until they leave the frame below; no other animals",
+ "action": "steady rain, a slow river carrying silt; the camera rises to see where the river goes",
+ "environment": "the warm Eocene swamp channel in steady rain, a slow brown river leaving it through the forest, then a wide floodplain where the river splits into braided streams",
+ "timeline": [
+  {
+   "t": "00:00-00:02.5",
+   "narration": "a place of steady rain, slow",
+   "action": "steady warm rain falls on the swamp, rings spreading on the water; the two crocodiles stay still on the mudbank"
+  },
+  {
+   "t": "00:02.5-00:06",
+   "narration": "rivers, and sediment that accumulated without interruption.",
+   "action": "the camera rises slowly above the channel; a slow brown river carries soft clouds of silt downstream"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "The sandstone and mudstone layers that form the basin walls",
+   "action": "rising higher, the river is seen splitting into braided streams across a wide floodplain in the rain; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "soft grey-green rain light, humid haze",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the crocodiles stay completely still",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "slow aerial forward creep over the floodplain; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals visible, no people",
+ "action": "braided streams wander across the floodplain and spread sheets of silt and sand",
+ "environment": "a broad Eocene floodplain seen from above in light rain: many shallow braided stream channels wandering across pale sand and grey silt bars, green forest along the edges",
+ "timeline": [
+  {
+   "t": "00:00-00:05",
+   "narration": "were laid down by braided streams that wandered across broad floodplains,",
+   "action": "slow aerial glide over shallow braided channels weaving across the broad floodplain"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "depositing silt and sand in sheets that would harden into",
+   "action": "shallow water spreads thin sheets of silt and sand across the bars; the camera keeps gliding forward as the rain eases; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "soft grey rain light turning brighter as the rain eases",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size, no birds, no aircraft, no roads, no buildings"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "cinema camera with natural-history lenses: long lens on animals, wide lens on landscapes, shallow depth of field on close subjects",
+  "camera": "the aerial glide descends into haze, then turns into a slow lateral drift along the banded badland wall; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "every animal has naturalistic anatomy and keeps the same species, size, colouring, markings and number of legs for the whole clip; no people; in this clip: no animals, no people",
+ "action": "the camera travels from the ancient floodplain to the rock layers it became",
+ "environment": "the wet Eocene floodplain from above -- then -- the same basin today: tall dry badland walls of banded sandstone and mudstone, terracotta, ochre and pale grey layers, one thin dark grey-purple band running through them",
+ "timeline": [
+  {
+   "t": "00:00-00:01",
+   "narration": "rock.",
+   "action": "the aerial glide continues over the wet floodplain"
+  },
+  {
+   "t": "00:01-00:02.5",
+   "narration": "These beds would",
+   "action": "without any cut the camera descends into the rain haze; the haze clears into dry harsh sunlight on the same basin today"
+  },
+  {
+   "t": "00:02.5-00:08.5",
+   "narration": "become the type section, the physical reference for the Paleocene-Eocene Thermal Maximum,",
+   "action": "the camera glides slowly sideways along a tall banded badland wall: layer after layer of terracotta, ochre and pale sandstone, fine dust in the raking light"
+  },
+  {
+   "t": "00:08.5-00:10",
+   "narration": "because they hold the",
+   "action": "the lateral drift continues; one thin dark grey-purple band runs through the layers; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "soft rain light, then Geological field palette: dry terracotta, ochre and bleached sandstone, harsh lateral sunlight, long shadows",
+ "style": "Photorealistic natural-history documentary recreation, BBC/NatGeo grade, never cartoon, never illustration. Naturalistic animal anatomy and behaviour, shallow depth of field, subtle film grain, restrained cinematic grade.",
+ "motion_style": "natural-history documentary realism: long-lens wildlife cinematography, soft natural light, living subjects move naturally and calmly with a correct gait, never a CGI, cartoon or game-engine look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; animals walk with a correct, steady gait and never grow, shrink, change species or change the number of legs; fossils, bones and rocks are rigid; plants sway only gently; the rock layers are rigid; only fine dust drifts",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no people, no cartoon, no illustration, no CGI look, no game-engine look, no deformed or melting animals, no extra legs, no two-headed animals, no animal changing size"
+}

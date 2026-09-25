@@ -1,0 +1,408 @@
+{
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "slow push-in over the shoulders of Enoch and Uriel standing at the rim; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the first frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly two figures in the foreground: Enoch and the archangel Uriel, both seen from behind; far below, small distant bound fallen angels that stay still",
+ "action": "Enoch and the archangel Uriel stand at the rim of the vast prison chasm and look down into it",
+ "environment": "the rim of a colossal dark chasm at the edge of the world; far below, faint red fire glows and bound winged fallen angels hang in chains on rocky ledges; cold mist drifts over the edge",
+ "timeline": [
+  {
+   "t": "00:00-00:05",
+   "narration": "This place is the prison of the angels, and here they will be imprisoned",
+   "action": "slow push-in over the shoulders of Enoch and Uriel standing still at the rim; embers drift slowly up from the depth"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "for ever. Those are the words Uriel spoke when he showed Enoch the darkest place",
+   "action": "Uriel slowly lifts his arm and points down into the chasm; Enoch leans forward and grips his staff; the camera keeps gliding forward; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a glide past Enoch and Uriel out over the edge, a slow tilt down into the depth, then a slow pan up to the far rim; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch and Uriel leave the frame behind the camera in the first seconds; then only small distant chained fallen angels that stay still, and one colossal corner-stone",
+ "action": "the camera glides out over the chasm and reveals its depth and the corner-stone of the earth",
+ "environment": "the prison chasm seen from above: layer after layer of rocky ledges with chained fallen angels, red fire deep below; on the far rim a colossal carved corner-stone block rests at the edge of the world",
+ "timeline": [
+  {
+   "t": "00:00-00:06",
+   "narration": "outside Eden. Stay with this video. You will learn three things. You will",
+   "action": "the camera glides past Enoch and Uriel out over the edge and tilts down into the depth: chains, bound winged figures, rising embers"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "see what waits beyond the corner-stone of the earth,",
+   "action": "the camera pans slowly up to the far rim, where the enormous carved corner-stone of the earth comes into view; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; the chained figures and the corner-stone never move",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow tilt up from the corner-stone to the sky, then a smooth sweep back down and around to Enoch; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly seven bound stars; then exactly two figures on the rim: Enoch and Uriel",
+ "action": "the camera tilts up to seven stars bound in chains of light, then sweeps back down to Enoch",
+ "environment": "a deep night sky above the chasm; seven bright stars hang in the sky, each bound by thin glowing chains of light; below, the rim of the chasm where Enoch and Uriel stand",
+ "timeline": [
+  {
+   "t": "00:00-00:06",
+   "narration": "why stars can be bound for missing their appointed time, and what the text actually says apart",
+   "action": "the camera tilts up from the corner-stone to the sky: seven stars flicker softly, each wrapped in thin chains of light"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "from Dante and the internet. Before Enoch saw the prison, he pleaded",
+   "action": "the camera sweeps smoothly back down and around to Enoch as he turns away from the edge, Uriel beside him; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; exactly seven stars, they never multiply or move; their chains of light stay fixed",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "slow tracking beside Enoch at walking pace; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly one walking figure: Enoch (Uriel stays behind, out of frame); on both sides a row of kneeling Watchers, about five on each side",
+ "action": "Enoch walks back along a path lined with kneeling fallen Watchers who plead with him",
+ "environment": "a stone path leading away from the chasm, lined on both sides with kneeling hooded fallen angels (the Watchers) with dark folded wings, their hands raised toward Enoch; the path ahead is empty",
+ "timeline": [
+  {
+   "t": "00:00-00:05",
+   "narration": "for the Watchers. Chapters twelve through sixteen record that plea.",
+   "action": "Enoch walks slowly along the path; the camera tracks beside him at walking pace"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "The angels who descended to earth, who took human wives,",
+   "action": "on both sides the kneeling Watchers slowly raise their hands toward him in a silent plea; Enoch keeps walking; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow lateral glide past the three Watchers, then a slow circle around Enoch; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly one figure standing, then kneeling: Enoch; the kneeling Watchers along the path, three of them holding exactly one object each: a sword, a hammer over a glowing ingot, an alabaster jar",
+ "action": "the camera passes three Watchers holding what they taught; Enoch kneels and prays for them",
+ "environment": "the path of kneeling Watchers; three of them hold objects: a bronze sword, a smith's hammer over a glowing ingot, a small alabaster jar of cosmetics",
+ "timeline": [
+  {
+   "t": "00:00-00:05",
+   "narration": "who taught war and metalwork and cosmetics, had asked Enoch to",
+   "action": "the camera glides past the three Watchers one by one: the sword, the hammer over the glowing ingot, the alabaster jar"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "speak for them. He did so, and when the prayer was finished,",
+   "action": "Enoch kneels in the middle of the path and raises both open hands toward the sky in prayer; the camera slowly circles him; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow continuous drift around the group; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch; then archangels arriving one by one until there are exactly four archangels: Uriel, Raphael, Michael and Gabriel",
+ "action": "warm light breaks through; four archangels of light arrive one by one and one takes Enoch by the hand",
+ "environment": "the same path of kneeling Watchers; a warm golden light pours down from above into the grey scene",
+ "timeline": [
+  {
+   "t": "00:00-00:03",
+   "narration": "the angels who had not fallen took him by",
+   "action": "warm light pours down; Uriel steps out of the light and takes Enoch by the hand, lifting him to his feet"
+  },
+  {
+   "t": "00:03-00:05.5",
+   "narration": "the hand. Uriel was there, and Raphael",
+   "action": "a second archangel of light steps out of the glow and stands at Enoch's side"
+  },
+  {
+   "t": "00:05.5-00:08",
+   "narration": "stood with him, and Michael was present,",
+   "action": "a third archangel steps out of the glow and joins them"
+  },
+  {
+   "t": "00:08-00:10",
+   "narration": "and Gabriel was at his side.",
+   "action": "a fourth archangel steps out of the glow; exactly four archangels now stand with Enoch; the camera keeps drifting slowly; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; exactly four archangels at the end, never more; the Watchers stay where they are",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow rise through the warm glow, then a slow arc around the group; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly five figures: Enoch and the four archangels Uriel, Raphael, Michael and Gabriel",
+ "action": "the archangels stand around Enoch on a high ledge and each gestures toward the domain he rules",
+ "environment": "the path of kneeling Watchers -- then -- a high rocky ledge above the world; below, the dark chasm of Tartarus on one side and a distant valley with the tiny lamps of a human city on the other",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "Chapter twenty names them",
+   "action": "without any cut the camera rises through the warm glow around the group; as the glow thins, the five figures stand on a high rocky ledge above the world"
+  },
+  {
+   "t": "00:01.5-00:04",
+   "narration": "and gives their posts. Uriel stands",
+   "action": "the camera arcs slowly around the four archangels standing in a semicircle around Enoch"
+  },
+  {
+   "t": "00:04-00:07",
+   "narration": "over the world and over Tartarus. Raphael over",
+   "action": "Uriel gestures down toward the dark chasm; Raphael opens his hands and small soft lights like spirits rise gently around him"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "the spirits of men. Michael over the people.",
+   "action": "Michael gestures toward the distant valley where the lamps of a human city glow; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow continuous drift along the ledge; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch and four archangels; then two more archangels descend: exactly six archangels at the end",
+ "action": "Gabriel points to the distant paradise; two more archangels arrive",
+ "environment": "the same high ledge; far away on a mountain top a glowing green garden of paradise, guarded by winged cherubim of flame-like light",
+ "timeline": [
+  {
+   "t": "00:00-00:04",
+   "narration": "Gabriel over paradise and the serpents and the",
+   "action": "Gabriel raises his hand toward the distant glowing garden on the mountain, guarded by cherubim of fiery light"
+  },
+  {
+   "t": "00:04-00:07",
+   "narration": "cherubim. Raguel takes vengeance on",
+   "action": "a fifth archangel of light descends gently onto the ledge and joins the group"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "the world for the luminaries. Sariel",
+   "action": "a sixth archangel of light descends and joins them; the camera keeps drifting slowly; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; exactly six archangels at the end, never more",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow continuous drift that turns into a slow rise; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch and six archangels; then the seventh arrives: exactly seven archangels in one row with Enoch in the middle",
+ "action": "the seventh archangel arrives and the seven stand in a row with Enoch",
+ "environment": "the same high ledge above the world, clouds drifting below",
+ "timeline": [
+  {
+   "t": "00:00-00:04",
+   "narration": "is set over the spirits of mankind who sin in the spirit.",
+   "action": "a seventh archangel of light descends and lands at the end of the row"
+  },
+  {
+   "t": "00:04-00:10",
+   "narration": "Remiel over those who rise. These are not anonymous voices in a dream. They are named authorities",
+   "action": "the seven archangels stand in a solemn row with Enoch in the middle; the camera rises slowly, revealing the height of the ledge above the clouds; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; exactly seven archangels, never more; they stand still once in the row",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "the rise turns into a slow follow behind the group at walking pace; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: exactly eight figures: Enoch and the seven archangels, walking together",
+ "action": "the archangels lead Enoch along a path of light past the edge of the world",
+ "environment": "the ledge ends at the edge of the world; beyond it a path of soft light stretches out over an ocean of cloud under the stars",
+ "timeline": [
+  {
+   "t": "00:00-00:06",
+   "narration": "with assigned territories, and they lead Enoch past the edge of the known world. The text",
+   "action": "the archangels walk with Enoch onto the path of light, leaving the edge of the world behind; the ground falls away into cloud"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "doesn't say Enoch fell asleep. It says he was shown.",
+   "action": "the camera follows behind them as they walk out into the open sky; Enoch looks around in awe; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow glide alongside the group, then a slow tilt down; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch and the seven archangels walking past; exactly four giant stone gates",
+ "action": "they pass the colossal storehouses of the winds and the corner-stone of the earth",
+ "environment": "enormous stone gates standing in the clouds, the treasuries of the winds, with swirling winds and clouds moving inside them; far below, the colossal corner-stone of the earth",
+ "timeline": [
+  {
+   "t": "00:00-00:07",
+   "narration": "He saw the treasuries of all the winds, and how God had furnished the whole creation with",
+   "action": "the group walks past the giant stone gates; inside each gate winds swirl like living storms; the camera glides alongside"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "them. He saw the corner-stone of the earth.",
+   "action": "the camera tilts down to the colossal corner-stone of the earth far below; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; the stone gates are rigid; only the winds and clouds inside them move",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "flat printed-page framing, no lens effects",
+  "camera": "a slow rise and pull-back into a wide monumental view; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "Enoch: an old bearded prophet drawn in fine engraved cross-hatching, long robe and mantle, tall staff in his right hand; archangels: tall engraved angels with great feathered wings and gold-leaf icon halos, calm solemn faces in the Byzantine icon manner; fallen angels (Watchers): dark engraved hooded winged figures, partly flat black silhouettes - identical designs, sizes and colours throughout; in this clip: Enoch and the seven archangels, small; exactly four colossal pillars",
+ "action": "the final cosmic reveal: four pillars hold up the firmament while the sun and stars wheel to their setting",
+ "environment": "four enormous pillars rise from the earth and hold up the dome of the sky; winds spiral around them; the sun and all the stars move across the sky toward their setting",
+ "timeline": [
+  {
+   "t": "00:00-00:05",
+   "narration": "He saw the four winds that bear up the earth and the firmament of heaven. He saw the pillars",
+   "action": "the camera rises and pulls back: four colossal pillars hold up the firmament, winds spiralling around them"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "of heaven, and the winds that turn the sky and bring the sun and all the stars to their setting.",
+   "action": "the sun and the stars wheel slowly across the sky toward their setting; Enoch and the archangels stand small before the pillars; wide monumental final frame; the camera is still moving in the final frame"
+  }
+ ],
+ "style": "animated collage in the style of 19th-century steel engravings and Gustave Dore woodcut Bible illustrations: fine black cross-hatched line art on aged parchment tones, combined with gold-leaf Byzantine icon elements and flat black silhouette shapes; limited palette of parchment, sepia, black and burnished gold; subtle paper grain; moves like a slow living engraving",
+ "motion_style": "slow, solemn motion; engraved lines stay crisp and stable, hatching never flickers; the camera drifts slowly like a pan across a printed page",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; engraved lines and cross-hatching stay crisp and fixed, they never crawl, shimmer or flicker; gold leaf stays in place; figures move only slowly and minimally; exactly four pillars, rigid; the figures stay small and still",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no photoreal look, no bright saturated colours, no 3D, no cartoon faces"
+}

@@ -1,0 +1,475 @@
+{
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "slow lateral tracking at water level alongside the small ship; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the first frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly two vessels: the small intelligence ship (short stubby grey ex-cargo hull with rust streaks, one funnel, two tall antenna masts with wire aerials and direction-finding loops, no hull numbers) and one fast grey subchaser; a few silhouetted figures on deck, faces never visible",
+ "action": "a fast subchaser closes on the small American ship and comes alongside",
+ "environment": "flat grey Sea of Japan water under heavy low cloud",
+ "timeline": [
+  {
+   "t": "00:00-00:03.5",
+   "narration": "In 1968, North Korea seized an American vessel,",
+   "action": "the camera tracks alongside the small grey ship with its tall antenna masts; the subchaser approaches steadily from the right"
+  },
+  {
+   "t": "00:03.5-00:08",
+   "narration": "killed one sailor, and held eighty-two others captive for eleven months.",
+   "action": "the subchaser comes close alongside at the same speed; silhouetted figures stand still on both decks"
+  },
+  {
+   "t": "00:08-00:10",
+   "narration": "The ship was a small",
+   "action": "both ships sail on side by side through the flat grey water; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked deck steel, salt spray",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no gunfire, no smoke, no fire, no boarding yet"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "slow push-in toward the small ship's bridge, continuing past it toward the open sea; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly two vessels (the small intelligence ship and the subchaser); exactly one officer seen from behind on the open bridge wing, dark jacket and cap, face never visible",
+ "action": "the ship's commander watches from the bridge wing over waters his country called international",
+ "environment": "the small intelligence ship on flat grey water under heavy cloud, the subchaser alongside, open empty sea ahead",
+ "timeline": [
+  {
+   "t": "00:00-00:02",
+   "narration": "signals-intelligence vessel called USS Pueblo,",
+   "action": "the camera moves closer to the small ship: rust-streaked grey hull, antenna masts and wire aerials"
+  },
+  {
+   "t": "00:02-00:04",
+   "narration": "commanded by Lloyd Bucher,",
+   "action": "on the open bridge wing stands one officer seen from behind, looking toward the subchaser"
+  },
+  {
+   "t": "00:04-00:07",
+   "narration": "operating in waters the U.S. insisted were international.",
+   "action": "the camera drifts past him toward the open grey sea ahead: flat, empty water to the horizon"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "To free the crew, Washington signed a",
+   "action": "the push-in continues toward the flat horizon under the low cloud; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked deck steel, salt spray",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no gunfire, no smoke"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the forward push continues into the low cloud, then becomes a slow push-in across the desk toward the window; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: no people, no hands; one sheet of paper face-down, one fountain pen",
+ "action": "the confession that bought the crew's release; beyond it, the ship that never came home",
+ "environment": "the flat grey horizon -- then -- a plain wooden desk under one warm desk lamp in a dim room: one sheet of paper lying face-down, one fountain pen beside it, and behind the desk a window onto a grey harbour where a small grey ship lies moored",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "confession and immediately",
+   "action": "without any cut the camera flies on into the low grey cloud; the cloud thins and opens onto a plain wooden desk lit by one warm lamp"
+  },
+  {
+   "t": "00:01.5-00:04.5",
+   "narration": "disavowed it. But the real escalation is this:",
+   "action": "slow push-in on the desk: a single sheet of paper lying face-down, a fountain pen with its cap off beside it"
+  },
+  {
+   "t": "00:04.5-00:07",
+   "narration": "the ship itself was never returned.",
+   "action": "the camera keeps pushing in past the paper toward a window behind the desk showing a grey harbour at dusk"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "It remains the only commissioned U.S. Navy",
+   "action": "in the window a small grey ship with antenna masts lies moored at a concrete quay; the push-in continues toward the glass; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Document-table palette: neutral desk surface, one hard directional lamp, aged paper tones, matte steel, no colour cast beyond the lamp; grey dusk light in the window",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the paper, pen and desk are rigid; the paper stays face-down",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable writing, no text on the paper, no signatures, no hands, no people"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the push-in carries on through the open window out over the harbour, then glides close along the ship's bulkhead to the disc; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship (the small intelligence ship: short stubby grey ex-cargo hull, one funnel, two antenna masts, no hull numbers); one brass disc; no people",
+ "action": "the captured ship today, and the channel's disc on her bulkhead",
+ "environment": "the window view -- then -- a grey harbour under an overcast sky: the small intelligence ship moored alone at a concrete quay; close on her riveted grey bulkhead a plain round brass disc with a blank smooth face is bolted to the steel",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "vessel in foreign",
+   "action": "without any cut the camera passes through the open window and glides out over the grey harbour"
+  },
+  {
+   "t": "00:01.5-00:03.5",
+   "narration": "hands anywhere on earth. What",
+   "action": "the small grey ship lies moored alone at a concrete quay under the overcast sky, her antenna masts bare"
+  },
+  {
+   "t": "00:03.5-00:08",
+   "narration": "you are watching is simulated footage, rebuilt from the documented record.",
+   "action": "the camera glides close along her riveted grey bulkhead to a plain round brass disc with a completely blank, smooth face, verdigris at its edges, condensation on the metal"
+  },
+  {
+   "t": "00:08-00:10",
+   "narration": "Most people assume a captured",
+   "action": "the camera begins to pull back slowly from the disc; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey water, rust-streaked steel; condensation on the metal",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the disc face stays blank and smooth - the channel emblem is added in post; the moored ship is rigid and still",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no emblem, no engraving, no letters or numbers on the disc or hull, no flags"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "slow rising pull-back from the disc until the whole ship is in frame; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship (short stubby grey ex-cargo hull, one funnel, two tall antenna masts with wire aerials and direction-finding loops, no hull numbers, no guns visible); no people",
+ "action": "not a battleship, not a carrier: a small converted cargo ship",
+ "environment": "the grey harbour: the small intelligence ship moored alone at a concrete quay under an overcast sky",
+ "timeline": [
+  {
+   "t": "00:00-00:03.5",
+   "narration": "warship is a battleship or a carrier. The",
+   "action": "pulling back and up from the disc, the whole small ship comes into view: short, stubby, plainly not a warship"
+  },
+  {
+   "t": "00:03.5-00:05",
+   "narration": "Pueblo was neither. It",
+   "action": "she is small and unarmed, her deck crowded with antenna masts and direction-finding loops"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "was a cargo ship built in 1944 for the Army at a",
+   "action": "the camera keeps rising; the boxy cargo-ship hull and single funnel show her humble origin; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey water, rust-streaked steel",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the ship stays exactly the same size and shape; only the camera distance changes",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the rise continues into the overcast, then a slow high aerial drift that turns into a gentle descent toward the ship; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship, a small distant shape far below; no people visible",
+ "action": "two decades of hauling freight across the Pacific",
+ "environment": "the harbour from above -- then -- the open Pacific from high above: the same small ship far below crossing a vast grey ocean alone",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "shipyard in Kewaunee,",
+   "action": "without any cut the camera keeps rising into the low grey overcast; the cloud opens onto open ocean far below"
+  },
+  {
+   "t": "00:01.5-00:06",
+   "narration": "Wisconsin. For two decades it hauled freight across the Pacific. Then",
+   "action": "high aerial view: far below, the small ship crosses the vast grey Pacific alone, a thin white wake behind her"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "in April 1966, the Navy took it over, renamed",
+   "action": "the camera descends slowly toward her through thin cloud; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "overcast grey daylight, long grey swell, soft even light",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the ship keeps its exact shape and size",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no other ships, no aircraft, no land"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the descent turns into a slow orbit around the ship's masts at mast height; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship (the small intelligence ship); no people visible",
+ "action": "the cargo ship turned into a floating listening post",
+ "environment": "the small ship at sea under heavy cloud, seen at mast height: two tall antenna masts crowded with wire aerials, dipoles and direction-finding loops; a dark distant coastline on the horizon ahead",
+ "timeline": [
+  {
+   "t": "00:00-00:06",
+   "narration": "it, and converted it into something the Cold War needed more than cargo space: a",
+   "action": "the camera arrives at mast height and circles slowly around the tall antenna masts, wire aerials and direction-finding loops"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "signals-intelligence platform. The idea was simple: sail close enough",
+   "action": "the orbit continues; ahead of the ship a dark distant coastline appears on the horizon under heavy cloud; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; masts, aerials and loops are rigid and keep their exact number; wires may sway slightly",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the orbit descends past the masts into an open steel doorway, then a slow glide through the radio room; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: no people until 00:06.5; then exactly two operators seated with their backs to the camera, headphones on, faces never visible; exactly two tape recorders",
+ "action": "listening: pick up the traffic, record it, analyze it",
+ "environment": "the antenna masts at sea -- then -- a dim, cramped radio room inside the ship: rows of grey receivers with amber-lit dials and switches, two reel-to-reel tape recorders, cables along the bulkhead",
+ "timeline": [
+  {
+   "t": "00:00-00:03",
+   "narration": "to North Korea to pick up electronic",
+   "action": "the orbit continues around the masts; the wire aerials sway slightly in the wind"
+  },
+  {
+   "t": "00:03-00:04",
+   "narration": "and radio traffic,",
+   "action": "without any cut the camera descends past the masts and glides through an open steel doorway into the dim radio room"
+  },
+  {
+   "t": "00:04-00:06.5",
+   "narration": "record it, and analyze it. The",
+   "action": "inside, the reels of two tape recorders turn slowly; amber dials glow on rows of grey receivers"
+  },
+  {
+   "t": "00:06.5-00:10",
+   "narration": "crew wasn't supposed to fire weapons or start",
+   "action": "the camera glides past two operators seated with their backs to the camera, headphones on, leaning toward the receivers; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Interior mechanical palette: dark matte hull grey, amber tungsten instrument spill, damp metallic reflections",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; receivers and recorders are rigid; only the tape reels turn and dials glow steadily",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable labels, no numbers on dials, no screens with text, no faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "a slow glide past the operators, back out through the steel doorway, then a slow lateral move along the deck; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly two operators seen from behind (until 00:03); then no people; one small covered gun mount",
+ "action": "they were only meant to listen - and the ship itself was the weak point",
+ "environment": "the dim radio room -- then -- the ship's open grey deck at sea: thin rust-streaked plating, a low railing, one small gun mount under a canvas tarp",
+ "timeline": [
+  {
+   "t": "00:00-00:03",
+   "narration": "wars. They were just supposed to listen.",
+   "action": "one operator presses a headphone cup closer to his ear, otherwise motionless; the tape reels keep turning"
+  },
+  {
+   "t": "00:03-00:04.5",
+   "narration": "The problem sat in",
+   "action": "without any cut the camera glides back out through the open steel doorway onto the grey deck"
+  },
+  {
+   "t": "00:04.5-00:07",
+   "narration": "the ship itself. It moved slowly,",
+   "action": "out on deck: thin rust-streaked plating, a low railing, the grey sea sliding by slowly"
+  },
+  {
+   "t": "00:07-00:10",
+   "narration": "carried almost no weapons, and had no",
+   "action": "the camera passes a single small gun mount covered by a canvas tarp, the only weapon in sight; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "amber instrument spill inside, then Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked deck steel",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the gun stays covered by its tarp; nothing fires",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no gunfire, no weapons being handled, no faces"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the camera drifts out over the railing and down, then tracks along the hull just above the waterline toward the bow; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship; no people visible",
+ "action": "no armour, a bland designation, nothing that looks military",
+ "environment": "the side of the small ship at sea: thin plain grey hull plating with rust streaks, no markings, grey water sliding past",
+ "timeline": [
+  {
+   "t": "00:00-00:02",
+   "narration": "armor to speak of. The",
+   "action": "the camera drifts out over the railing and looks along the thin hull plating just above the waterline"
+  },
+  {
+   "t": "00:02-00:05",
+   "narration": "Navy gave it the designation AGER-2, which",
+   "action": "tracking toward the bow: plain grey paint, streaks of rust, no markings"
+  },
+  {
+   "t": "00:05-00:10",
+   "narration": "stood for Auxiliary General Environmental Research, a name so bland it almost",
+   "action": "the tracking continues along the bland, unremarkable hull; nothing about it looks military; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel, salt spray",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no hull numbers, no letters, no names"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "the tracking move turns into a slow upward tilt and rise toward the masts; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one ship; no people visible",
+ "action": "one look at the antennas gives the mission away",
+ "environment": "the bow of the small ship, then her superstructure and two tall antenna masts dense with aerials, dipoles and direction-finding loops against heavy grey cloud",
+ "timeline": [
+  {
+   "t": "00:00-00:01.5",
+   "narration": "concealed the mission. But",
+   "action": "the tracking reaches the bow"
+  },
+  {
+   "t": "00:01.5-00:06",
+   "narration": "anyone who looked at the antennas and the listening gear",
+   "action": "the camera rises and tilts up along the superstructure to the antenna masts, dense with aerials, dipoles and direction-finding loops"
+  },
+  {
+   "t": "00:06-00:10",
+   "narration": "knew what it was there to do. The Pueblo was",
+   "action": "the rise continues past the masts against the heavy grey cloud; the ship's true purpose is plain to see; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "Overcast maritime palette: flat slate-grey sky, iron-grey sea, rust-streaked steel",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; masts and aerials are rigid and keep their exact number",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies"
+}
+{
+ "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
+ "shot": {
+  "duration_s": 10,
+  "aspect": "16:9",
+  "resolution": "720p",
+  "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
+  "camera": "slow rising pull-back high above the small ship; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
+ },
+ "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly two ships: the small intelligence ship and one large distant grey warship silhouette",
+ "action": "cheap intelligence: the Navy's bigger, better ships were elsewhere",
+ "environment": "high above the grey sea: the small ship alone, and far away on the horizon a much larger grey warship passing",
+ "timeline": [
+  {
+   "t": "00:00-00:02.5",
+   "narration": "an experiment in cheap intelligence. The",
+   "action": "the camera rises and pulls back; the small ship becomes a lone shape on the grey sea"
+  },
+  {
+   "t": "00:02.5-00:08",
+   "narration": "Navy owned larger, faster, better-protected ships that could do the same job. But",
+   "action": "far away on the horizon a much larger grey warship silhouette passes at speed from left to right"
+  },
+  {
+   "t": "00:08-00:10",
+   "narration": "those ships were expensive, and",
+   "action": "the pull-back continues; the small ship and the distant large warship both small in the wide grey sea; the camera is still moving in the final frame"
+  }
+ ],
+ "lighting": "overcast grey daylight, iron-grey sea",
+ "style": "Photorealistic simulated-footage military-documentary recreation, never cartoon. Generic silhouetted or partially obscured figures only, faces never clear, no recognizable real people. Subtle film grain, restrained cinematic grade, crushed blacks.",
+ "motion_style": "military-documentary recreation realism: steady cinematic camera, restrained grade, natural light falloff, figures move slowly and naturally, never a clean CGI or game look",
+ "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; both ships keep their exact size and shape; only the camera distance changes",
+ "audio": "no audio",
+ "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no gunfire, no aircraft"
+}
