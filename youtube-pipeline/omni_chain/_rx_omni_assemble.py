@@ -63,17 +63,25 @@ def time_map(raw, cuts_then, cuts_now):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--channel", required=True)
-    ap.add_argument("--episode", required=True)
+    ap.add_argument("--channel")
+    ap.add_argument("--episode")
     ap.add_argument("--clips", required=True, help="folder with clip_001.mp4 ... (TurboFlow save folder)")
     ap.add_argument("--prefix", default="clip")
     ap.add_argument("--manifest", help="shotlist json (default: the episode's newest)")
-    ap.add_argument("--cuts-then", required=True,
+    ap.add_argument("--cuts-then",
                     help="the cuts.json the prompts were timed on (ch02 ep16: _v5\\\\sample_1-29_vol_level\\\\cuts.json), or 'estimate'")
     ap.add_argument("--cuts", help="FULL-episode real-voice cuts.json (default: the episode's _v5/*/cuts.json covering most shots)")
     ap.add_argument("--narration", help="narration_full.wav for a quick preview_with_vo.mp4")
     ap.add_argument("--out", help="output folder (default: <episode>/_v5/omni_full)")
+    ap.add_argument("--clips-upto", type=int, help="2-min sample: only clips 1..N (needs cuts covering them only)")
+    ap.add_argument("--audio", help="finished mix (mp4/wav) to lay under the picture: narration + bed + ducking as "
+                                    "picked at gates 2C/2D; trimmed to the picture with a 1.5 s fade-out")
+    ap.add_argument("--plain", action="store_true", help="no shotlist (ch03 tests): clips at 10 s each, as generated")
     a = ap.parse_args()
+    if a.plain:
+        return plain(a)
+    if not (a.channel and a.episode and a.cuts_then):
+        sys.exit("--channel, --episode and --cuts-then are required (or use --plain for ch03 tests)")
     tag = f"{a.channel}{a.episode}".upper()
     ep_dir = None
     if a.manifest:
@@ -83,7 +91,7 @@ def main():
         ep_dir, raw = manifest(a.channel, a.episode)
     raw = sorted(raw, key=lambda s: s["n"])
     cuts_now = json.loads(pathlib.Path(a.cuts).read_text(encoding="utf-8")) if a.cuts else (find_cuts(ep_dir) or (None, None))[1]
-    if not cuts_now or len(cuts_now) < len(raw):
+    if not cuts_now or (len(cuts_now) < len(raw) and not a.clips_upto):
         sys.exit(f"{tag}: need the FULL-episode cuts.json ({len(raw)} shots) - build the full narration first")
     cuts_then = None if a.cuts_then == "estimate" else json.loads(pathlib.Path(a.cuts_then).read_text(encoding="utf-8"))
     f, end_then, end_now = time_map(raw, cuts_then, cuts_now)
@@ -92,11 +100,17 @@ def main():
     src = pathlib.Path(a.clips)
     clips = sorted(src.glob(f"{a.prefix}_[0-9][0-9][0-9].mp4"))
     n_need = int(-(-end_then // CLIP_S))
+    if a.clips_upto:
+        n_need = min(n_need, a.clips_upto)
+        covered = timing(raw, cuts_now)[len(cuts_now) - 1][2]
+        if n_need * CLIP_S > timing(raw, cuts_then)[len(cuts_now) - 1][2] or f(n_need * CLIP_S) > covered + 0.5:
+            sys.exit(f"{tag}: clips 1-{n_need} run past the real voice in cuts.json ({covered:.0f} s)")
     have = {int(p.stem.split("_")[-1]) for p in clips}
     missing = [k for k in range(1, n_need + 1) if k not in have]
     if missing:
         sys.exit(f"{tag}: missing clips {missing[:10]}{'...' if len(missing) > 10 else ''} in {src}")
-    out = pathlib.Path(a.out) if a.out else (ep_dir / "_v5" / "omni_full" if ep_dir else pathlib.Path("omni_full"))
+    sub = f"omni_sample_1-{n_need}" if a.clips_upto else "omni_full"
+    out = pathlib.Path(a.out) if a.out else (ep_dir / "_v5" / sub if ep_dir else pathlib.Path(sub))
     seg_dir = out / "seg"
     seg_dir.mkdir(parents=True, exist_ok=True)
 
@@ -127,11 +141,49 @@ def main():
                                                         "picture_s": round(duration(ff, picture), 2), "clips": report}, indent=1), encoding="utf-8")
     print(f"{tag}: {len(segs)} clips -> {picture} ({duration(ff, picture):.1f} s, narration {end_now:.1f} s); "
           f"{sum(1 for r in report if r['flag'])} clips outside 0.8-1.25x")
+    if a.audio:
+        mux(ff, picture, a.audio, out / f"{tag}_{sub}.mp4")
     if a.narration:
         prev = out / "preview_with_vo.mp4"
         subprocess.run([ff, "-y", "-v", "error", "-i", str(picture), "-i", a.narration, "-map", "0:v", "-map", "1:a",
                         "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", str(prev)], check=True)
         print(f"preview (timing check only, not the master): {prev}")
+
+
+def mux(ff, picture, audio, dst):
+    """Picture + an existing finished mix. The mix already carries narration, bed and ducking/level
+    (gates 2C/2D), so it is taken as is - only trimmed to the picture with a short fade-out."""
+    d = duration(ff, picture)
+    subprocess.run([ff, "-y", "-v", "error", "-i", str(picture), "-i", str(audio), "-map", "0:v", "-map", "1:a:0",
+                    "-af", f"atrim=0:{d:.3f},afade=t=out:st={max(0, d - 1.5):.3f}:d=1.5",
+                    "-c:v", "copy", "-c:a", "aac", "-b:a", "256k", "-shortest", str(dst)], check=True)
+    print(f"sample with audio: {dst}")
+
+
+def plain(a):
+    """ch03 archetype tests: no shotlist; the clips were written on an even 10 s grid of the narration."""
+    ff = ffmpeg()
+    src = pathlib.Path(a.clips)
+    n = a.clips_upto or len(list(src.glob(f"{a.prefix}_[0-9][0-9][0-9].mp4")))
+    out = pathlib.Path(a.out or f"{a.prefix}_sample")
+    (out / "seg").mkdir(parents=True, exist_ok=True)
+    segs = []
+    for k in range(1, n + 1):
+        clip = src / f"{a.prefix}_{k:03d}.mp4"
+        if not clip.exists():
+            sys.exit(f"missing {clip}")
+        seg = out / "seg" / f"seg_{k:03d}.mp4"
+        subprocess.run([ff, "-y", "-v", "error", "-t", f"{CLIP_S:.3f}", "-i", str(clip), "-an",
+                        "-vf", f"fps={FPS},scale=1920:1080:flags=lanczos,setsar=1",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "17", "-pix_fmt", "yuv420p", str(seg)], check=True)
+        segs.append(seg)
+    lst = out / "seg" / "concat.txt"
+    lst.write_text("".join(f"file '{p.as_posix()}'\n" for p in segs), encoding="utf-8")
+    picture = out / "picture.mp4"
+    subprocess.run([ff, "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(picture)], check=True)
+    print(f"{a.prefix}: {n} clips -> {picture} ({duration(ff, picture):.1f} s)")
+    if a.audio:
+        mux(ff, picture, a.audio, out / f"{a.prefix}_sample_2min.mp4")
 
 
 if __name__ == "__main__":
