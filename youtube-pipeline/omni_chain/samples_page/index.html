@@ -51,7 +51,7 @@ footer{color:var(--muted);font-size:13px;max-width:75ch}
 <div class="wrap">
   <header>
     <h1>Omni Sample Packs</h1>
-    <p>Eight 2-minute samples for the new chain method: one first frame, then 12 Omni Flash clips of 10 s, each continuing from the last frame of the one before. Copy the first-frame prompt into TurboFlow (Image, Nano Banana Pro, x2), then paste all 12 prompts into one Video batch with "Continue from last frame" on.</p>
+    <p>Eight 2-minute samples for the new chain method: one first frame, then 12 Omni Flash clips of 10 s, each continuing from the last frame of the one before. Claude makes each first frame on AI33 (top image model, 4K, high quality) and picks from two variants. Use it as the start frame, then paste the clip prompts into one Omni Flash Video batch with "Continue from last frame" on.</p>
     <div class="method">
       <span>Omni Flash · 16:9 · 10s · 720p</span><span>Start frame → continue from last frame</span><span>1080p Upscale on download</span><span>Queue row must show "continuous"</span>
     </div>
@@ -72,6 +72,9 @@ footer{color:var(--muted);font-size:13px;max-width:75ch}
 
 <script>
 const PACKS = [
+  {grp:"episodes", tag:"CH02EP16", id:"CH02EP16_all", clips:"001-112", count:112, noFirst:true, name:"Chronicle Zero · ROKS Cheonan · FULL EPISODE, one batch (posting 26 Sep)",
+   note:"All 112 clips in one chained batch, no sample stop. Start frame = CH02EP16_first_frame.png, which Claude makes on AI33 (top image model, 4K, high) and picks from 2 variants. Clips 1–12 are on the real voice, 13–112 on the estimate; the assembler stretches them onto the full narration.",
+   pills:[["real","1–12 real voice"],["est","13–112 estimate"],["plain","folder ch02ep16-omni"],["plain","start number 1"]]},
   {grp:"episodes", tag:"CH01EP19", name:"Ancient Earth · When Earth Got So Hot Every Animal Shrank",
    note:"Sifrhippus in the Eocene forest → fossil jaw in the badlands → medallion (logo in post) → the green basin from the air → crocodile swamp → braided floodplain → the type-section rock wall. 3 scene changes, all camera bridges.",
    pills:[["real","real voice"],["plain","folder ch01ep19-omni"],["plain","prefix clip"]]},
