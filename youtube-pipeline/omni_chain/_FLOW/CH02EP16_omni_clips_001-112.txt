@@ -1334,12 +1334,12 @@
   "aspect": "16:9",
   "resolution": "720p",
   "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
-  "camera": "the murk darkens into a dim command room, then a slow push-in toward the chart table; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "camera": "the murk darkens into a dim command room, then a slow push-in toward the table with the relief model; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
   "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one sea mine; no people, no divers (until 00:00); then exactly four officer silhouettes standing around the table, faces never visible",
  "action": "a choice for naval command",
- "environment": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+ "environment": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
  "timeline": [
   {
    "t": "00:00-00:01.5",
@@ -1349,12 +1349,12 @@
   {
    "t": "00:01.5-00:07.5",
    "narration": "the explosion, South Korean naval command faced a choice that would shape everything that followed.",
-   "action": "slow push-in toward four officer silhouettes standing around a large table with a blank sea chart"
+   "action": "slow push-in toward four officer silhouettes standing around a large table with a plain relief model of the island"
   },
   {
    "t": "00:07.5-00:10",
    "narration": "They could treat this as a",
-   "action": "one officer leans forward over the chart, otherwise motionless; the camera is still moving in the final frame"
+   "action": "one officer leans forward over the relief model, otherwise motionless; the camera is still moving in the final frame"
   }
  ],
  "lighting": "murky filtered light, suspended particles; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
@@ -1363,7 +1363,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the mine keeps its exact shape; it never explodes",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the chart, no numbers, no flags"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -1372,22 +1372,22 @@
   "aspect": "16:9",
   "resolution": "720p",
   "lens": "documentary cinema camera, 35-50 mm lens, deep focus, natural documentary contrast",
-  "camera": "slow arc around the chart table; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
+  "camera": "slow arc around the relief-model table; one smooth continuous move in one unbroken take: it starts gently, then keeps one constant speed - no sudden acceleration, no stop, no slow-down or settle at the end; the camera is still moving in the final frame",
   "framing": "start exactly on the current frame; the main subject stays fully inside the frame"
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly four officer silhouettes standing around the table, faces never visible",
  "action": "accident or attack",
- "environment": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+ "environment": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
  "timeline": [
   {
    "t": "00:00-00:04",
    "narration": "tragic accident, which would mean mourning and moving on.",
-   "action": "the arc passes behind the officers; the lamp light falls on the blank chart"
+   "action": "the arc passes behind the officers; the lamp light falls on the grey relief model"
   },
   {
    "t": "00:04-00:10",
    "narration": "Or they could treat it as an attack, which meant raising the wreck, investigating the",
-   "action": "a single small black marker stands on the chart beside the island's outline; the camera is still moving in the final frame"
+   "action": "a single small black pin stands on the relief model beside the island; the camera is still moving in the final frame"
   }
  ],
  "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
@@ -1396,7 +1396,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the chart, no numbers, no flags"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -1410,17 +1410,17 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly four officer silhouettes standing around the table, faces never visible",
  "action": "they chose to raise the ship",
- "environment": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+ "environment": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
  "timeline": [
   {
    "t": "00:00-00:07",
    "narration": "cause, and risking a military escalation on the Korean peninsula. They chose to raise the ship.",
-   "action": "the four officers stand still around the chart as the arc continues"
+   "action": "the four officers stand still around the relief model as the arc continues"
   },
   {
    "t": "00:07-00:10",
    "narration": "The wreck of ROKS Cheonan came to rest",
-   "action": "the arc comes round to the marker on the chart; the camera is still moving in the final frame"
+   "action": "the arc comes round to the black pin on the relief model; the camera is still moving in the final frame"
   }
  ],
  "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
@@ -1429,7 +1429,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the chart, no numbers, no flags"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -1443,7 +1443,7 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly four officer silhouettes standing around the table, faces never visible (until 00:00); then the stern section; exactly two divers seen from behind, masks on, faces never visible",
  "action": "45 metres down; recovery begins",
- "environment": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+ "environment": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
  "timeline": [
   {
    "t": "00:00-00:01.5",
@@ -1467,7 +1467,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the stern section is rigid and never moves",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the chart, no numbers, no flags, no bodies, no readable markings"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags, no bodies, no readable markings"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -3480,7 +3480,7 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: no people (until 00:00.5); then exactly one academic silhouette seen from behind at the desk, face never visible",
  "action": "a minority of academics had doubts",
- "environment": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table -- then -- a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+ "environment": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table -- then -- a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
  "timeline": [
   {
    "t": "00:00-00:00.5",
@@ -3495,7 +3495,7 @@
   {
    "t": "00:02-00:10",
    "narration": "raised questions about the JIG's analysis. Some pointed to inconsistencies in the report's technical conclusions, and others questioned whether",
-   "action": "one silhouetted figure sits at the desk, bent over a thick report under the lamp; the camera is still moving in the final frame"
+   "action": "one silhouetted figure sits at the desk, one hand resting on the closed report under the lamp; the camera is still moving in the final frame"
   }
  ],
  "lighting": "one warm amber glow in darkness; then Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
@@ -3504,7 +3504,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera; the radio is rigid; its glow is steady",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable dial text, no flicker, no readable text on the papers"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable dial text, no flicker, no loose papers, no open pages, no diagrams, no screens, no text anywhere"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -3518,17 +3518,17 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one academic silhouette seen from behind at the desk, face never visible",
  "action": "did the evidence prove it",
- "environment": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+ "environment": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
  "timeline": [
   {
    "t": "00:00-00:04",
    "narration": "the evidence truly proved North Korean involvement beyond doubt.",
-   "action": "slow push-in over the figure's shoulder to papers with hull diagrams, no text"
+   "action": "slow push-in over the figure's shoulder to the small scale model of the broken hull"
   },
   {
    "t": "00:04-00:10",
    "narration": "The JIG attributed its findings to the physical evidence it had gathered, but the dissenting",
-   "action": "the figure leans back and stays still, the lamp light on the pages; the camera is still moving in the final frame"
+   "action": "the figure leans back and stays still, the lamp light on the scale model; the camera is still moving in the final frame"
   }
  ],
  "lighting": "Document-table palette: neutral surface, one hard directional lamp, matte steel, no colour cast beyond the lamp",
@@ -3537,7 +3537,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the papers"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no loose papers, no open pages, no diagrams, no screens, no text anywhere"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -3551,12 +3551,12 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one academic silhouette seen from behind at the desk, face never visible",
  "action": "too quick from explosion to attribution",
- "environment": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+ "environment": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
  "timeline": [
   {
    "t": "00:00-00:06",
    "narration": "voices argued that the investigation had moved too quickly from explosion to attribution, and",
-   "action": "slow arc around the desk; papers spread out under the lamp"
+   "action": "slow arc around the desk; the closed report and the scale model under the lamp"
   },
   {
    "t": "00:06-00:10",
@@ -3570,7 +3570,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the papers"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no loose papers, no open pages, no diagrams, no screens, no text anywhere"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",
@@ -3584,7 +3584,7 @@
  },
  "subject": "figures are generic silhouettes or seen from behind, faces never visible, no recognizable real people; ships, boats and equipment keep their exact shape, size, colour and number for the whole clip; in this clip: exactly one academic silhouette seen from behind at the desk, face never visible (until 00:00.5); then exactly one sonar operator seen from behind, headphones on, face never visible",
  "action": "no direct contact was ever established",
- "environment": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+ "environment": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
  "timeline": [
   {
    "t": "00:00-00:00.5",
@@ -3608,7 +3608,7 @@
  "continuity": "every object, figure, animal and vehicle keeps its exact shape, size, colour and count for the whole clip; things passing the frame edges keep their exact shape as they leave; background structures and scenery are rigid and never deform; nothing appears out of thin air or vanishes; nothing floats unless it floats in reality; light direction and colour grade stay constant; ships stay on the water at a steady heading and speed unless a beat says otherwise; hulls, masts and antennas never bend, merge or duplicate; water, spray and silt behave physically; figures never change clothing or turn their faces to the camera",
  "audio": "no audio",
  "additional_details": "silent visual scene for a voice-over narration; nobody speaks and no mouth moves; the narration lines are the story to show, never text on screen; the final frame is a sharp, clean frame of one scene with the main subject fully visible, because the next clip starts from it",
- "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no readable text on the papers, no readable screens, no numbers, no letters on displays or consoles"
+ "negative": "no text, no letters, no numbers, no subtitles, no captions, no logos, no watermark, no black bars, no letterbox, no pillarbox, no border, no split-screen, no picture-in-picture, no camera HUD, no timestamp, no cuts, no dissolves, no morphing, no warping, no melting, no flicker, no strobing, no sudden lighting change, no camera stop, no camera shake, no sudden acceleration, no floating objects, no objects appearing from nowhere, no extra limbs, no duplicated objects, no motion blur on the last frame, no recognizable faces, no face turned to camera, no names or numbers painted on hulls, no readable flags, insignia, labels or documents, no weapons firing, no fire, no gore, no bodies, no loose papers, no open pages, no diagrams, no screens, no text anywhere, no readable screens, no numbers, no letters on displays or consoles"
 }
 {
  "continue_from": "continue seamlessly from the current frame: same place, same subjects in the same positions, same lighting, colour grade, camera direction and camera speed - no cut, no jump",

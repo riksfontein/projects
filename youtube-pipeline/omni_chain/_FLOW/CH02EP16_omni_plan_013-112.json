@@ -520,10 +520,10 @@
    "rigid": "the mine keeps its exact shape; it never explodes"
   },
   {
-   "env": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "env": "murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt -- then -- a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
    "cast": "exactly one sea mine; no people, no divers (until 00:00); then exactly four officer silhouettes standing around the table, faces never visible",
    "action": "a choice for naval command",
-   "camera": "the murk darkens into a dim command room, then a slow push-in toward the chart table",
+   "camera": "the murk darkens into a dim command room, then a slow push-in toward the table with the relief model",
    "lighting": "murky filtered light, suspended particles; then Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
    "beats": [
     [
@@ -532,37 +532,37 @@
     ],
     [
      "00:01.5-00:07.5",
-     "slow push-in toward four officer silhouettes standing around a large table with a blank sea chart"
+     "slow push-in toward four officer silhouettes standing around a large table with a plain relief model of the island"
     ],
     [
      "00:07.5-00:10",
-     "one officer leans forward over the chart, otherwise motionless"
+     "one officer leans forward over the relief model, otherwise motionless"
     ]
    ],
    "change_at": 0.0,
-   "neg": "no readable text on the chart, no numbers, no flags",
+   "neg": "no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags",
    "rigid": "the mine keeps its exact shape; it never explodes"
   },
   {
-   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "env": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
    "cast": "exactly four officer silhouettes standing around the table, faces never visible",
    "action": "accident or attack",
-   "camera": "slow arc around the chart table",
+   "camera": "slow arc around the relief-model table",
    "lighting": "Interior mechanical palette: dark matte grey steel, amber tungsten instrument spill, soft green display glow",
    "beats": [
     [
      "00:00-00:04",
-     "the arc passes behind the officers; the lamp light falls on the blank chart"
+     "the arc passes behind the officers; the lamp light falls on the grey relief model"
     ],
     [
      "00:04-00:10",
-     "a single small black marker stands on the chart beside the island's outline"
+     "a single small black pin stands on the relief model beside the island"
     ]
    ],
-   "neg": "no readable text on the chart, no numbers, no flags"
+   "neg": "no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags"
   },
   {
-   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp",
+   "env": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp",
    "cast": "exactly four officer silhouettes standing around the table, faces never visible",
    "action": "they chose to raise the ship",
    "camera": "the slow arc continues",
@@ -570,17 +570,17 @@
    "beats": [
     [
      "00:00-00:07",
-     "the four officers stand still around the chart as the arc continues"
+     "the four officers stand still around the relief model as the arc continues"
     ],
     [
      "00:07-00:10",
-     "the arc comes round to the marker on the chart"
+     "the arc comes round to the black pin on the relief model"
     ]
    ],
-   "neg": "no readable text on the chart, no numbers, no flags"
+   "neg": "no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags"
   },
   {
-   "env": "a dim naval command room at night: a large table with a blank sea chart showing only coastline shapes and depth lines, one low lamp -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
+   "env": "a dim naval command room at night: a large table with a plain unmarked dark-grey relief model of the island and the seabed, one low lamp -- then -- the dark seabed about 45 m down: the broken stern section of the corvette lying on muddy grey silt, torn steel edges, a debris field around it",
    "cast": "exactly four officer silhouettes standing around the table, faces never visible (until 00:00); then the stern section; exactly two divers seen from behind, masks on, faces never visible",
    "action": "45 metres down; recovery begins",
    "camera": "the lamp light fades and the view sinks into deep water, then a slow descent toward the stern",
@@ -600,7 +600,7 @@
     ]
    ],
    "change_at": 0.0,
-   "neg": "no readable text on the chart, no numbers, no flags, no bodies, no readable markings",
+   "neg": "no paper, no maps, no charts, no screens, no text or numbers anywhere, no flags, no bodies, no readable markings",
    "rigid": "the stern section is rigid and never moves"
   },
   {
@@ -1780,7 +1780,7 @@
    "rigid": "the radio is rigid; its glow is steady"
   },
   {
-   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table -- then -- a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "env": "a dark room: an old radio receiver with a softly glowing amber dial on a wooden table -- then -- a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
    "cast": "no people (until 00:00.5); then exactly one academic silhouette seen from behind at the desk, face never visible",
    "action": "a minority of academics had doubts",
    "camera": "the amber glow widens into a desk lamp, then a slow push-in",
@@ -1796,15 +1796,15 @@
     ],
     [
      "00:02-00:10",
-     "one silhouetted figure sits at the desk, bent over a thick report under the lamp"
+     "one silhouetted figure sits at the desk, one hand resting on the closed report under the lamp"
     ]
    ],
    "change_at": 0.5,
-   "neg": "no readable dial text, no flicker, no readable text on the papers",
+   "neg": "no readable dial text, no flicker, no loose papers, no open pages, no diagrams, no screens, no text anywhere",
    "rigid": "the radio is rigid; its glow is steady"
   },
   {
-   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "env": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
    "cast": "exactly one academic silhouette seen from behind at the desk, face never visible",
    "action": "did the evidence prove it",
    "camera": "slow push-in over the figure's shoulder",
@@ -1812,17 +1812,17 @@
    "beats": [
     [
      "00:00-00:04",
-     "slow push-in over the figure's shoulder to papers with hull diagrams, no text"
+     "slow push-in over the figure's shoulder to the small scale model of the broken hull"
     ],
     [
      "00:04-00:10",
-     "the figure leans back and stays still, the lamp light on the pages"
+     "the figure leans back and stays still, the lamp light on the scale model"
     ]
    ],
-   "neg": "no readable text on the papers"
+   "neg": "no loose papers, no open pages, no diagrams, no screens, no text anywhere"
   },
   {
-   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text",
+   "env": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk",
    "cast": "exactly one academic silhouette seen from behind at the desk, face never visible",
    "action": "too quick from explosion to attribution",
    "camera": "slow arc around the desk",
@@ -1830,17 +1830,17 @@
    "beats": [
     [
      "00:00-00:06",
-     "slow arc around the desk; papers spread out under the lamp"
+     "slow arc around the desk; the closed report and the scale model under the lamp"
     ],
     [
      "00:06-00:10",
      "the arc continues toward the dark window"
     ]
    ],
-   "neg": "no readable text on the papers"
+   "neg": "no loose papers, no open pages, no diagrams, no screens, no text anywhere"
   },
   {
-   "env": "a quiet study at night: a desk lamp, stacks of papers, a thick report with a blank cover, printed hull diagrams without any text -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
+   "env": "a quiet study at night: a desk lamp, a closed thick report with a plain blank cover, a small grey scale model of the broken corvette hull on the desk -- then -- a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel",
    "cast": "exactly one academic silhouette seen from behind at the desk, face never visible (until 00:00.5); then exactly one sonar operator seen from behind, headphones on, face never visible",
    "action": "no direct contact was ever established",
    "camera": "through the dark window the view becomes the green glow of a sonar display",
@@ -1860,7 +1860,7 @@
     ]
    ],
    "change_at": 0.5,
-   "neg": "no readable text on the papers, no readable screens, no numbers, no letters on displays or consoles"
+   "neg": "no loose papers, no open pages, no diagrams, no screens, no text anywhere, no readable screens, no numbers, no letters on displays or consoles"
   },
   {
    "env": "a cramped dark sonar compartment: one console with a round green display showing only a soft sweeping line and faint grainy noise, cables along grey steel -- then -- murky grey-green water: an old rusted spiked sea mine swaying slowly on its chain above the silt",
